@@ -1,0 +1,50 @@
+name: Update ROOM analytics data
+
+on:
+  schedule:
+    - cron: '0 */8 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: room-analytics-update
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run ROOM data collector
+        run: |
+          python room_collector.py --output room_data.json --inject --html index.html --max-pages 3 --timeout 10 --no-sleep
+
+      - name: Show generated changes
+        run: |
+          git status --short
+
+      - name: Commit and push updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin "${GITHUB_REF_NAME:-main}" || true
+          git add room_data.json index.html
+          if git diff --cached --quiet; then
+            echo "No data changes detected."
+          else
+            git commit -m "chore: update ROOM analytics data"
+            git push origin "HEAD:${GITHUB_REF_NAME:-main}"
+          fi

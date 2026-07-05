@@ -21,6 +21,7 @@ import gzip
 import sys
 from collections import defaultdict
 from datetime import datetime, timezone
+from zoneinfo import ZoneInfo
 
 # ── Product definitions ────────────────────────────────────────────────────────
 SHOP_NAME = "aokinomori楽天市場店"
@@ -42,7 +43,7 @@ PRODUCTS = [
         "item_url": "https://item.rakuten.co.jp/aokinomori/mycwhite/",
         "item_code": "mycwhite",
         "keyword": "ホワイトプラス",
-        "max_pages": 100,   # 96k total → cap scan
+        "max_pages": 10,
     },
     {
         "item_id": "P003",
@@ -106,10 +107,12 @@ API_BASE = "https://room.rakuten.co.jp/api"
 PAGE_LIMIT = 20
 SLEEP_BETWEEN_PAGES = 0.5   # seconds
 SLEEP_BETWEEN_PRODUCTS = 1.0
+DEFAULT_MAX_PAGES = 10
+DEFAULT_API_TIMEOUT = 15
 
 
 # ── HTTP helper ────────────────────────────────────────────────────────────────
-def api_get(path, params=None):
+def api_get(path, params=None, timeout=DEFAULT_API_TIMEOUT):
     url = API_BASE + path
     if params:
         url += "?" + urllib.parse.urlencode(params)
@@ -123,7 +126,7 @@ def api_get(path, params=None):
         "Accept-Language": "ja-JP,ja;q=0.9",
         "Referer": "https://room.rakuten.co.jp/",
     })
-    with urllib.request.urlopen(req, timeout=20) as resp:
+    with urllib.request.urlopen(req, timeout=timeout) as resp:
         data = resp.read()
         if resp.headers.get("Content-Encoding") == "gzip":
             data = gzip.decompress(data)
@@ -131,12 +134,12 @@ def api_get(path, params=None):
 
 
 # ── Core collection logic ──────────────────────────────────────────────────────
-def collect_product(product, verbose=True):
-    """Fetch all ROOM posts for a single product. Returns list of raw post dicts."""
+def collect_product(product, verbose=True, max_pages=None, timeout=DEFAULT_API_TIMEOUT, sleep_between_pages=SLEEP_BETWEEN_PAGES):
+    """Fetch ROOM posts for a single product. Returns list of raw post dicts."""
     item_url = product["item_url"].rstrip("/") + "/"  # normalise trailing slash
     keyword = product["keyword"]
     item_code = product["item_code"]
-    max_pages = product.get("max_pages", None)  # optional cap
+    max_pages = max_pages if max_pages is not None else product.get("max_pages", DEFAULT_MAX_PAGES)
 
     if verbose:
         print(f"  Searching: {product['item_short']} (keyword={keyword!r})", flush=True)
@@ -153,7 +156,7 @@ def collect_product(product, verbose=True):
             "page": page,
         }
         try:
-            resp = api_get("/collect/search", params)
+            resp = api_get("/collect/search", params, timeout=timeout)
         except Exception as exc:
             print(f"    [ERROR] page={page}: {exc}", file=sys.stderr)
             break
@@ -169,10 +172,10 @@ def collect_product(product, verbose=True):
         if total_pages is None:
             total_count = resp.get("count", 0)
             total_pages = (total_count + PAGE_LIMIT - 1) // PAGE_LIMIT
-            if max_pages:
+            if max_pages is not None:
                 total_pages = min(total_pages, max_pages)
             if verbose:
-                cap_note = f", capped at {max_pages}" if max_pages and total_count // PAGE_LIMIT >= max_pages else ""
+                cap_note = f", capped at {max_pages}" if max_pages is not None and total_count // PAGE_LIMIT >= max_pages else ""
                 print(f"    Total posts in ROOM for keyword: {total_count} ({total_pages} pages{cap_note})", flush=True)
 
         # Filter to only this shop's specific product, deduplicate by post ID
@@ -197,7 +200,8 @@ def collect_product(product, verbose=True):
         if page >= total_pages:
             break
         page += 1
-        time.sleep(SLEEP_BETWEEN_PAGES)
+        if sleep_between_pages > 0:
+            time.sleep(sleep_between_pages)
 
     if verbose:
         print(f"    → {len(posts)} posts matched for {product['item_short']}", flush=True)
@@ -424,6 +428,10 @@ def inject_into_html(data_obj, html_path="index.html"):
 
 
 # ── Main ───────────────────────────────────────────────────────────────────────
+def get_generated_at():
+    return datetime.now(ZoneInfo("Asia/Tokyo")).strftime("%Y-%m-%d %H:%M JST")
+
+
 def main():
     parser = argparse.ArgumentParser(description="Collect Rakuten ROOM data for aokinomori shop.")
     parser.add_argument("--output", "-o", default="room_data.json", help="Output JSON path")
@@ -431,9 +439,12 @@ def main():
     parser.add_argument("--html", default="index.html", help="Path to index.html for --inject")
     parser.add_argument("--dry-run", action="store_true", help="Print summary without saving")
     parser.add_argument("--product", "-p", help="Only collect this product (item_short)")
+    parser.add_argument("--max-pages", type=int, default=None, help="Maximum number of pages to scan per product")
+    parser.add_argument("--timeout", type=int, default=DEFAULT_API_TIMEOUT, help="HTTP timeout in seconds for each request")
+    parser.add_argument("--no-sleep", action="store_true", help="Disable delay between pages")
     args = parser.parse_args()
 
-    generated_at = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    generated_at = get_generated_at()
 
     targets = PRODUCTS
     if args.product:
@@ -449,9 +460,15 @@ def main():
     all_posts = {}
     for i, product in enumerate(targets, 1):
         print(f"[{i}/{len(targets)}] {product['item_short']}")
-        posts = collect_product(product, verbose=True)
+        posts = collect_product(
+            product,
+            verbose=True,
+            max_pages=args.max_pages,
+            timeout=args.timeout,
+            sleep_between_pages=0 if args.no_sleep else SLEEP_BETWEEN_PAGES,
+        )
         all_posts[product["item_id"]] = posts
-        if i < len(targets):
+        if i < len(targets) and not args.no_sleep:
             time.sleep(SLEEP_BETWEEN_PRODUCTS)
 
     print()
