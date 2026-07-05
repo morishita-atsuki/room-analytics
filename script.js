@@ -1,65 +1,99 @@
-const shopData = {
-  shopName: 'さくらマーケット楽天市場店',
-  shopCode: 'sakura-market-rakuten',
-  updatedAt: '2026-06-29 19:00',
-  targetProducts: ['リノクル','ビタスポットセラム','マイシースキニティジェルバームクレンジング','ビアス','ハーブラピール','レチノソームショット','ホワイトプラス','ハーバニエンス'],
-  kpis: [
-    { label: '総投稿数', value: '1,248 件' },
-    { label: '総いいね数', value: '24,180' },
-    { label: '平均いいね/投稿', value: '19' },
-    { label: '投稿者数', value: '912 人' },
-    { label: '商品数', value: '14 点' },
-    { label: 'コメント/リコレクト', value: '132 / 158' },
-  ],
-  daily: [
-    { label: '6/23', posts: 36, likes: 410 },
-    { label: '6/24', posts: 44, likes: 510 },
-    { label: '6/25', posts: 52, likes: 620 },
-    { label: '6/26', posts: 58, likes: 760 },
-    { label: '6/27', posts: 63, likes: 820 },
-    { label: '6/28', posts: 71, likes: 910 },
-  ],
-  share: [
-    { label: '桜あんみつ', value: 28 },
-    { label: '季節の和菓子詰合せ', value: 22 },
-    { label: '抹茶白玉', value: 17 },
-    { label: '桜餅セット', value: 13 },
-    { label: '和菓子ギフト', value: 10 },
-  ],
-  efficiency: [
-    { label: '桜あんみつ', value: 24 },
-    { label: '季節の和菓子詰合せ', value: 20 },
-    { label: '抹茶白玉', value: 18 },
-    { label: '桜餅セット', value: 16 },
-    { label: '和菓子ギフト', value: 12 },
-  ],
-  products: [
-    { name: '桜あんみつ', posts: 142, likes: 3,420, efficiency: 24 },
-    { name: '季節の和菓子詰合せ', posts: 118, likes: 2,760, efficiency: 23 },
-    { name: '抹茶白玉', posts: 96, likes: 1,920, efficiency: 20 },
-    { name: '桜餅セット', posts: 84, likes: 1,520, efficiency: 18 },
-  ],
-  users: [
-    { name: 'miyako_28', posts: 48, likes: 1,100 },
-    { name: 'sakura_bean', posts: 41, likes: 910 },
-    { name: 'haru_shop', posts: 36, likes: 780 },
-    { name: 'yamae', posts: 31, likes: 690 },
-  ],
-  posts: [
-    { title: '春限定の桜あんみつを紹介', likes: 168, date: '6/28' },
-    { title: '和菓子詰合せの見栄えが良い点', likes: 142, date: '6/27' },
-    { title: '抹茶白玉の食感を再現したい', likes: 121, date: '6/26' },
-  ],
-  trend: [
-    { label: '月', value: 65 },
-    { label: '火', value: 72 },
-    { label: '水', value: 88 },
-    { label: '木', value: 95 },
-    { label: '金', value: 110 },
-    { label: '土', value: 124 },
-    { label: '日', value: 132 },
-  ],
-};
+let shopData = null;
+let rawData = null;
+
+// Fetch and process room_data.json
+async function loadData() {
+  try {
+    const response = await fetch('room_data.json');
+    rawData = await response.json();
+    
+    // Build shopData from room_data.json
+    shopData = buildShopData(rawData);
+    bootstrap();
+  } catch (error) {
+    console.error('Failed to load room_data.json:', error);
+    // Fallback to empty data
+    shopData = buildShopData({ meta: {}, summary: {}, posts: [], items: [], users: [], by_day: [] });
+    bootstrap();
+  }
+}
+
+// Build shopData structure from raw data
+function buildShopData(data) {
+  const meta = data.meta || {};
+  const summary = data.summary || {};
+  const posts = data.posts || [];
+  const items = data.items || [];
+  const users = data.users || [];
+  const byDay = data.by_day || [];
+
+  // Calculate KPIs
+  const avgLikes = summary.posts > 0 ? Math.round(summary.likes / summary.posts) : 0;
+  const commentRecollect = `${summary.comments || 0} / ${summary.recollects || 0}`;
+
+  // Build daily data from by_day
+  const daily = byDay.slice(-6).map(d => ({
+    label: d.day.slice(5),
+    posts: d.n || 0,
+    likes: d.likes || 0,
+  }));
+
+  // Build share data (top items)
+  const share = items.slice(0, 5).map(item => ({
+    label: item.item_short || item.item_name,
+    value: items.length > 0 ? Math.round(item.posts / items.reduce((a, b) => a + (b.posts || 0), 0) * 100) : 0,
+  }));
+
+  // Build efficiency data
+  const efficiency = items.slice(0, 5).map(item => ({
+    label: item.item_short || item.item_name,
+    value: Math.round(item.likes_per_post || 0),
+  }));
+
+  // Build trend data (weekday)
+  const trend = [
+    { label: '月', value: 0 },
+    { label: '火', value: 0 },
+    { label: '水', value: 0 },
+    { label: '木', value: 0 },
+    { label: '金', value: 0 },
+    { label: '土', value: 0 },
+    { label: '日', value: 0 },
+  ];
+  
+  byDay.forEach(d => {
+    const date = new Date(d.day + 'T00:00:00Z');
+    const dayOfWeek = date.getUTCDay();
+    const idx = dayOfWeek === 0 ? 6 : dayOfWeek - 1;
+    trend[idx].value += (d.likes || 0);
+  });
+  
+  if (trend.some(t => t.value > 0)) {
+    const maxVal = Math.max(...trend.map(t => t.value));
+    trend.forEach(t => t.value = maxVal > 0 ? Math.round(t.value / maxVal * 100) : 0);
+  }
+
+  return {
+    shopName: meta.shop_name || 'Shop',
+    shopCode: meta.shop_code || '',
+    updatedAt: meta.generated_at || '',
+    kpis: [
+      { label: '総投稿数', value: `${summary.posts || 0} 件` },
+      { label: '総いいね数', value: summary.likes || 0 },
+      { label: '平均いいね/投稿', value: avgLikes },
+      { label: '投稿者数', value: `${summary.users || 0} 人` },
+      { label: '商品数', value: `${summary.items || 0} 点` },
+      { label: 'コメント/リコレクト', value: commentRecollect },
+    ],
+    daily,
+    share,
+    efficiency,
+    products: items,
+    users,
+    posts,
+    trend,
+  };
+}
 
 const navItems = document.querySelectorAll('.nav-item');
 const tabs = document.querySelectorAll('.tab');
@@ -145,10 +179,11 @@ function renderOverview() {
 
 function renderInfluence() {
   const funnel = document.getElementById('funnel');
+  const summary = rawData?.summary || {};
   funnel.innerHTML = [
-    { title: '露出', value: '1,248 投稿' },
-    { title: '関心', value: '24,180 いいね' },
-    { title: '拡散', value: '158 リコレクト' },
+    { title: '露出', value: `${summary.posts || 0} 投稿` },
+    { title: '関心', value: `${summary.likes || 0} いいね` },
+    { title: '拡散', value: `${summary.recollects || 0} リコレクト` },
   ].map((step) => `
     <div class="step">
       <strong>${step.title}</strong>
@@ -159,11 +194,11 @@ function renderInfluence() {
 
 function renderProducts() {
   const productList = document.getElementById('productList');
-  const products = shopData.targetProducts.map((name, index) => ({
-    name,
-    posts: 18 + index * 6,
-    likes: 220 + index * 80,
-    efficiency: 12 + index * 2,
+  const products = shopData.products.slice(0, 8).map((product) => ({
+    name: product.item_short || product.item_name,
+    posts: product.posts || 0,
+    likes: product.likes || 0,
+    efficiency: Math.round(product.likes_per_post || 0),
   }));
   productList.innerHTML = products.map((product) => `
     <div class="item-row">
@@ -178,7 +213,12 @@ function renderProducts() {
 
 function renderUsers() {
   const userList = document.getElementById('userList');
-  userList.innerHTML = shopData.users.map((user) => `
+  const users = shopData.users.slice(0, 8).map((user) => ({
+    name: user.username || user.name,
+    posts: user.posts || 0,
+    likes: user.total_likes || user.likes || 0,
+  }));
+  userList.innerHTML = users.map((user) => `
     <div class="item-row">
       <div>
         <div><strong>${user.name}</strong></div>
@@ -191,7 +231,12 @@ function renderUsers() {
 
 function renderPosts() {
   const postList = document.getElementById('postList');
-  postList.innerHTML = shopData.posts.map((post) => `
+  const posts = shopData.posts.slice(0, 8).map((post) => ({
+    title: post.item_short || post.item_name || post.title || '',
+    likes: post.likes || 0,
+    date: post.created_at ? post.created_at.slice(5, 10) : post.date || '',
+  }));
+  postList.innerHTML = posts.map((post) => `
     <div class="item-row">
       <div>
         <div><strong>${post.title}</strong></div>
@@ -213,6 +258,8 @@ function renderTrend() {
 }
 
 function bootstrap() {
+  if (!shopData) return; // Wait for data to load
+  
   document.getElementById('shopName').textContent = shopData.shopName;
   document.getElementById('shopCode').textContent = shopData.shopCode;
   document.getElementById('updatedAt').textContent = shopData.updatedAt;
@@ -226,4 +273,8 @@ function bootstrap() {
   renderTrend();
 }
 
-window.addEventListener('DOMContentLoaded', bootstrap);
+window.addEventListener('DOMContentLoaded', () => {
+  loadData(); // 初回読み込み
+  // 1時間ごとに自動更新
+  setInterval(loadData, 3600000); // 3600000ms = 1時間
+});
