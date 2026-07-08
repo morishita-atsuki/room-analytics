@@ -34,7 +34,7 @@ PRODUCTS = [
         "item_name": "ハーバニエンス ハーブガーデンセット",
         "item_url": "https://item.rakuten.co.jp/aokinomori/s-herbgarden_set/",
         "item_code": "s-herbgarden_set",
-        "keyword": "ハーバニエンス",
+        "keyword": "ハーバニエンス アミノ酸シャンプー",
     },
     {
         "item_id": "P002",
@@ -42,8 +42,8 @@ PRODUCTS = [
         "item_name": "MYC ホワイトプラス",
         "item_url": "https://item.rakuten.co.jp/aokinomori/mycwhite/",
         "item_code": "mycwhite",
-        "keyword": "ホワイトプラス",
-        "max_pages": 10,
+        "keyword": "ホワイトプラス マイシー",
+        "max_pages": 12,
     },
     {
         "item_id": "P003",
@@ -51,7 +51,7 @@ PRODUCTS = [
         "item_name": "ビアス",
         "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
         "item_code": "bius",
-        "keyword": "ビアス",
+        "keyword": "ビアス リポソームビタミンc",
     },
     {
         "item_id": "P004",
@@ -67,7 +67,7 @@ PRODUCTS = [
         "item_name": "リノクル",
         "item_url": "https://item.rakuten.co.jp/aokinomori/s-linokle/",
         "item_code": "s-linokle",
-        "keyword": "リノクル",
+        "keyword": "リノクル くすみ",
     },
     {
         "item_id": "P006",
@@ -99,7 +99,7 @@ PRODUCTS = [
         "item_name": "MYC ジェルバームクレンジング",
         "item_url": "https://item.rakuten.co.jp/aokinomori/myc-clean/",
         "item_code": "myc-clean",
-        "keyword": "マイシースキニティ",
+        "keyword": "マイシースキニティ ジェルバームクレンジング",
     },
 ]
 
@@ -109,10 +109,12 @@ SLEEP_BETWEEN_PAGES = 0.5   # seconds
 SLEEP_BETWEEN_PRODUCTS = 1.0
 DEFAULT_MAX_PAGES = 10
 DEFAULT_API_TIMEOUT = 15
+DEFAULT_RETRIES = 2
+RETRY_BACKOFF = 2.0  # seconds, multiplied by attempt number
 
 
 # ── HTTP helper ────────────────────────────────────────────────────────────────
-def api_get(path, params=None, timeout=DEFAULT_API_TIMEOUT):
+def api_get(path, params=None, timeout=DEFAULT_API_TIMEOUT, retries=DEFAULT_RETRIES):
     url = API_BASE + path
     if params:
         url += "?" + urllib.parse.urlencode(params)
@@ -126,16 +128,29 @@ def api_get(path, params=None, timeout=DEFAULT_API_TIMEOUT):
         "Accept-Language": "ja-JP,ja;q=0.9",
         "Referer": "https://room.rakuten.co.jp/",
     })
-    with urllib.request.urlopen(req, timeout=timeout) as resp:
-        data = resp.read()
-        if resp.headers.get("Content-Encoding") == "gzip":
-            data = gzip.decompress(data)
-        return json.loads(data)
+    for attempt in range(retries + 1):
+        try:
+            with urllib.request.urlopen(req, timeout=timeout) as resp:
+                data = resp.read()
+                if resp.headers.get("Content-Encoding") == "gzip":
+                    data = gzip.decompress(data)
+                return json.loads(data)
+        except Exception:
+            if attempt < retries:
+                time.sleep(RETRY_BACKOFF * (attempt + 1))
+                continue
+            raise
 
 
 # ── Core collection logic ──────────────────────────────────────────────────────
-def collect_product(product, verbose=True, max_pages=None, timeout=DEFAULT_API_TIMEOUT, sleep_between_pages=SLEEP_BETWEEN_PAGES):
-    """Fetch ROOM posts for a single product. Returns list of raw post dicts."""
+def collect_product(product, verbose=True, max_pages=None, timeout=DEFAULT_API_TIMEOUT, sleep_between_pages=SLEEP_BETWEEN_PAGES, retries=DEFAULT_RETRIES):
+    """Fetch ROOM posts for a single product.
+
+    Returns (posts, had_error) where had_error indicates the fetch stopped
+    early because of a request failure (as opposed to legitimately running
+    out of pages), so callers can decide whether the result is trustworthy
+    enough to overwrite previously collected data.
+    """
     item_url = product["item_url"].rstrip("/") + "/"  # normalise trailing slash
     keyword = product["keyword"]
     item_code = product["item_code"]
@@ -148,6 +163,7 @@ def collect_product(product, verbose=True, max_pages=None, timeout=DEFAULT_API_T
     seen_ids = set()
     page = 1
     total_pages = None
+    had_error = False
 
     while True:
         params = {
@@ -156,13 +172,15 @@ def collect_product(product, verbose=True, max_pages=None, timeout=DEFAULT_API_T
             "page": page,
         }
         try:
-            resp = api_get("/collect/search", params, timeout=timeout)
+            resp = api_get("/collect/search", params, timeout=timeout, retries=retries)
         except Exception as exc:
             print(f"    [ERROR] page={page}: {exc}", file=sys.stderr)
+            had_error = True
             break
 
         if resp.get("status") != "success":
             print(f"    [WARN] page={page} status={resp.get('status')}", file=sys.stderr)
+            had_error = True
             break
 
         data = resp.get("data", [])
@@ -205,7 +223,45 @@ def collect_product(product, verbose=True, max_pages=None, timeout=DEFAULT_API_T
 
     if verbose:
         print(f"    → {len(posts)} posts matched for {product['item_short']}", flush=True)
-    return posts
+    return posts, had_error
+
+
+# ── Carry-forward of previous results when a fetch fails ──────────────────────
+def flat_post_to_raw(post):
+    """Convert a previously-saved flat post (from room_data.json) back into
+    the raw shape aggregate() expects, so it can be reused as a fallback."""
+    return {
+        "id": post.get("post_id", ""),
+        "created_at": post.get("created_at", ""),
+        "likes": post.get("likes", 0),
+        "comments": post.get("comments", 0),
+        "recollects": post.get("recollects", 0),
+        "detail_views": post.get("detail_views", 0),
+        "influence_points": post.get("influence_points", 0),
+        "user": {
+            "username": post.get("username", ""),
+            "fullname": post.get("fullname", ""),
+            "rank": post.get("user_rank", 0),
+        },
+        "item": {"price": post.get("price", 0)},
+        "from_service": post.get("from_service", "room"),
+    }
+
+
+def load_previous_posts_by_item(path):
+    """Load the previous output file's posts, grouped by item_id, so a
+    product whose fetch fails this run can fall back to its last known
+    good data instead of being zeroed out."""
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+    except (OSError, json.JSONDecodeError):
+        return {}
+
+    by_item = defaultdict(list)
+    for post in data.get("posts", []):
+        by_item[post.get("item_id")].append(flat_post_to_raw(post))
+    return by_item
 
 
 # ── Aggregate raw posts into DATA format ──────────────────────────────────────
@@ -457,23 +513,42 @@ def main():
     print(f"Products: {[p['item_short'] for p in targets]}")
     print()
 
+    previous_posts_by_item = load_previous_posts_by_item(args.output)
+
     all_posts = {}
     for i, product in enumerate(targets, 1):
+        pid = product["item_id"]
         print(f"[{i}/{len(targets)}] {product['item_short']}")
-        posts = collect_product(
+        posts, had_error = collect_product(
             product,
             verbose=True,
             max_pages=args.max_pages,
             timeout=args.timeout,
             sleep_between_pages=0 if args.no_sleep else SLEEP_BETWEEN_PAGES,
         )
-        all_posts[product["item_id"]] = posts
+        previous_posts = previous_posts_by_item.get(pid, [])
+        if had_error and len(posts) < len(previous_posts):
+            print(
+                f"    [WARN] fetch incomplete ({len(posts)} posts) for {product['item_short']}, "
+                f"keeping previous {len(previous_posts)} posts instead of overwriting",
+                flush=True,
+            )
+            posts = previous_posts
+        all_posts[pid] = posts
         if i < len(targets) and not args.no_sleep:
             time.sleep(SLEEP_BETWEEN_PRODUCTS)
 
+    # Any product not collected this run (e.g. a --product filter was used,
+    # or it was skipped entirely) keeps its last known good data rather than
+    # disappearing from the output.
+    for product in PRODUCTS:
+        pid = product["item_id"]
+        if pid not in all_posts:
+            all_posts[pid] = previous_posts_by_item.get(pid, [])
+
     print()
     print("Building DATA object...")
-    data_obj = aggregate(all_posts, targets, generated_at)
+    data_obj = aggregate(all_posts, PRODUCTS, generated_at)
 
     # Summary printout
     s = data_obj["summary"]
