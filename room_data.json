@@ -2,7 +2,7 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-07-09 02:22 JST",
+    "generated_at": "2026-07-09 09:09 JST",
     "snapshots": 1
   },
   "summary": {
@@ -9756,18 +9756,18 @@
       "rank": 3
     },
     {
-      "username": "room_2680rin_ringo",
-      "fullname": "ミニリンゴ🐬ご縁に感謝🌻ありがとう",
-      "posts": 3,
-      "total_likes": 30,
-      "rank": 4
-    },
-    {
       "username": "room_7799",
       "fullname": "ふじ｜ママ美容と健康ROOM",
       "posts": 1,
       "total_likes": 30,
       "rank": 3
+    },
+    {
+      "username": "room_2680rin_ringo",
+      "fullname": "ミニリンゴ🐬ご縁に感謝🌻ありがとう",
+      "posts": 3,
+      "total_likes": 30,
+      "rank": 4
     },
     {
       "username": "sachiko_639",
@@ -9959,16 +9959,16 @@
       "rank": 3
     },
     {
-      "username": "ninikono_memo",
-      "fullname": "🐥niniko_room",
-      "posts": 2,
+      "username": "room_f4ff4bf7c9",
+      "fullname": "kanako🐈‍⬛",
+      "posts": 1,
       "total_likes": 15,
       "rank": 4
     },
     {
-      "username": "room_f4ff4bf7c9",
-      "fullname": "kanako🐈‍⬛",
-      "posts": 1,
+      "username": "ninikono_memo",
+      "fullname": "🐥niniko_room",
+      "posts": 2,
       "total_likes": 15,
       "rank": 4
     },
@@ -10805,7 +10805,7 @@
     {
       "item_id": "P002",
       "total": 60,
-      "recent": 3,
+      "recent": 2,
       "prior": 7,
       "recent_likes": 55,
       "item_short": "ホワイトプラス"
@@ -10837,9 +10837,9 @@
     {
       "item_id": "P007",
       "total": 60,
-      "recent": 13,
+      "recent": 10,
       "prior": 10,
-      "recent_likes": 95,
+      "recent_likes": 79,
       "item_short": "ハーブラピール"
     },
     {
