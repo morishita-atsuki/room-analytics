@@ -2,14 +2,14 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-07-14 02:50 JST",
+    "generated_at": "2026-07-14 10:49 JST",
     "snapshots": 1
   },
   "summary": {
     "posts": 482,
     "users": 415,
     "items": 9,
-    "likes": 11039,
+    "likes": 11038,
     "comments": 140,
     "recollects": 52
   },
@@ -463,7 +463,7 @@
       "post_url": "https://room.rakuten.co.jp/room_8ded1f8dd5/1700373554282199",
       "price": 5960,
       "from_service": "room",
-      "likes": 131,
+      "likes": 130,
       "comments": 1,
       "recollects": 0,
       "detail_views": 0,
@@ -7162,7 +7162,7 @@
       "post_id": "1700385115334268",
       "created_at": "2026-07-09 18:17:22",
       "username": "room_2ccc0daacf",
-      "fullname": "Kei Select｜大人のお気に入り",
+      "fullname": "30代✖️美容｜Kei Select💖",
       "user_rank": 3,
       "item_id": "P004",
       "item_name": "グルタスキントナー",
@@ -9192,13 +9192,13 @@
       "item_name": "MYC ホワイトプラス",
       "item_short": "ホワイトプラス",
       "posts": 60,
-      "likes": 2100,
+      "likes": 2099,
       "comments": 23,
       "recollects": 11,
       "latest": "2026-07-07 13:31:12",
       "likes_per_post": 35.0,
       "recollect_rate": 0.18,
-      "influence": 2133
+      "influence": 2132
     },
     {
       "item_id": "P003",
@@ -9297,7 +9297,7 @@
       "username": "room_8ded1f8dd5",
       "fullname": "アポロさん家",
       "posts": 4,
-      "total_likes": 996,
+      "total_likes": 995,
       "rank": 3
     },
     {
@@ -9742,18 +9742,18 @@
       "rank": 3
     },
     {
-      "username": "room_7799",
-      "fullname": "ふじ｜ママ美容と健康ROOM",
-      "posts": 1,
-      "total_likes": 30,
-      "rank": 3
-    },
-    {
       "username": "room_2680rin_ringo",
       "fullname": "ミニリンゴ🐬ご縁に感謝🌻ありがとう",
       "posts": 3,
       "total_likes": 30,
       "rank": 4
+    },
+    {
+      "username": "room_7799",
+      "fullname": "ふじ｜ママ美容と健康ROOM",
+      "posts": 1,
+      "total_likes": 30,
+      "rank": 3
     },
     {
       "username": "sachiko_639",
@@ -9952,6 +9952,13 @@
       "rank": 3
     },
     {
+      "username": "room_f4ff4bf7c9",
+      "fullname": "kanako🐈‍⬛",
+      "posts": 1,
+      "total_likes": 15,
+      "rank": 4
+    },
+    {
       "username": "hinata777",
       "fullname": "HINAKO＠美容大好き💄💗",
       "posts": 2,
@@ -9962,13 +9969,6 @@
       "username": "ninikono_memo",
       "fullname": "🐥niniko_room",
       "posts": 2,
-      "total_likes": 15,
-      "rank": 4
-    },
-    {
-      "username": "room_f4ff4bf7c9",
-      "fullname": "kanako🐈‍⬛",
-      "posts": 1,
       "total_likes": 15,
       "rank": 4
     },
@@ -10218,7 +10218,7 @@
     {
       "day": "2026-04-05",
       "n": 3,
-      "likes": 388
+      "likes": 387
     },
     {
       "day": "2026-04-06",
@@ -10793,7 +10793,7 @@
       "item_id": "P009",
       "total": 22,
       "recent": 0,
-      "prior": 1,
+      "prior": 0,
       "recent_likes": 0,
       "item_short": "ジェルバームクレンジング"
     },
@@ -10801,7 +10801,7 @@
       "item_id": "P002",
       "total": 60,
       "recent": 1,
-      "prior": 3,
+      "prior": 2,
       "recent_likes": 57,
       "item_short": "ホワイトプラス"
     },
@@ -10869,7 +10869,7 @@
       "i": "ハーバニエンス"
     },
     {
-      "l": 2100,
+      "l": 2099,
       "r": 11,
       "i": "ホワイトプラス"
     },
