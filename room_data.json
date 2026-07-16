@@ -2,7 +2,7 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-07-16 02:08 JST",
+    "generated_at": "2026-07-16 09:08 JST",
     "snapshots": 1
   },
   "summary": {
@@ -9961,18 +9961,18 @@
       "rank": 4
     },
     {
-      "username": "room_3kmama",
-      "fullname": "自分磨きに勤しむ３児のアラフォーまま",
-      "posts": 3,
-      "total_likes": 15,
-      "rank": 3
-    },
-    {
       "username": "room_8af58ad411",
       "fullname": "SORA🌸ｲﾂﾓ( ᴗ̤ .̮ ᴗ̤人",
       "posts": 1,
       "total_likes": 15,
       "rank": 4
+    },
+    {
+      "username": "room_3kmama",
+      "fullname": "自分磨きに勤しむ３児のアラフォーまま",
+      "posts": 3,
+      "total_likes": 15,
+      "rank": 3
     }
   ],
   "by_day": [
@@ -10787,7 +10787,7 @@
       "item_id": "P002",
       "total": 60,
       "recent": 2,
-      "prior": 3,
+      "prior": 2,
       "recent_likes": 5,
       "item_short": "ホワイトプラス"
     },
@@ -10810,9 +10810,9 @@
     {
       "item_id": "P007",
       "total": 60,
-      "recent": 8,
-      "prior": 9,
-      "recent_likes": 417,
+      "recent": 7,
+      "prior": 7,
+      "recent_likes": 411,
       "item_short": "ハーブラピール"
     },
     {
@@ -10842,9 +10842,9 @@
     {
       "item_id": "P006",
       "total": 60,
-      "recent": 16,
-      "prior": 0,
-      "recent_likes": 118,
+      "recent": 11,
+      "prior": 5,
+      "recent_likes": 36,
       "item_short": "レチノソームショット"
     }
   ],
