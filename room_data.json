@@ -2,7 +2,7 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-07-17 02:06 JST",
+    "generated_at": "2026-07-17 09:11 JST",
     "snapshots": 1
   },
   "summary": {
@@ -9926,6 +9926,13 @@
       "rank": 3
     },
     {
+      "username": "room_f4ff4bf7c9",
+      "fullname": "kanako🐈‍⬛",
+      "posts": 1,
+      "total_likes": 15,
+      "rank": 4
+    },
+    {
       "username": "hinata777",
       "fullname": "HINAKO＠美容大好き💄💗",
       "posts": 2,
@@ -9936,13 +9943,6 @@
       "username": "ninikono_memo",
       "fullname": "🐥niniko_room",
       "posts": 2,
-      "total_likes": 15,
-      "rank": 4
-    },
-    {
-      "username": "room_f4ff4bf7c9",
-      "fullname": "kanako🐈‍⬛",
-      "posts": 1,
       "total_likes": 15,
       "rank": 4
     },
@@ -9961,18 +9961,18 @@
       "rank": 4
     },
     {
-      "username": "room_3kmama",
-      "fullname": "自分磨きに勤しむ３児のアラフォーまま",
-      "posts": 3,
-      "total_likes": 15,
-      "rank": 3
-    },
-    {
       "username": "room_8af58ad411",
       "fullname": "SORA🌸ｲﾂﾓ( ᴗ̤ .̮ ᴗ̤人",
       "posts": 1,
       "total_likes": 15,
       "rank": 4
+    },
+    {
+      "username": "room_3kmama",
+      "fullname": "自分磨きに勤しむ３児のアラフォーまま",
+      "posts": 3,
+      "total_likes": 15,
+      "rank": 3
     }
   ],
   "by_day": [
@@ -10799,9 +10799,9 @@
     {
       "item_id": "P004",
       "total": 60,
-      "recent": 4,
-      "prior": 0,
-      "recent_likes": 42,
+      "recent": 0,
+      "prior": 4,
+      "recent_likes": 0,
       "item_short": "グルタスキントナー"
     },
     {
@@ -10831,9 +10831,9 @@
     {
       "item_id": "P001",
       "total": 60,
-      "recent": 18,
-      "prior": 0,
-      "recent_likes": 220,
+      "recent": 12,
+      "prior": 6,
+      "recent_likes": 55,
       "item_short": "ハーバニエンス"
     },
     {
@@ -10847,9 +10847,9 @@
     {
       "item_id": "P006",
       "total": 60,
-      "recent": 11,
-      "prior": 5,
-      "recent_likes": 38,
+      "recent": 6,
+      "prior": 10,
+      "recent_likes": 24,
       "item_short": "レチノソームショット"
     }
   ],
