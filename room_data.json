@@ -2,7 +2,7 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-07-25 02:22 JST",
+    "generated_at": "2026-07-25 09:09 JST",
     "snapshots": 1
   },
   "summary": {
@@ -24637,18 +24637,18 @@
       "rank": 4
     },
     {
-      "username": "room_8af58ad411",
-      "fullname": "SORA🌸ｲﾂﾓ( ᴗ̤ .̮ ᴗ̤人",
-      "posts": 3,
-      "total_likes": 37,
-      "rank": 4
-    },
-    {
       "username": "202504",
       "fullname": "room202504",
       "posts": 1,
       "total_likes": 37,
       "rank": 3
+    },
+    {
+      "username": "room_8af58ad411",
+      "fullname": "SORA🌸ｲﾂﾓ( ᴗ̤ .̮ ᴗ̤人",
+      "posts": 3,
+      "total_likes": 37,
+      "rank": 4
     },
     {
       "username": "sunrise.me",
@@ -26279,9 +26279,9 @@
     {
       "item_id": "P003",
       "total": 78,
-      "recent": 37,
-      "prior": 0,
-      "recent_likes": 853,
+      "recent": 34,
+      "prior": 3,
+      "recent_likes": 838,
       "item_short": "ビアス"
     },
     {
@@ -26295,16 +26295,16 @@
     {
       "item_id": "P007",
       "total": 200,
-      "recent": 24,
-      "prior": 7,
-      "recent_likes": 75,
+      "recent": 23,
+      "prior": 5,
+      "recent_likes": 73,
       "item_short": "ハーブラピール"
     },
     {
       "item_id": "P001",
       "total": 160,
       "recent": 4,
-      "prior": 11,
+      "prior": 5,
       "recent_likes": 13,
       "item_short": "ハーバニエンス"
     },
@@ -26312,23 +26312,23 @@
       "item_id": "P005",
       "total": 197,
       "recent": 4,
-      "prior": 3,
+      "prior": 1,
       "recent_likes": 14,
       "item_short": "リノクル"
     },
     {
       "item_id": "P008",
       "total": 88,
-      "recent": 9,
+      "recent": 8,
       "prior": 2,
-      "recent_likes": 105,
+      "recent_likes": 104,
       "item_short": "ビタスポットセラム"
     },
     {
       "item_id": "P006",
       "total": 200,
       "recent": 1,
-      "prior": 6,
+      "prior": 3,
       "recent_likes": 4,
       "item_short": "レチノソームショット"
     }
