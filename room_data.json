@@ -2,7 +2,7 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-07-26 01:49 JST",
+    "generated_at": "2026-07-26 09:09 JST",
     "snapshots": 1
   },
   "summary": {
@@ -24487,18 +24487,18 @@
       "rank": 3
     },
     {
-      "username": "room_afc6292165",
-      "fullname": "めぷたぼ",
-      "posts": 3,
-      "total_likes": 119,
-      "rank": 3
-    },
-    {
       "username": "room_928e7ce94c",
       "fullname": "やや039тнайк чoμ_〆(・ω・",
       "posts": 1,
       "total_likes": 119,
       "rank": 4
+    },
+    {
+      "username": "room_afc6292165",
+      "fullname": "めぷたぼ",
+      "posts": 3,
+      "total_likes": 119,
+      "rank": 3
     },
     {
       "username": "room_0ae729fc16",
@@ -24865,18 +24865,18 @@
       "rank": 4
     },
     {
-      "username": "room_8af58ad411",
-      "fullname": "SORA🌸ｲﾂﾓ( ᴗ̤ .̮ ᴗ̤人",
-      "posts": 3,
-      "total_likes": 37,
-      "rank": 4
-    },
-    {
       "username": "202504",
       "fullname": "room202504",
       "posts": 1,
       "total_likes": 37,
       "rank": 3
+    },
+    {
+      "username": "room_8af58ad411",
+      "fullname": "SORA🌸ｲﾂﾓ( ᴗ̤ .̮ ᴗ̤人",
+      "posts": 3,
+      "total_likes": 37,
+      "rank": 4
     },
     {
       "username": "mashumaro-been",
@@ -26489,16 +26489,16 @@
     {
       "item_id": "P002",
       "total": 238,
-      "recent": 40,
-      "prior": 2,
-      "recent_likes": 321,
+      "recent": 38,
+      "prior": 4,
+      "recent_likes": 254,
       "item_short": "ホワイトプラス"
     },
     {
       "item_id": "P003",
       "total": 85,
-      "recent": 41,
-      "prior": 3,
+      "recent": 40,
+      "prior": 4,
       "recent_likes": 994,
       "item_short": "ビアス"
     },
@@ -26521,9 +26521,9 @@
     {
       "item_id": "P001",
       "total": 160,
-      "recent": 4,
-      "prior": 5,
-      "recent_likes": 13,
+      "recent": 3,
+      "prior": 4,
+      "recent_likes": 10,
       "item_short": "ハーバニエンス"
     },
     {
@@ -26546,7 +26546,7 @@
       "item_id": "P006",
       "total": 200,
       "recent": 1,
-      "prior": 3,
+      "prior": 1,
       "recent_likes": 4,
       "item_short": "レチノソームショット"
     }
