@@ -2,7 +2,7 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-07-27 01:51 JST",
+    "generated_at": "2026-07-27 09:09 JST",
     "snapshots": 1
   },
   "summary": {
@@ -24813,18 +24813,18 @@
       "rank": 3
     },
     {
-      "username": "room_93696398bd",
-      "fullname": "Kozu♡🛒大好き😆💕",
-      "posts": 2,
-      "total_likes": 40,
-      "rank": 4
-    },
-    {
       "username": "best_item.com",
       "fullname": "オススメ商品の隠れ家",
       "posts": 2,
       "total_likes": 40,
       "rank": 3
+    },
+    {
+      "username": "room_93696398bd",
+      "fullname": "Kozu♡🛒大好き😆💕",
+      "posts": 2,
+      "total_likes": 40,
+      "rank": 4
     },
     {
       "username": "room_7ab0b0e3e6",
@@ -26456,17 +26456,17 @@
     {
       "item_id": "P002",
       "total": 238,
-      "recent": 38,
-      "prior": 4,
-      "recent_likes": 272,
+      "recent": 29,
+      "prior": 13,
+      "recent_likes": 217,
       "item_short": "ホワイトプラス"
     },
     {
       "item_id": "P003",
       "total": 85,
-      "recent": 40,
-      "prior": 4,
-      "recent_likes": 1081,
+      "recent": 33,
+      "prior": 11,
+      "recent_likes": 788,
       "item_short": "ビアス"
     },
     {
@@ -26480,8 +26480,8 @@
     {
       "item_id": "P007",
       "total": 200,
-      "recent": 37,
-      "prior": 5,
+      "recent": 36,
+      "prior": 6,
       "recent_likes": 113,
       "item_short": "ハーブラピール"
     },
@@ -26504,9 +26504,9 @@
     {
       "item_id": "P008",
       "total": 88,
-      "recent": 8,
-      "prior": 2,
-      "recent_likes": 105,
+      "recent": 7,
+      "prior": 3,
+      "recent_likes": 104,
       "item_short": "ビタスポットセラム"
     },
     {
