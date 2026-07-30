@@ -2,7 +2,7 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-07-30 02:07 JST",
+    "generated_at": "2026-07-30 09:09 JST",
     "snapshots": 1
   },
   "summary": {
@@ -24756,18 +24756,18 @@
       "rank": 1
     },
     {
-      "username": "room_93696398bd",
-      "fullname": "Kozu♡🛒大好き😆💕",
-      "posts": 2,
-      "total_likes": 40,
-      "rank": 4
-    },
-    {
       "username": "best_item.com",
       "fullname": "オススメ商品の隠れ家",
       "posts": 2,
       "total_likes": 40,
       "rank": 3
+    },
+    {
+      "username": "room_93696398bd",
+      "fullname": "Kozu♡🛒大好き😆💕",
+      "posts": 2,
+      "total_likes": 40,
+      "rank": 4
     },
     {
       "username": "room_8af58ad411",
@@ -26404,17 +26404,17 @@
     {
       "item_id": "P002",
       "total": 238,
-      "recent": 18,
-      "prior": 22,
-      "recent_likes": 120,
+      "recent": 13,
+      "prior": 27,
+      "recent_likes": 67,
       "item_short": "ホワイトプラス"
     },
     {
       "item_id": "P003",
       "total": 81,
-      "recent": 22,
-      "prior": 19,
-      "recent_likes": 823,
+      "recent": 13,
+      "prior": 28,
+      "recent_likes": 399,
       "item_short": "ビアス"
     },
     {
@@ -26428,25 +26428,25 @@
     {
       "item_id": "P007",
       "total": 200,
-      "recent": 25,
-      "prior": 15,
-      "recent_likes": 64,
+      "recent": 21,
+      "prior": 18,
+      "recent_likes": 58,
       "item_short": "ハーブラピール"
     },
     {
       "item_id": "P001",
       "total": 161,
-      "recent": 3,
-      "prior": 4,
-      "recent_likes": 22,
+      "recent": 2,
+      "prior": 5,
+      "recent_likes": 21,
       "item_short": "ハーバニエンス"
     },
     {
       "item_id": "P005",
       "total": 197,
-      "recent": 6,
-      "prior": 0,
-      "recent_likes": 56,
+      "recent": 5,
+      "prior": 1,
+      "recent_likes": 52,
       "item_short": "リノクル"
     },
     {
@@ -26461,7 +26461,7 @@
       "item_id": "P006",
       "total": 200,
       "recent": 2,
-      "prior": 2,
+      "prior": 1,
       "recent_likes": 1,
       "item_short": "レチノソームショット"
     }
