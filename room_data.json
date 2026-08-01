@@ -2,7 +2,7 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-08-01 02:21 JST",
+    "generated_at": "2026-08-01 09:09 JST",
     "snapshots": 1
   },
   "summary": {
@@ -24782,18 +24782,18 @@
       "rank": 1
     },
     {
-      "username": "room_93696398bd",
-      "fullname": "Kozu♡🛒大好き😆💕",
-      "posts": 2,
-      "total_likes": 40,
-      "rank": 4
-    },
-    {
       "username": "best_item.com",
       "fullname": "オススメ商品の隠れ家",
       "posts": 2,
       "total_likes": 40,
       "rank": 3
+    },
+    {
+      "username": "room_93696398bd",
+      "fullname": "Kozu♡🛒大好き😆💕",
+      "posts": 2,
+      "total_likes": 40,
+      "rank": 4
     },
     {
       "username": "room_8af58ad411",
@@ -26415,41 +26415,41 @@
     {
       "item_id": "P009",
       "total": 27,
-      "recent": 5,
-      "prior": 0,
-      "recent_likes": 50,
+      "recent": 0,
+      "prior": 5,
+      "recent_likes": 0,
       "item_short": "ジェルバームクレンジング"
     },
     {
       "item_id": "P002",
       "total": 238,
-      "recent": 10,
-      "prior": 31,
-      "recent_likes": 24,
+      "recent": 4,
+      "prior": 37,
+      "recent_likes": 5,
       "item_short": "ホワイトプラス"
     },
     {
       "item_id": "P003",
       "total": 81,
       "recent": 7,
-      "prior": 34,
+      "prior": 31,
       "recent_likes": 246,
       "item_short": "ビアス"
     },
     {
       "item_id": "P004",
       "total": 71,
-      "recent": 5,
-      "prior": 0,
-      "recent_likes": 59,
+      "recent": 4,
+      "prior": 1,
+      "recent_likes": 58,
       "item_short": "グルタスキントナー"
     },
     {
       "item_id": "P007",
       "total": 200,
-      "recent": 17,
-      "prior": 19,
-      "recent_likes": 57,
+      "recent": 13,
+      "prior": 22,
+      "recent_likes": 49,
       "item_short": "ハーブラピール"
     },
     {
@@ -26472,7 +26472,7 @@
       "item_id": "P008",
       "total": 88,
       "recent": 0,
-      "prior": 9,
+      "prior": 8,
       "recent_likes": 0,
       "item_short": "ビタスポットセラム"
     },
