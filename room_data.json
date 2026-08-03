@@ -2,7 +2,7 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-08-03 01:52 JST",
+    "generated_at": "2026-08-03 09:11 JST",
     "snapshots": 1
   },
   "summary": {
@@ -24819,16 +24819,16 @@
       "rank": 1
     },
     {
-      "username": "sunrise.me",
-      "fullname": "sunrise♡",
-      "posts": 2,
+      "username": "room_c1ed56077b",
+      "fullname": "あき🎶ずぼら上等✩日々の楽しみ方",
+      "posts": 1,
       "total_likes": 34,
       "rank": 4
     },
     {
-      "username": "room_c1ed56077b",
-      "fullname": "あき🎶ずぼら上等✩日々の楽しみ方",
-      "posts": 1,
+      "username": "sunrise.me",
+      "fullname": "sunrise♡",
+      "posts": 2,
       "total_likes": 34,
       "rank": 4
     }
@@ -26425,16 +26425,16 @@
       "item_id": "P002",
       "total": 238,
       "recent": 2,
-      "prior": 35,
+      "prior": 26,
       "recent_likes": 1,
       "item_short": "ホワイトプラス"
     },
     {
       "item_id": "P003",
       "total": 82,
-      "recent": 2,
-      "prior": 37,
-      "recent_likes": 31,
+      "recent": 1,
+      "prior": 31,
+      "recent_likes": 30,
       "item_short": "ビアス"
     },
     {
@@ -26448,9 +26448,9 @@
     {
       "item_id": "P007",
       "total": 200,
-      "recent": 3,
+      "recent": 2,
       "prior": 31,
-      "recent_likes": 13,
+      "recent_likes": 12,
       "item_short": "ハーブラピール"
     },
     {
@@ -26464,25 +26464,25 @@
     {
       "item_id": "P005",
       "total": 196,
-      "recent": 1,
-      "prior": 5,
-      "recent_likes": 1,
+      "recent": 0,
+      "prior": 6,
+      "recent_likes": 0,
       "item_short": "リノクル"
     },
     {
       "item_id": "P008",
       "total": 88,
       "recent": 0,
-      "prior": 8,
+      "prior": 7,
       "recent_likes": 0,
       "item_short": "ビタスポットセラム"
     },
     {
       "item_id": "P006",
       "total": 200,
-      "recent": 2,
-      "prior": 1,
-      "recent_likes": 1,
+      "recent": 0,
+      "prior": 3,
+      "recent_likes": 0,
       "item_short": "レチノソームショット"
     }
   ],
