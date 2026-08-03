@@ -2,15 +2,15 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-08-03 11:04 JST",
+    "generated_at": "2026-08-03 20:14 JST",
     "snapshots": 1
   },
   "summary": {
-    "posts": 1263,
+    "posts": 1264,
     "users": 1004,
     "items": 9,
-    "likes": 18241,
-    "comments": 235,
+    "likes": 18269,
+    "comments": 236,
     "recollects": 128
   },
   "posts": [
@@ -83,7 +83,7 @@
       "post_url": "https://room.rakuten.co.jp/room_8ded1f8dd5/1700383697351124",
       "price": 5960,
       "from_service": "room",
-      "likes": 391,
+      "likes": 392,
       "comments": 10,
       "recollects": 0,
       "detail_views": 0,
@@ -1953,6 +1953,25 @@
       "item_short": "ハーバニエンス"
     },
     {
+      "post_id": "1700387760553158",
+      "created_at": "2026-08-02 17:08:46",
+      "username": "room_02377d6516",
+      "fullname": "memi@GeryH",
+      "user_rank": 3,
+      "item_id": "P003",
+      "item_name": "ビアス",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
+      "post_url": "https://room.rakuten.co.jp/room_02377d6516/1700387760553158",
+      "price": 5960,
+      "from_service": "room",
+      "likes": 38,
+      "comments": 3,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "ビアス"
+    },
+    {
       "post_id": "1700371372523415",
       "created_at": "2026-03-18 11:05:04",
       "username": "room_ebiseey",
@@ -2027,25 +2046,6 @@
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "リノクル"
-    },
-    {
-      "post_id": "1700387760553158",
-      "created_at": "2026-08-02 17:08:46",
-      "username": "room_02377d6516",
-      "fullname": "memi@GeryH",
-      "user_rank": 3,
-      "item_id": "P003",
-      "item_name": "ビアス",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
-      "post_url": "https://room.rakuten.co.jp/room_02377d6516/1700387760553158",
-      "price": 5960,
-      "from_service": "room",
-      "likes": 36,
-      "comments": 3,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "ビアス"
     },
     {
       "post_id": "1700386763639355",
@@ -2884,6 +2884,25 @@
       "item_short": "ビアス"
     },
     {
+      "post_id": "1700387818191385",
+      "created_at": "2026-08-03 06:29:04",
+      "username": "room_30bd1feed6",
+      "fullname": "快適ライフ研究所",
+      "user_rank": 4,
+      "item_id": "P004",
+      "item_name": "グルタスキントナー",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/glutathione/",
+      "post_url": "https://room.rakuten.co.jp/room_30bd1feed6/1700387818191385",
+      "price": 5780,
+      "from_service": "room",
+      "likes": 20,
+      "comments": 0,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "グルタスキントナー"
+    },
+    {
       "post_id": "1700382407645169",
       "created_at": "2026-06-16 22:11:33",
       "username": "room_suzu.282511",
@@ -3476,7 +3495,7 @@
       "post_id": "1700381075726155",
       "created_at": "2026-06-06 14:05:28",
       "username": "room_8089671927",
-      "fullname": "💎アロハ🕊️7/31 8/1ありがと",
+      "fullname": "💎アロハ🕊️ゆる無添加🔥身体に優し",
       "user_rank": 4,
       "item_id": "P003",
       "item_name": "ビアス",
@@ -5842,6 +5861,25 @@
       "from_service": "room",
       "likes": 8,
       "comments": 0,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "ハーブラピール"
+    },
+    {
+      "post_id": "1700384126707168",
+      "created_at": "2026-07-01 14:56:37",
+      "username": "shiorsroom",
+      "fullname": "しい|お菓子とインテリア好きな30代ママ",
+      "user_rank": 4,
+      "item_id": "P007",
+      "item_name": "ハーブラピール",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/hlpeel/",
+      "post_url": "https://room.rakuten.co.jp/shiorsroom/1700384126707168",
+      "price": 3480,
+      "from_service": "room",
+      "likes": 8,
+      "comments": 1,
       "recollects": 0,
       "detail_views": 0,
       "influence_points": 0,
@@ -11624,25 +11662,6 @@
       "item_short": "ハーブラピール"
     },
     {
-      "post_id": "1700384126707168",
-      "created_at": "2026-07-01 14:56:37",
-      "username": "shiorsroom",
-      "fullname": "しい|お菓子とインテリア好きな30代ママ",
-      "user_rank": 4,
-      "item_id": "P007",
-      "item_name": "ハーブラピール",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/hlpeel/",
-      "post_url": "https://room.rakuten.co.jp/shiorsroom/1700384126707168",
-      "price": 3480,
-      "from_service": "room",
-      "likes": 3,
-      "comments": 0,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "ハーブラピール"
-    },
-    {
       "post_id": "1700382594283220",
       "created_at": "2026-06-18 15:31:37",
       "username": "room_ebc7bf5bc4",
@@ -16640,25 +16659,6 @@
       "item_short": "ビアス"
     },
     {
-      "post_id": "1700381022943185",
-      "created_at": "2026-06-06 04:37:03",
-      "username": "niwatreena",
-      "fullname": "にわとりーな@アラフィフ綺麗になりたい",
-      "user_rank": 4,
-      "item_id": "P003",
-      "item_name": "ビアス",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
-      "post_url": "https://room.rakuten.co.jp/niwatreena/1700381022943185",
-      "price": 5960,
-      "from_service": "room",
-      "likes": 1,
-      "comments": 0,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "ビアス"
-    },
-    {
       "post_id": "1700381132456355",
       "created_at": "2026-06-06 21:20:48",
       "username": "room_51d1306fb0",
@@ -16673,6 +16673,25 @@
       "likes": 1,
       "comments": 0,
       "recollects": 1,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "ビアス"
+    },
+    {
+      "post_id": "1700381022943185",
+      "created_at": "2026-06-06 04:37:03",
+      "username": "niwatreena",
+      "fullname": "にわとりーな@アラフィフ綺麗になりたい",
+      "user_rank": 4,
+      "item_id": "P003",
+      "item_name": "ビアス",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
+      "post_url": "https://room.rakuten.co.jp/niwatreena/1700381022943185",
+      "price": 5960,
+      "from_service": "room",
+      "likes": 1,
+      "comments": 0,
+      "recollects": 0,
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "ビアス"
@@ -24044,26 +24063,26 @@
       "item_name": "ビアス",
       "item_short": "ビアス",
       "posts": 82,
-      "likes": 1938,
+      "likes": 1941,
       "comments": 40,
       "recollects": 14,
       "latest": "2026-08-02 17:08:46",
-      "likes_per_post": 23.6,
+      "likes_per_post": 23.7,
       "recollect_rate": 0.17,
-      "influence": 1980
+      "influence": 1983
     },
     {
       "item_id": "P004",
       "item_name": "グルタスキントナー",
       "item_short": "グルタスキントナー",
-      "posts": 71,
-      "likes": 1378,
+      "posts": 72,
+      "likes": 1398,
       "comments": 21,
       "recollects": 6,
-      "latest": "2026-07-25 23:15:36",
+      "latest": "2026-08-03 06:29:04",
       "likes_per_post": 19.4,
       "recollect_rate": 0.08,
-      "influence": 1396
+      "influence": 1416
     },
     {
       "item_id": "P005",
@@ -24096,13 +24115,13 @@
       "item_name": "ハーブラピール",
       "item_short": "ハーブラピール",
       "posts": 200,
-      "likes": 3739,
-      "comments": 50,
+      "likes": 3744,
+      "comments": 51,
       "recollects": 18,
       "latest": "2026-08-01 14:06:25",
       "likes_per_post": 18.7,
       "recollect_rate": 0.09,
-      "influence": 3793
+      "influence": 3798
     },
     {
       "item_id": "P008",
@@ -24136,7 +24155,7 @@
       "username": "room_8ded1f8dd5",
       "fullname": "アポロさん家",
       "posts": 5,
-      "total_likes": 1129,
+      "total_likes": 1130,
       "rank": 3
     },
     {
@@ -24707,6 +24726,13 @@
       "rank": 4
     },
     {
+      "username": "room_30bd1feed6",
+      "fullname": "快適ライフ研究所",
+      "posts": 2,
+      "total_likes": 50,
+      "rank": 4
+    },
+    {
       "username": "room_ozatake5958",
       "fullname": "ozatake:ワンオペママサポーター",
       "posts": 1,
@@ -24791,6 +24817,13 @@
       "rank": 4
     },
     {
+      "username": "room_02377d6516",
+      "fullname": "memi@GeryH",
+      "posts": 1,
+      "total_likes": 38,
+      "rank": 3
+    },
+    {
       "username": "202504",
       "fullname": "room202504",
       "posts": 1,
@@ -24805,13 +24838,6 @@
       "rank": 4
     },
     {
-      "username": "room_02377d6516",
-      "fullname": "memi@GeryH",
-      "posts": 1,
-      "total_likes": 36,
-      "rank": 3
-    },
-    {
       "username": "m.j.k",
       "fullname": "mik/ヨガ.美容.ファッション𓂃.✿",
       "posts": 3,
@@ -24824,13 +24850,6 @@
       "posts": 1,
       "total_likes": 35,
       "rank": 1
-    },
-    {
-      "username": "sunrise.me",
-      "fullname": "sunrise♡",
-      "posts": 2,
-      "total_likes": 34,
-      "rank": 4
     }
   ],
   "by_day": [
@@ -26077,7 +26096,7 @@
     {
       "day": "2026-06-27",
       "n": 3,
-      "likes": 399
+      "likes": 400
     },
     {
       "day": "2026-06-28",
@@ -26092,7 +26111,7 @@
     {
       "day": "2026-07-01",
       "n": 4,
-      "likes": 17
+      "likes": 22
     },
     {
       "day": "2026-07-03",
@@ -26227,7 +26246,12 @@
     {
       "day": "2026-08-02",
       "n": 1,
-      "likes": 36
+      "likes": 38
+    },
+    {
+      "day": "2026-08-03",
+      "n": 1,
+      "likes": 20
     }
   ],
   "movers": [
@@ -26263,8 +26287,8 @@
       "post_url": "https://room.rakuten.co.jp/room_8ded1f8dd5/1700383697351124",
       "item_name": "ビアス",
       "item_short": "ビアス",
-      "first_likes": 381,
-      "last_likes": 391,
+      "first_likes": 382,
+      "last_likes": 392,
       "delta": 10
     },
     {
@@ -26434,15 +26458,15 @@
       "total": 82,
       "recent": 1,
       "prior": 31,
-      "recent_likes": 36,
+      "recent_likes": 38,
       "item_short": "ビアス"
     },
     {
       "item_id": "P004",
-      "total": 71,
-      "recent": 0,
+      "total": 72,
+      "recent": 1,
       "prior": 5,
-      "recent_likes": 0,
+      "recent_likes": 20,
       "item_short": "グルタスキントナー"
     },
     {
@@ -26498,12 +26522,12 @@
       "i": "ホワイトプラス"
     },
     {
-      "l": 1938,
+      "l": 1941,
       "r": 14,
       "i": "ビアス"
     },
     {
-      "l": 1378,
+      "l": 1398,
       "r": 6,
       "i": "グルタスキントナー"
     },
@@ -26518,7 +26542,7 @@
       "i": "レチノソームショット"
     },
     {
-      "l": 3739,
+      "l": 3744,
       "r": 18,
       "i": "ハーブラピール"
     },
