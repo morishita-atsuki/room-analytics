@@ -2,16 +2,16 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-08-10 18:10 JST",
+    "generated_at": "2026-08-11 01:44 JST",
     "snapshots": 1
   },
   "summary": {
-    "posts": 1274,
-    "users": 1008,
+    "posts": 1282,
+    "users": 1013,
     "items": 9,
-    "likes": 18676,
+    "likes": 18684,
     "comments": 239,
-    "recollects": 122
+    "recollects": 127
   },
   "posts": [
     {
@@ -37,7 +37,7 @@
       "post_id": "1700382785286136",
       "created_at": "2026-06-20 07:02:38",
       "username": "room_ce6e8ec13d",
-      "fullname": "kimidori55🌱9日感謝✨😭",
+      "fullname": "kimidori55🌱11日休みます",
       "user_rank": 4,
       "item_id": "P002",
       "item_name": "MYC ホワイトプラス",
@@ -83,7 +83,7 @@
       "post_url": "https://room.rakuten.co.jp/room_8ded1f8dd5/1700383697351124",
       "price": 5960,
       "from_service": "room",
-      "likes": 391,
+      "likes": 390,
       "comments": 10,
       "recollects": 0,
       "detail_views": 0,
@@ -311,7 +311,7 @@
       "post_url": "https://room.rakuten.co.jp/room_c6aca81445/1700371464890382",
       "price": 3490,
       "from_service": "room",
-      "likes": 212,
+      "likes": 211,
       "comments": 1,
       "recollects": 0,
       "detail_views": 0,
@@ -558,7 +558,7 @@
       "post_url": "https://room.rakuten.co.jp/room_unyo300/1700385074232223",
       "price": 1595,
       "from_service": "room",
-      "likes": 142,
+      "likes": 141,
       "comments": 2,
       "recollects": 0,
       "detail_views": 0,
@@ -786,7 +786,7 @@
       "post_url": "https://room.rakuten.co.jp/room_0ae729fc16/1700382795671194",
       "price": 5562,
       "from_service": "room",
-      "likes": 118,
+      "likes": 117,
       "comments": 0,
       "recollects": 0,
       "detail_views": 0,
@@ -919,7 +919,7 @@
       "post_url": "https://room.rakuten.co.jp/room_d3b828746a/1700357574288124",
       "price": 1595,
       "from_service": "room",
-      "likes": 103,
+      "likes": 102,
       "comments": 0,
       "recollects": 0,
       "detail_views": 0,
@@ -1231,6 +1231,25 @@
       "item_short": "グルタスキントナー"
     },
     {
+      "post_id": "1700388189691174",
+      "created_at": "2026-08-06 05:48:28",
+      "username": "room_d92a3bdeb9",
+      "fullname": "レモ・ネード ✦ セレクト 🍋",
+      "user_rank": 3,
+      "item_id": "P002",
+      "item_name": "MYC ホワイトプラス",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/mycwhite/",
+      "post_url": "https://room.rakuten.co.jp/room_d92a3bdeb9/1700388189691174",
+      "price": 5562,
+      "from_service": "room",
+      "likes": 73,
+      "comments": 0,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "ホワイトプラス"
+    },
+    {
       "post_id": "1700363453641240",
       "created_at": "2026-01-15 19:39:55",
       "username": "mofuko-zutuu",
@@ -1248,25 +1267,6 @@
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "レチノソームショット"
-    },
-    {
-      "post_id": "1700388189691174",
-      "created_at": "2026-08-06 05:48:28",
-      "username": "room_d92a3bdeb9",
-      "fullname": "レモ・ネード ✦ セレクト 🍋",
-      "user_rank": 3,
-      "item_id": "P002",
-      "item_name": "MYC ホワイトプラス",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/mycwhite/",
-      "post_url": "https://room.rakuten.co.jp/room_d92a3bdeb9/1700388189691174",
-      "price": 5562,
-      "from_service": "room",
-      "likes": 71,
-      "comments": 0,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "ホワイトプラス"
     },
     {
       "post_id": "1700386136237166",
@@ -1630,6 +1630,25 @@
       "item_short": "ホワイトプラス"
     },
     {
+      "post_id": "1700388122013319",
+      "created_at": "2026-08-05 17:11:00",
+      "username": "room_0d5069d897",
+      "fullname": "さとこみ（～8/4 感謝🙏）",
+      "user_rank": 4,
+      "item_id": "P003",
+      "item_name": "ビアス",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
+      "post_url": "https://room.rakuten.co.jp/room_0d5069d897/1700388122013319",
+      "price": 5960,
+      "from_service": "room",
+      "likes": 59,
+      "comments": 0,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "ビアス"
+    },
+    {
       "post_id": "1700384935331236",
       "created_at": "2026-07-08 06:59:34",
       "username": "room_afc6292165",
@@ -1647,25 +1666,6 @@
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "レチノソームショット"
-    },
-    {
-      "post_id": "1700388122013319",
-      "created_at": "2026-08-05 17:11:00",
-      "username": "room_0d5069d897",
-      "fullname": "さとこみ（～8/4 感謝🙏）",
-      "user_rank": 4,
-      "item_id": "P003",
-      "item_name": "ビアス",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
-      "post_url": "https://room.rakuten.co.jp/room_0d5069d897/1700388122013319",
-      "price": 5960,
-      "from_service": "room",
-      "likes": 58,
-      "comments": 0,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "ビアス"
     },
     {
       "post_id": "1700381256196373",
@@ -1839,6 +1839,25 @@
       "item_short": "グルタスキントナー"
     },
     {
+      "post_id": "1700387760553158",
+      "created_at": "2026-08-02 17:08:46",
+      "username": "room_02377d6516",
+      "fullname": "memi@GeryH",
+      "user_rank": 3,
+      "item_id": "P003",
+      "item_name": "ビアス",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
+      "post_url": "https://room.rakuten.co.jp/room_02377d6516/1700387760553158",
+      "price": 5960,
+      "from_service": "room",
+      "likes": 46,
+      "comments": 3,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "ビアス"
+    },
+    {
       "post_id": "1700377202018739",
       "created_at": "2026-05-06 20:02:27",
       "username": "room_bb7296e21c",
@@ -1875,25 +1894,6 @@
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "ホワイトプラス"
-    },
-    {
-      "post_id": "1700387760553158",
-      "created_at": "2026-08-02 17:08:46",
-      "username": "room_02377d6516",
-      "fullname": "memi@GeryH",
-      "user_rank": 3,
-      "item_id": "P003",
-      "item_name": "ビアス",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
-      "post_url": "https://room.rakuten.co.jp/room_02377d6516/1700387760553158",
-      "price": 5960,
-      "from_service": "room",
-      "likes": 45,
-      "comments": 3,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "ビアス"
     },
     {
       "post_id": "1700364088747209",
@@ -2602,7 +2602,7 @@
       "post_id": "1700239502085448",
       "created_at": "2024-03-02 20:56:43",
       "username": "room_aabf9c0ce4",
-      "fullname": "ひなた☆8/7ご購入感謝です❤️",
+      "fullname": "ひなた☆8/9ご購入感謝です❤️",
       "user_rank": 4,
       "item_id": "P001",
       "item_name": "ハーバニエンス ハーブガーデンセット",
@@ -3590,7 +3590,7 @@
       "post_id": "1700381075726155",
       "created_at": "2026-06-06 14:05:28",
       "username": "room_8089671927",
-      "fullname": "💎アロハ🕊️ゆる身体に優し🔥無添加",
+      "fullname": "💎アロハ🕊️9ありがと✨ゆる無添加",
       "user_rank": 4,
       "item_id": "P003",
       "item_name": "ビアス",
@@ -6055,25 +6055,6 @@
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "ハーバニエンス"
-    },
-    {
-      "post_id": "1700388095222210",
-      "created_at": "2026-08-05 12:37:33",
-      "username": "taka3room",
-      "fullname": "taka3｜お得にお買い物✨",
-      "user_rank": 4,
-      "item_id": "P002",
-      "item_name": "MYC ホワイトプラス",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/mycwhite/",
-      "post_url": "https://room.rakuten.co.jp/taka3room/1700388095222210",
-      "price": 5562,
-      "from_service": "room",
-      "likes": 7,
-      "comments": 0,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "ホワイトプラス"
     },
     {
       "post_id": "1700386494905146",
@@ -8715,6 +8696,25 @@
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "ジェルバームクレンジング"
+    },
+    {
+      "post_id": "1700388599209379",
+      "created_at": "2026-08-09 20:00:04",
+      "username": "room_c1a3c24c54",
+      "fullname": "くらちゃん🐶",
+      "user_rank": 4,
+      "item_id": "P001",
+      "item_name": "ハーバニエンス ハーブガーデンセット",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/s-herbgarden_set/",
+      "post_url": "https://room.rakuten.co.jp/room_c1a3c24c54/1700388599209379",
+      "price": 1595,
+      "from_service": "room",
+      "likes": 4,
+      "comments": 0,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "ハーバニエンス"
     },
     {
       "post_id": "1700353916362234",
@@ -12251,6 +12251,44 @@
       "item_short": "ビタスポットセラム"
     },
     {
+      "post_id": "1700388681839209",
+      "created_at": "2026-08-10 13:54:36",
+      "username": "room_7d7ce39625",
+      "fullname": "らい",
+      "user_rank": 1,
+      "item_id": "P001",
+      "item_name": "ハーバニエンス ハーブガーデンセット",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/s-herbgarden_set/",
+      "post_url": "https://room.rakuten.co.jp/room_7d7ce39625/1700388681839209",
+      "price": 1595,
+      "from_service": "room",
+      "likes": 2,
+      "comments": 0,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "ハーバニエンス"
+    },
+    {
+      "post_id": "1700388681643161",
+      "created_at": "2026-08-10 13:52:11",
+      "username": "room_1000942",
+      "fullname": "うめ～40代無添加シンプル大好き専業主婦",
+      "user_rank": 2,
+      "item_id": "P001",
+      "item_name": "ハーバニエンス ハーブガーデンセット",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/s-herbgarden_set/",
+      "post_url": "https://room.rakuten.co.jp/room_1000942/1700388681643161",
+      "price": 1595,
+      "from_service": "room",
+      "likes": 2,
+      "comments": 0,
+      "recollects": 1,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "ハーバニエンス"
+    },
+    {
       "post_id": "1700388494303329",
       "created_at": "2026-08-08 20:56:47",
       "username": "yuihime-pink",
@@ -12289,15 +12327,15 @@
       "item_short": "ハーバニエンス"
     },
     {
-      "post_id": "1700353889051145",
-      "created_at": "2025-11-23 01:50:19",
-      "username": "room_d9e4a96306",
-      "fullname": "F＊gpoppy＊CN",
-      "user_rank": 4,
+      "post_id": "1700350244299369",
+      "created_at": "2025-11-07 20:20:58",
+      "username": "room_f62e317a77",
+      "fullname": "ちゃぼ",
+      "user_rank": 2,
       "item_id": "P001",
       "item_name": "ハーバニエンス ハーブガーデンセット",
       "item_url": "https://item.rakuten.co.jp/aokinomori/s-herbgarden_set/",
-      "post_url": "https://room.rakuten.co.jp/room_d9e4a96306/1700353889051145",
+      "post_url": "https://room.rakuten.co.jp/room_f62e317a77/1700350244299369",
       "price": 1595,
       "from_service": "room",
       "likes": 2,
@@ -12308,15 +12346,15 @@
       "item_short": "ハーバニエンス"
     },
     {
-      "post_id": "1700350244299369",
-      "created_at": "2025-11-07 20:20:58",
-      "username": "room_f62e317a77",
-      "fullname": "ちゃぼ",
-      "user_rank": 2,
+      "post_id": "1700353889051145",
+      "created_at": "2025-11-23 01:50:19",
+      "username": "room_d9e4a96306",
+      "fullname": "F＊gpoppy＊CN",
+      "user_rank": 4,
       "item_id": "P001",
       "item_name": "ハーバニエンス ハーブガーデンセット",
       "item_url": "https://item.rakuten.co.jp/aokinomori/s-herbgarden_set/",
-      "post_url": "https://room.rakuten.co.jp/room_f62e317a77/1700350244299369",
+      "post_url": "https://room.rakuten.co.jp/room_d9e4a96306/1700353889051145",
       "price": 1595,
       "from_service": "room",
       "likes": 2,
@@ -12672,7 +12710,7 @@
       "post_id": "1700388053927144",
       "created_at": "2026-08-05 03:29:31",
       "username": "room_20b5f1f15f",
-      "fullname": "rin🐈&nana🐈 yuuki",
+      "fullname": "rin🐈&nana🐈& yuuki",
       "user_rank": 3,
       "item_id": "P002",
       "item_name": "MYC ホワイトプラス",
@@ -13351,6 +13389,63 @@
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "ビアス"
+    },
+    {
+      "post_id": "1700388713633767",
+      "created_at": "2026-08-10 19:24:34",
+      "username": "room_c16bd43c41",
+      "fullname": "ひさこ@皆様ありがとうございます！",
+      "user_rank": 3,
+      "item_id": "P004",
+      "item_name": "グルタスキントナー",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/glutathione/",
+      "post_url": "https://room.rakuten.co.jp/room_c16bd43c41/1700388713633767",
+      "price": 5780,
+      "from_service": "room",
+      "likes": 2,
+      "comments": 0,
+      "recollects": 1,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "グルタスキントナー"
+    },
+    {
+      "post_id": "1700388713499116",
+      "created_at": "2026-08-10 19:23:20",
+      "username": "room_c8f1073539",
+      "fullname": "AtoM",
+      "user_rank": 4,
+      "item_id": "P004",
+      "item_name": "グルタスキントナー",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/glutathione/",
+      "post_url": "https://room.rakuten.co.jp/room_c8f1073539/1700388713499116",
+      "price": 5780,
+      "from_service": "room",
+      "likes": 2,
+      "comments": 0,
+      "recollects": 2,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "グルタスキントナー"
+    },
+    {
+      "post_id": "1700388713377220",
+      "created_at": "2026-08-10 19:22:19",
+      "username": "room_8541d7c1a6",
+      "fullname": "りゅーぴー✨",
+      "user_rank": 4,
+      "item_id": "P004",
+      "item_name": "グルタスキントナー",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/glutathione/",
+      "post_url": "https://room.rakuten.co.jp/room_8541d7c1a6/1700388713377220",
+      "price": 5780,
+      "from_service": "room",
+      "likes": 2,
+      "comments": 0,
+      "recollects": 1,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "グルタスキントナー"
     },
     {
       "post_id": "1700385118174196",
@@ -15063,25 +15158,6 @@
       "item_short": "ジェルバームクレンジング"
     },
     {
-      "post_id": "1700353963096395",
-      "created_at": "2025-11-23 11:32:10",
-      "username": "room_f5b9adc3d2",
-      "fullname": "あすか",
-      "user_rank": 1,
-      "item_id": "P001",
-      "item_name": "ハーバニエンス ハーブガーデンセット",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/s-herbgarden_set/",
-      "post_url": "https://room.rakuten.co.jp/room_f5b9adc3d2/1700353963096395",
-      "price": 1595,
-      "from_service": "room",
-      "likes": 1,
-      "comments": 0,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "ハーバニエンス"
-    },
-    {
       "post_id": "1700353962945413",
       "created_at": "2025-11-23 11:31:35",
       "username": "room_33cb9cc22f",
@@ -15096,6 +15172,25 @@
       "likes": 1,
       "comments": 0,
       "recollects": 1,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "ハーバニエンス"
+    },
+    {
+      "post_id": "1700353963096395",
+      "created_at": "2025-11-23 11:32:10",
+      "username": "room_f5b9adc3d2",
+      "fullname": "あすか",
+      "user_rank": 1,
+      "item_id": "P001",
+      "item_name": "ハーバニエンス ハーブガーデンセット",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/s-herbgarden_set/",
+      "post_url": "https://room.rakuten.co.jp/room_f5b9adc3d2/1700353963096395",
+      "price": 1595,
+      "from_service": "room",
+      "likes": 1,
+      "comments": 0,
+      "recollects": 0,
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "ハーバニエンス"
@@ -15172,25 +15267,6 @@
       "likes": 1,
       "comments": 0,
       "recollects": 1,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "ハーバニエンス"
-    },
-    {
-      "post_id": "1700387498317593",
-      "created_at": "2026-07-31 07:34:46",
-      "username": "room_111kkk",
-      "fullname": "KAZUKAZE",
-      "user_rank": 3,
-      "item_id": "P001",
-      "item_name": "ハーバニエンス ハーブガーデンセット",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/s-herbgarden_set/",
-      "post_url": "https://room.rakuten.co.jp/room_111kkk/1700387498317593",
-      "price": 1595,
-      "from_service": "room",
-      "likes": 1,
-      "comments": 0,
-      "recollects": 0,
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "ハーバニエンス"
@@ -15300,6 +15376,25 @@
       "item_name": "ハーバニエンス ハーブガーデンセット",
       "item_url": "https://item.rakuten.co.jp/aokinomori/s-herbgarden_set/",
       "post_url": "https://room.rakuten.co.jp/room_5d311ee9ca/1700347522143412",
+      "price": 1595,
+      "from_service": "room",
+      "likes": 1,
+      "comments": 0,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "ハーバニエンス"
+    },
+    {
+      "post_id": "1700387498317593",
+      "created_at": "2026-07-31 07:34:46",
+      "username": "room_111kkk",
+      "fullname": "KAZUKAZE",
+      "user_rank": 3,
+      "item_id": "P001",
+      "item_name": "ハーバニエンス ハーブガーデンセット",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/s-herbgarden_set/",
+      "post_url": "https://room.rakuten.co.jp/room_111kkk/1700387498317593",
       "price": 1595,
       "from_service": "room",
       "likes": 1,
@@ -16659,6 +16754,25 @@
       "item_short": "ホワイトプラス"
     },
     {
+      "post_id": "1700339888452292",
+      "created_at": "2025-09-25 12:23:21",
+      "username": "surikenn",
+      "fullname": "すりけん【いつもありがとう😊】",
+      "user_rank": 3,
+      "item_id": "P002",
+      "item_name": "MYC ホワイトプラス",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/mycwhite/",
+      "post_url": "https://room.rakuten.co.jp/surikenn/1700339888452292",
+      "price": 5562,
+      "from_service": "room",
+      "likes": 1,
+      "comments": 0,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "ホワイトプラス"
+    },
+    {
       "post_id": "1700388243704388",
       "created_at": "2026-08-06 16:41:46",
       "username": "tomonga0226",
@@ -16923,6 +17037,25 @@
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "ビアス"
+    },
+    {
+      "post_id": "1700388715500226",
+      "created_at": "2026-08-10 19:39:09",
+      "username": "room_42bda2a007",
+      "fullname": "tatsu",
+      "user_rank": 2,
+      "item_id": "P004",
+      "item_name": "グルタスキントナー",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/glutathione/",
+      "post_url": "https://room.rakuten.co.jp/room_42bda2a007/1700388715500226",
+      "price": 5780,
+      "from_service": "room",
+      "likes": 1,
+      "comments": 0,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "グルタスキントナー"
     },
     {
       "post_id": "1700386925268373",
@@ -20003,15 +20136,15 @@
       "item_short": "ハーバニエンス"
     },
     {
-      "post_id": "1700347819898256",
-      "created_at": "2025-10-28 06:54:41",
-      "username": "room_fe36274125",
-      "fullname": "Keiko Picks🎀",
+      "post_id": "1700351890966127",
+      "created_at": "2025-11-14 22:35:35",
+      "username": "room_5765ec9719",
+      "fullname": "Yoshimi Days🍃",
       "user_rank": 1,
       "item_id": "P001",
       "item_name": "ハーバニエンス ハーブガーデンセット",
       "item_url": "https://item.rakuten.co.jp/aokinomori/s-herbgarden_set/",
-      "post_url": "https://room.rakuten.co.jp/room_fe36274125/1700347819898256",
+      "post_url": "https://room.rakuten.co.jp/room_5765ec9719/1700351890966127",
       "price": 1595,
       "from_service": "room",
       "likes": 0,
@@ -20022,15 +20155,15 @@
       "item_short": "ハーバニエンス"
     },
     {
-      "post_id": "1700351890966127",
-      "created_at": "2025-11-14 22:35:35",
-      "username": "room_5765ec9719",
-      "fullname": "Yoshimi Days🍃",
+      "post_id": "1700347819898256",
+      "created_at": "2025-10-28 06:54:41",
+      "username": "room_fe36274125",
+      "fullname": "Keiko Picks🎀",
       "user_rank": 1,
       "item_id": "P001",
       "item_name": "ハーバニエンス ハーブガーデンセット",
       "item_url": "https://item.rakuten.co.jp/aokinomori/s-herbgarden_set/",
-      "post_url": "https://room.rakuten.co.jp/room_5765ec9719/1700351890966127",
+      "post_url": "https://room.rakuten.co.jp/room_fe36274125/1700347819898256",
       "price": 1595,
       "from_service": "room",
       "likes": 0,
@@ -21578,6 +21711,25 @@
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "ビアス"
+    },
+    {
+      "post_id": "1700388714484188",
+      "created_at": "2026-08-10 19:32:13",
+      "username": "room_8d88127f99",
+      "fullname": "みぽりん",
+      "user_rank": 2,
+      "item_id": "P004",
+      "item_name": "グルタスキントナー",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/glutathione/",
+      "post_url": "https://room.rakuten.co.jp/room_8d88127f99/1700388714484188",
+      "price": 5780,
+      "from_service": "room",
+      "likes": 0,
+      "comments": 0,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "グルタスキントナー"
     },
     {
       "post_id": "1700383137765360",
@@ -24226,53 +24378,53 @@
       "item_id": "P001",
       "item_name": "ハーバニエンス ハーブガーデンセット",
       "item_short": "ハーバニエンス",
-      "posts": 163,
-      "likes": 2051,
+      "posts": 166,
+      "likes": 2057,
       "comments": 22,
-      "recollects": 11,
-      "latest": "2026-08-08 20:56:47",
-      "likes_per_post": 12.6,
+      "recollects": 12,
+      "latest": "2026-08-10 13:54:36",
+      "likes_per_post": 12.4,
       "recollect_rate": 0.07,
-      "influence": 2084
+      "influence": 2093
     },
     {
       "item_id": "P002",
       "item_name": "MYC ホワイトプラス",
       "item_short": "ホワイトプラス",
       "posts": 238,
-      "likes": 3306,
+      "likes": 3301,
       "comments": 41,
       "recollects": 25,
       "latest": "2026-08-06 09:36:59",
       "likes_per_post": 13.9,
       "recollect_rate": 0.11,
-      "influence": 3381
+      "influence": 3376
     },
     {
       "item_id": "P003",
       "item_name": "ビアス",
       "item_short": "ビアス",
       "posts": 89,
-      "likes": 2128,
+      "likes": 2129,
       "comments": 40,
       "recollects": 14,
       "latest": "2026-08-07 20:40:37",
       "likes_per_post": 23.9,
       "recollect_rate": 0.16,
-      "influence": 2170
+      "influence": 2171
     },
     {
       "item_id": "P004",
       "item_name": "グルタスキントナー",
       "item_short": "グルタスキントナー",
-      "posts": 72,
-      "likes": 1415,
+      "posts": 77,
+      "likes": 1422,
       "comments": 21,
-      "recollects": 6,
-      "latest": "2026-08-03 06:29:04",
-      "likes_per_post": 19.7,
-      "recollect_rate": 0.08,
-      "influence": 1433
+      "recollects": 10,
+      "latest": "2026-08-10 19:39:09",
+      "likes_per_post": 18.5,
+      "recollect_rate": 0.13,
+      "influence": 1452
     },
     {
       "item_id": "P005",
@@ -24318,13 +24470,13 @@
       "item_name": "ビタスポットセラム",
       "item_short": "ビタスポットセラム",
       "posts": 89,
-      "likes": 1121,
+      "likes": 1120,
       "comments": 8,
       "recollects": 5,
       "latest": "2026-08-08 20:09:52",
       "likes_per_post": 12.6,
       "recollect_rate": 0.06,
-      "influence": 1136
+      "influence": 1135
     },
     {
       "item_id": "P009",
@@ -24345,7 +24497,7 @@
       "username": "room_8ded1f8dd5",
       "fullname": "アポロさん家",
       "posts": 5,
-      "total_likes": 1129,
+      "total_likes": 1128,
       "rank": 3
     },
     {
@@ -24364,7 +24516,7 @@
     },
     {
       "username": "room_ce6e8ec13d",
-      "fullname": "kimidori55🌱9日感謝✨😭",
+      "fullname": "kimidori55🌱11日休みます",
       "posts": 1,
       "total_likes": 419,
       "rank": 4
@@ -24450,7 +24602,7 @@
       "username": "room_c6aca81445",
       "fullname": "ねむねむ",
       "posts": 1,
-      "total_likes": 212,
+      "total_likes": 211,
       "rank": 1
     },
     {
@@ -24527,7 +24679,7 @@
       "username": "room_d92a3bdeb9",
       "fullname": "レモ・ネード ✦ セレクト 🍋",
       "posts": 2,
-      "total_likes": 159,
+      "total_likes": 161,
       "rank": 3
     },
     {
@@ -24562,7 +24714,7 @@
       "username": "room_unyo300",
       "fullname": "うにょ⁂～大人女子×美と健康を科学する～",
       "posts": 1,
-      "total_likes": 142,
+      "total_likes": 141,
       "rank": 4
     },
     {
@@ -24646,7 +24798,7 @@
       "username": "room_0ae729fc16",
       "fullname": "おくのはら",
       "posts": 1,
-      "total_likes": 118,
+      "total_likes": 117,
       "rank": 4
     },
     {
@@ -24681,7 +24833,7 @@
       "username": "room_d3b828746a",
       "fullname": "あおい🍀お得な商品🍀",
       "posts": 1,
-      "total_likes": 103,
+      "total_likes": 102,
       "rank": 4
     },
     {
@@ -24905,7 +25057,7 @@
       "username": "room_0d5069d897",
       "fullname": "さとこみ（～8/4 感謝🙏）",
       "posts": 1,
-      "total_likes": 58,
+      "total_likes": 59,
       "rank": 4
     },
     {
@@ -24958,6 +25110,13 @@
       "rank": 3
     },
     {
+      "username": "room_02377d6516",
+      "fullname": "memi@GeryH",
+      "posts": 1,
+      "total_likes": 46,
+      "rank": 3
+    },
+    {
       "username": "room_bb7296e21c",
       "fullname": "男女兼用美容ROOM",
       "posts": 1,
@@ -24967,13 +25126,6 @@
     {
       "username": "room_9b0e8cbae9",
       "fullname": "もちまめ@ラクして整える暮らし",
-      "posts": 1,
-      "total_likes": 45,
-      "rank": 3
-    },
-    {
-      "username": "room_02377d6516",
-      "fullname": "memi@GeryH",
       "posts": 1,
       "total_likes": 45,
       "rank": 3
@@ -25300,8 +25452,8 @@
     },
     {
       "day": "2025-09-25",
-      "n": 11,
-      "likes": 40
+      "n": 12,
+      "likes": 41
     },
     {
       "day": "2025-09-26",
@@ -25556,7 +25708,7 @@
     {
       "day": "2025-12-08",
       "n": 10,
-      "likes": 170
+      "likes": 169
     },
     {
       "day": "2025-12-09",
@@ -25836,7 +25988,7 @@
     {
       "day": "2026-03-19",
       "n": 8,
-      "likes": 254
+      "likes": 253
     },
     {
       "day": "2026-03-20",
@@ -26246,7 +26398,7 @@
     {
       "day": "2026-06-20",
       "n": 14,
-      "likes": 708
+      "likes": 707
     },
     {
       "day": "2026-06-21",
@@ -26281,7 +26433,7 @@
     {
       "day": "2026-06-27",
       "n": 3,
-      "likes": 399
+      "likes": 398
     },
     {
       "day": "2026-06-28",
@@ -26326,7 +26478,7 @@
     {
       "day": "2026-07-09",
       "n": 15,
-      "likes": 222
+      "likes": 221
     },
     {
       "day": "2026-07-10",
@@ -26431,7 +26583,7 @@
     {
       "day": "2026-08-02",
       "n": 4,
-      "likes": 109
+      "likes": 110
     },
     {
       "day": "2026-08-03",
@@ -26445,13 +26597,13 @@
     },
     {
       "day": "2026-08-05",
-      "n": 12,
-      "likes": 164
+      "n": 11,
+      "likes": 158
     },
     {
       "day": "2026-08-06",
       "n": 6,
-      "likes": 111
+      "likes": 113
     },
     {
       "day": "2026-08-07",
@@ -26462,6 +26614,16 @@
       "day": "2026-08-08",
       "n": 7,
       "likes": 20
+    },
+    {
+      "day": "2026-08-09",
+      "n": 1,
+      "likes": 4
+    },
+    {
+      "day": "2026-08-10",
+      "n": 7,
+      "likes": 11
     }
   ],
   "movers": [
@@ -26497,8 +26659,8 @@
       "post_url": "https://room.rakuten.co.jp/room_8ded1f8dd5/1700383697351124",
       "item_name": "ビアス",
       "item_short": "ビアス",
-      "first_likes": 381,
-      "last_likes": 391,
+      "first_likes": 380,
+      "last_likes": 390,
       "delta": 10
     },
     {
@@ -26605,8 +26767,8 @@
       "post_url": "https://room.rakuten.co.jp/room_c6aca81445/1700371464890382",
       "item_name": "ビタスポットセラム",
       "item_short": "ビタスポットセラム",
-      "first_likes": 202,
-      "last_likes": 212,
+      "first_likes": 201,
+      "last_likes": 211,
       "delta": 10
     },
     {
@@ -26658,9 +26820,9 @@
     {
       "item_id": "P002",
       "total": 238,
-      "recent": 7,
+      "recent": 6,
       "prior": 4,
-      "recent_likes": 133,
+      "recent_likes": 128,
       "item_short": "ホワイトプラス"
     },
     {
@@ -26668,15 +26830,15 @@
       "total": 89,
       "recent": 8,
       "prior": 1,
-      "recent_likes": 158,
+      "recent_likes": 159,
       "item_short": "ビアス"
     },
     {
       "item_id": "P004",
-      "total": 72,
-      "recent": 1,
+      "total": 77,
+      "recent": 6,
       "prior": 0,
-      "recent_likes": 35,
+      "recent_likes": 42,
       "item_short": "グルタスキントナー"
     },
     {
@@ -26689,10 +26851,10 @@
     },
     {
       "item_id": "P001",
-      "total": 163,
-      "recent": 3,
+      "total": 166,
+      "recent": 6,
       "prior": 4,
-      "recent_likes": 4,
+      "recent_likes": 12,
       "item_short": "ハーバニエンス"
     },
     {
@@ -26722,23 +26884,23 @@
   ],
   "scatter": [
     {
-      "l": 2051,
-      "r": 11,
+      "l": 2057,
+      "r": 12,
       "i": "ハーバニエンス"
     },
     {
-      "l": 3306,
+      "l": 3301,
       "r": 25,
       "i": "ホワイトプラス"
     },
     {
-      "l": 2128,
+      "l": 2129,
       "r": 14,
       "i": "ビアス"
     },
     {
-      "l": 1415,
-      "r": 6,
+      "l": 1422,
+      "r": 10,
       "i": "グルタスキントナー"
     },
     {
@@ -26757,7 +26919,7 @@
       "i": "ハーブラピール"
     },
     {
-      "l": 1121,
+      "l": 1120,
       "r": 5,
       "i": "ビタスポットセラム"
     },
