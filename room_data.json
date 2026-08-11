@@ -2,7 +2,7 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-08-11 01:44 JST",
+    "generated_at": "2026-08-11 09:15 JST",
     "snapshots": 1
   },
   "summary": {
@@ -26828,25 +26828,25 @@
     {
       "item_id": "P003",
       "total": 89,
-      "recent": 8,
-      "prior": 1,
-      "recent_likes": 159,
+      "recent": 7,
+      "prior": 2,
+      "recent_likes": 155,
       "item_short": "ビアス"
     },
     {
       "item_id": "P004",
       "total": 77,
-      "recent": 6,
-      "prior": 0,
-      "recent_likes": 42,
+      "recent": 5,
+      "prior": 1,
+      "recent_likes": 7,
       "item_short": "グルタスキントナー"
     },
     {
       "item_id": "P007",
       "total": 200,
-      "recent": 15,
-      "prior": 2,
-      "recent_likes": 71,
+      "recent": 14,
+      "prior": 3,
+      "recent_likes": 64,
       "item_short": "ハーブラピール"
     },
     {
