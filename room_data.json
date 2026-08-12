@@ -2,7 +2,7 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-08-12 01:50 JST",
+    "generated_at": "2026-08-12 09:16 JST",
     "snapshots": 1
   },
   "summary": {
@@ -26844,9 +26844,9 @@
     {
       "item_id": "P002",
       "total": 238,
-      "recent": 6,
+      "recent": 5,
       "prior": 4,
-      "recent_likes": 131,
+      "recent_likes": 81,
       "item_short": "ホワイトプラス"
     },
     {
@@ -26868,16 +26868,16 @@
     {
       "item_id": "P007",
       "total": 200,
-      "recent": 14,
-      "prior": 3,
-      "recent_likes": 64,
+      "recent": 10,
+      "prior": 6,
+      "recent_likes": 56,
       "item_short": "ハーブラピール"
     },
     {
       "item_id": "P001",
       "total": 166,
       "recent": 6,
-      "prior": 4,
+      "prior": 2,
       "recent_likes": 13,
       "item_short": "ハーバニエンス"
     },
