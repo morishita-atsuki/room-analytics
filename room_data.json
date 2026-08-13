@@ -2,15 +2,15 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-08-13 10:17 JST",
+    "generated_at": "2026-08-13 18:04 JST",
     "snapshots": 1
   },
   "summary": {
-    "posts": 1283,
-    "users": 1013,
+    "posts": 1284,
+    "users": 1014,
     "items": 9,
-    "likes": 18704,
-    "comments": 239,
+    "likes": 18706,
+    "comments": 240,
     "recollects": 123
   },
   "posts": [
@@ -1402,6 +1402,25 @@
       "item_short": "ハーブラピール"
     },
     {
+      "post_id": "1700356491104315",
+      "created_at": "2025-12-04 00:12:10",
+      "username": "room_daisy_mamabiyou",
+      "fullname": "daisy＊mamabiyou",
+      "user_rank": 2,
+      "item_id": "P007",
+      "item_name": "ハーブラピール",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/hlpeel/",
+      "post_url": "https://room.rakuten.co.jp/room_daisy_mamabiyou/1700356491104315",
+      "price": 4980,
+      "from_service": "room",
+      "likes": 65,
+      "comments": 6,
+      "recollects": 1,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "ハーブラピール"
+    },
+    {
       "post_id": "1700372199552884",
       "created_at": "2026-03-24 22:33:37",
       "username": "room_832cee1573",
@@ -1438,25 +1457,6 @@
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "レチノソームショット"
-    },
-    {
-      "post_id": "1700356491104315",
-      "created_at": "2025-12-04 00:12:10",
-      "username": "room_daisy_mamabiyou",
-      "fullname": "daisy＊mamabiyou",
-      "user_rank": 2,
-      "item_id": "P007",
-      "item_name": "ハーブラピール",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/hlpeel/",
-      "post_url": "https://room.rakuten.co.jp/room_daisy_mamabiyou/1700356491104315",
-      "price": 4980,
-      "from_service": "room",
-      "likes": 64,
-      "comments": 6,
-      "recollects": 1,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "ハーブラピール"
     },
     {
       "post_id": "1700371894225762",
@@ -7371,7 +7371,7 @@
       "post_id": "1700388488964288",
       "created_at": "2026-08-08 20:09:52",
       "username": "room_8541d7c1a6",
-      "fullname": "りゅーぴー✨",
+      "fullname": "買い足す日用品ROOM　りゅーぴー",
       "user_rank": 4,
       "item_id": "P008",
       "item_name": "ビタスポットセラム",
@@ -9955,7 +9955,7 @@
       "post_id": "1700387967078338",
       "created_at": "2026-08-04 13:30:22",
       "username": "room_c1a3c24c54",
-      "fullname": "くらちゃん🐶",
+      "fullname": "ベビー・キッズ用品ROOM　くらちゃん",
       "user_rank": 4,
       "item_id": "P007",
       "item_name": "ハーブラピール",
@@ -11836,7 +11836,7 @@
       "post_id": "1700388485571181",
       "created_at": "2026-08-08 19:38:16",
       "username": "room_8541d7c1a6",
-      "fullname": "りゅーぴー✨",
+      "fullname": "買い足す日用品ROOM　りゅーぴー",
       "user_rank": 4,
       "item_id": "P007",
       "item_name": "ハーブラピール",
@@ -12064,7 +12064,7 @@
       "post_id": "1700388831680470",
       "created_at": "2026-08-11 19:52:12",
       "username": "room_c1a3c24c54",
-      "fullname": "くらちゃん🐶",
+      "fullname": "ベビー・キッズ用品ROOM　くらちゃん",
       "user_rank": 4,
       "item_id": "P008",
       "item_name": "ビタスポットセラム",
@@ -13413,7 +13413,7 @@
       "post_id": "1700388713377220",
       "created_at": "2026-08-10 19:22:19",
       "username": "room_8541d7c1a6",
-      "fullname": "りゅーぴー✨",
+      "fullname": "買い足す日用品ROOM　りゅーぴー",
       "user_rank": 4,
       "item_id": "P004",
       "item_name": "グルタスキントナー",
@@ -14534,7 +14534,7 @@
       "post_id": "1700388828659403",
       "created_at": "2026-08-11 19:20:41",
       "username": "room_c1a3c24c54",
-      "fullname": "くらちゃん🐶",
+      "fullname": "ベビー・キッズ用品ROOM　くらちゃん",
       "user_rank": 4,
       "item_id": "P007",
       "item_name": "ハーブラピール",
@@ -14553,7 +14553,7 @@
       "post_id": "1700388006132137",
       "created_at": "2026-08-04 19:45:42",
       "username": "room_8541d7c1a6",
-      "fullname": "りゅーぴー✨",
+      "fullname": "買い足す日用品ROOM　りゅーぴー",
       "user_rank": 4,
       "item_id": "P007",
       "item_name": "ハーブラピール",
@@ -17042,7 +17042,7 @@
       "post_id": "1700388832723350",
       "created_at": "2026-08-11 20:01:46",
       "username": "room_c1a3c24c54",
-      "fullname": "くらちゃん🐶",
+      "fullname": "ベビー・キッズ用品ROOM　くらちゃん",
       "user_rank": 4,
       "item_id": "P004",
       "item_name": "グルタスキントナー",
@@ -17417,6 +17417,25 @@
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "グルタスキントナー"
+    },
+    {
+      "post_id": "1700388999655386",
+      "created_at": "2026-08-13 11:42:44",
+      "username": "room_oyabaka_3wan",
+      "fullname": "きゅんたん🐶わんこのいる暮らし｜40代",
+      "user_rank": 4,
+      "item_id": "P005",
+      "item_name": "リノクル",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/s-linokle/",
+      "post_url": "https://room.rakuten.co.jp/room_oyabaka_3wan/1700388999655386",
+      "price": 6480,
+      "from_service": "room",
+      "likes": 1,
+      "comments": 1,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "リノクル"
     },
     {
       "post_id": "1700387037157223",
@@ -24449,14 +24468,14 @@
       "item_id": "P005",
       "item_name": "リノクル",
       "item_short": "リノクル",
-      "posts": 197,
-      "likes": 1777,
-      "comments": 15,
+      "posts": 198,
+      "likes": 1778,
+      "comments": 16,
       "recollects": 15,
-      "latest": "2026-08-02 22:38:15",
+      "latest": "2026-08-13 11:42:44",
       "likes_per_post": 9.0,
       "recollect_rate": 0.08,
-      "influence": 1822
+      "influence": 1823
     },
     {
       "item_id": "P006",
@@ -24476,13 +24495,13 @@
       "item_name": "ハーブラピール",
       "item_short": "ハーブラピール",
       "posts": 200,
-      "likes": 3743,
+      "likes": 3744,
       "comments": 53,
       "recollects": 14,
       "latest": "2026-08-11 20:56:04",
       "likes_per_post": 18.7,
       "recollect_rate": 0.07,
-      "influence": 3785
+      "influence": 3786
     },
     {
       "item_id": "P008",
@@ -25003,6 +25022,13 @@
       "rank": 4
     },
     {
+      "username": "room_daisy_mamabiyou",
+      "fullname": "daisy＊mamabiyou",
+      "posts": 1,
+      "total_likes": 65,
+      "rank": 2
+    },
+    {
       "username": "room_832cee1573",
       "fullname": "aya🌸ご購入ありがとうございます✨",
       "posts": 1,
@@ -25015,13 +25041,6 @@
       "posts": 1,
       "total_likes": 64,
       "rank": 4
-    },
-    {
-      "username": "room_daisy_mamabiyou",
-      "fullname": "daisy＊mamabiyou",
-      "posts": 1,
-      "total_likes": 64,
-      "rank": 2
     },
     {
       "username": "room_8e567fda85",
@@ -25712,7 +25731,7 @@
     {
       "day": "2025-12-04",
       "n": 3,
-      "likes": 70
+      "likes": 71
     },
     {
       "day": "2025-12-06",
@@ -26651,8 +26670,8 @@
     },
     {
       "day": "2026-08-13",
-      "n": 1,
-      "likes": 1
+      "n": 2,
+      "likes": 2
     }
   ],
   "movers": [
@@ -26888,10 +26907,10 @@
     },
     {
       "item_id": "P005",
-      "total": 197,
-      "recent": 0,
+      "total": 198,
+      "recent": 1,
       "prior": 1,
-      "recent_likes": 0,
+      "recent_likes": 1,
       "item_short": "リノクル"
     },
     {
@@ -26933,7 +26952,7 @@
       "i": "グルタスキントナー"
     },
     {
-      "l": 1777,
+      "l": 1778,
       "r": 15,
       "i": "リノクル"
     },
@@ -26943,7 +26962,7 @@
       "i": "レチノソームショット"
     },
     {
-      "l": 3743,
+      "l": 3744,
       "r": 14,
       "i": "ハーブラピール"
     },
