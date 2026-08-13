@@ -2,16 +2,16 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-08-13 09:35 JST",
+    "generated_at": "2026-08-13 10:17 JST",
     "snapshots": 1
   },
   "summary": {
     "posts": 1283,
-    "users": 1011,
+    "users": 1013,
     "items": 9,
-    "likes": 18703,
+    "likes": 18704,
     "comments": 239,
-    "recollects": 124
+    "recollects": 123
   },
   "posts": [
     {
@@ -37,7 +37,7 @@
       "post_id": "1700382785286136",
       "created_at": "2026-06-20 07:02:38",
       "username": "room_ce6e8ec13d",
-      "fullname": "kimidori55🌱11日感謝✨😭",
+      "fullname": "kimidori55🌱",
       "user_rank": 4,
       "item_id": "P002",
       "item_name": "MYC ホワイトプラス",
@@ -984,6 +984,25 @@
       "item_short": "ホワイトプラス"
     },
     {
+      "post_id": "1700386649231314",
+      "created_at": "2026-07-23 10:01:11",
+      "username": "room_24d8aa2e2a",
+      "fullname": "CHTERU🤗いつもありがとうです💝",
+      "user_rank": 1,
+      "item_id": "P003",
+      "item_name": "ビアス",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
+      "post_url": "https://room.rakuten.co.jp/room_24d8aa2e2a/1700386649231314",
+      "price": 5960,
+      "from_service": "room",
+      "likes": 93,
+      "comments": 2,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "ビアス"
+    },
+    {
       "post_id": "1700386260443384",
       "created_at": "2026-07-19 22:08:44",
       "username": "room_87177bb8aa",
@@ -998,25 +1017,6 @@
       "likes": 93,
       "comments": 2,
       "recollects": 1,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "ビアス"
-    },
-    {
-      "post_id": "1700386649231314",
-      "created_at": "2026-07-23 10:01:11",
-      "username": "room_24d8aa2e2a",
-      "fullname": "CHTERU🤗いつもありがとうです💝",
-      "user_rank": 1,
-      "item_id": "P003",
-      "item_name": "ビアス",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
-      "post_url": "https://room.rakuten.co.jp/room_24d8aa2e2a/1700386649231314",
-      "price": 5960,
-      "from_service": "room",
-      "likes": 92,
-      "comments": 2,
-      "recollects": 0,
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "ビアス"
@@ -7732,7 +7732,7 @@
       "post_id": "1700368134210522",
       "created_at": "2026-02-21 10:54:30",
       "username": "room_akaimo",
-      "fullname": "あかいも𓂃⊹🍠マラソンお疲れ様です✨",
+      "fullname": "あかいも𓂃⊹🍠",
       "user_rank": 4,
       "item_id": "P002",
       "item_name": "MYC ホワイトプラス",
@@ -9120,7 +9120,7 @@
       "created_at": "2025-07-03 23:31:54",
       "username": "room_639ba63aba",
       "fullname": "つや子/ROOM",
-      "user_rank": 1,
+      "user_rank": 2,
       "item_id": "P002",
       "item_name": "MYC ホワイトプラス",
       "item_url": "https://item.rakuten.co.jp/aokinomori/mycwhite/",
@@ -11627,7 +11627,7 @@
       "post_id": "1700368309675162",
       "created_at": "2026-02-22 19:17:49",
       "username": "room_akaimo",
-      "fullname": "あかいも𓂃⊹🍠マラソンお疲れ様です✨",
+      "fullname": "あかいも𓂃⊹🍠",
       "user_rank": 4,
       "item_id": "P006",
       "item_name": "レチノソームショット",
@@ -13091,7 +13091,7 @@
       "created_at": "2025-12-07 15:17:46",
       "username": "room_869d53d003",
       "fullname": "みゃー",
-      "user_rank": 2,
+      "user_rank": 3,
       "item_id": "P002",
       "item_name": "MYC ホワイトプラス",
       "item_url": "https://item.rakuten.co.jp/aokinomori/mycwhite/",
@@ -15994,6 +15994,25 @@
       "item_short": "ハーバニエンス"
     },
     {
+      "post_id": "1700388986563366",
+      "created_at": "2026-08-13 08:57:15",
+      "username": "cocosono",
+      "fullname": "sono",
+      "user_rank": 4,
+      "item_id": "P002",
+      "item_name": "MYC ホワイトプラス",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/mycwhite/",
+      "post_url": "https://room.rakuten.co.jp/cocosono/1700388986563366",
+      "price": 5960,
+      "from_service": "room",
+      "likes": 1,
+      "comments": 0,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "ホワイトプラス"
+    },
+    {
       "post_id": "1700388142907814",
       "created_at": "2026-08-05 20:04:14",
       "username": "hikaroomn",
@@ -16754,25 +16773,6 @@
       "item_short": "ホワイトプラス"
     },
     {
-      "post_id": "1700339888452292",
-      "created_at": "2025-09-25 12:23:21",
-      "username": "surikenn",
-      "fullname": "すりけん【いつもありがとう😊】",
-      "user_rank": 3,
-      "item_id": "P002",
-      "item_name": "MYC ホワイトプラス",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/mycwhite/",
-      "post_url": "https://room.rakuten.co.jp/surikenn/1700339888452292",
-      "price": 5960,
-      "from_service": "room",
-      "likes": 1,
-      "comments": 0,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "ホワイトプラス"
-    },
-    {
       "post_id": "1700388243704388",
       "created_at": "2026-08-06 16:41:46",
       "username": "tomonga0226",
@@ -16929,7 +16929,7 @@
       "created_at": "2026-06-13 12:37:14",
       "username": "room_ec114860ae",
       "fullname": "宇田汐花",
-      "user_rank": 1,
+      "user_rank": 2,
       "item_id": "P003",
       "item_name": "ビアス",
       "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
@@ -18325,7 +18325,7 @@
       "from_service": "room",
       "likes": 1,
       "comments": 0,
-      "recollects": 1,
+      "recollects": 0,
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "レチノソームショット"
@@ -22644,25 +22644,6 @@
       "item_short": "リノクル"
     },
     {
-      "post_id": "1700387037880304",
-      "created_at": "2026-07-26 19:34:15",
-      "username": "room_ayamaruko",
-      "fullname": "𝘛𝘢𝘳𝘰 𝘮𝘢𝘮𝘢🦖",
-      "user_rank": 4,
-      "item_id": "P006",
-      "item_name": "レチノソームショット",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/retinol/",
-      "post_url": "https://room.rakuten.co.jp/room_ayamaruko/1700387037880304",
-      "price": 5960,
-      "from_service": "room",
-      "likes": 0,
-      "comments": 0,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "レチノソームショット"
-    },
-    {
       "post_id": "1700385164932195",
       "created_at": "2026-07-10 01:31:09",
       "username": "room_19fd37eae3",
@@ -23356,6 +23337,25 @@
       "item_name": "レチノソームショット",
       "item_url": "https://item.rakuten.co.jp/aokinomori/retinol/",
       "post_url": "https://room.rakuten.co.jp/room_37b1e35bda/1700335774064249",
+      "price": 5960,
+      "from_service": "room",
+      "likes": 0,
+      "comments": 0,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "レチノソームショット"
+    },
+    {
+      "post_id": "1700335123439467",
+      "created_at": "2025-09-06 08:00:57",
+      "username": "room_34ea25f73d",
+      "fullname": "kat",
+      "user_rank": 2,
+      "item_id": "P006",
+      "item_name": "レチノソームショット",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/retinol/",
+      "post_url": "https://room.rakuten.co.jp/room_34ea25f73d/1700335123439467",
       "price": 5960,
       "from_service": "room",
       "likes": 0,
@@ -24414,7 +24414,7 @@
       "likes": 3307,
       "comments": 41,
       "recollects": 25,
-      "latest": "2026-08-06 09:36:59",
+      "latest": "2026-08-13 08:57:15",
       "likes_per_post": 13.9,
       "recollect_rate": 0.11,
       "influence": 3382
@@ -24424,13 +24424,13 @@
       "item_name": "ビアス",
       "item_short": "ビアス",
       "posts": 89,
-      "likes": 2136,
+      "likes": 2137,
       "comments": 40,
       "recollects": 14,
       "latest": "2026-08-07 20:40:37",
       "likes_per_post": 24.0,
       "recollect_rate": 0.16,
-      "influence": 2178
+      "influence": 2179
     },
     {
       "item_id": "P004",
@@ -24465,11 +24465,11 @@
       "posts": 200,
       "likes": 2331,
       "comments": 34,
-      "recollects": 28,
-      "latest": "2026-07-26 19:34:15",
+      "recollects": 27,
+      "latest": "2026-07-26 19:33:06",
       "likes_per_post": 11.7,
       "recollect_rate": 0.14,
-      "influence": 2415
+      "influence": 2412
     },
     {
       "item_id": "P007",
@@ -24535,7 +24535,7 @@
     },
     {
       "username": "room_ce6e8ec13d",
-      "fullname": "kimidori55🌱11日感謝✨😭",
+      "fullname": "kimidori55🌱",
       "posts": 1,
       "total_likes": 420,
       "rank": 4
@@ -24870,18 +24870,18 @@
       "rank": 4
     },
     {
+      "username": "room_24d8aa2e2a",
+      "fullname": "CHTERU🤗いつもありがとうです💝",
+      "posts": 1,
+      "total_likes": 93,
+      "rank": 1
+    },
+    {
       "username": "room_87177bb8aa",
       "fullname": "まる",
       "posts": 1,
       "total_likes": 93,
       "rank": 3
-    },
-    {
-      "username": "room_24d8aa2e2a",
-      "fullname": "CHTERU🤗いつもありがとうです💝",
-      "posts": 1,
-      "total_likes": 92,
-      "rank": 1
     },
     {
       "username": "happy_upa",
@@ -25406,7 +25406,7 @@
     },
     {
       "day": "2025-09-06",
-      "n": 2,
+      "n": 3,
       "likes": 146
     },
     {
@@ -25471,8 +25471,8 @@
     },
     {
       "day": "2025-09-25",
-      "n": 12,
-      "likes": 41
+      "n": 11,
+      "likes": 40
     },
     {
       "day": "2025-09-26",
@@ -26562,7 +26562,7 @@
     {
       "day": "2026-07-23",
       "n": 14,
-      "likes": 221
+      "likes": 222
     },
     {
       "day": "2026-07-24",
@@ -26576,7 +26576,7 @@
     },
     {
       "day": "2026-07-26",
-      "n": 5,
+      "n": 4,
       "likes": 4
     },
     {
@@ -26648,6 +26648,11 @@
       "day": "2026-08-11",
       "n": 5,
       "likes": 8
+    },
+    {
+      "day": "2026-08-13",
+      "n": 1,
+      "likes": 1
     }
   ],
   "movers": [
@@ -26844,9 +26849,9 @@
     {
       "item_id": "P002",
       "total": 238,
-      "recent": 2,
+      "recent": 3,
       "prior": 7,
-      "recent_likes": 78,
+      "recent_likes": 79,
       "item_short": "ホワイトプラス"
     },
     {
@@ -26918,7 +26923,7 @@
       "i": "ホワイトプラス"
     },
     {
-      "l": 2136,
+      "l": 2137,
       "r": 14,
       "i": "ビアス"
     },
@@ -26934,7 +26939,7 @@
     },
     {
       "l": 2331,
-      "r": 28,
+      "r": 27,
       "i": "レチノソームショット"
     },
     {
