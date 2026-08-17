@@ -2,7 +2,7 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-08-17 01:38 JST",
+    "generated_at": "2026-08-17 09:39 JST",
     "snapshots": 1
   },
   "summary": {
@@ -26865,7 +26865,7 @@
       "item_id": "P002",
       "total": 238,
       "recent": 1,
-      "prior": 8,
+      "prior": 6,
       "recent_likes": 1,
       "item_short": "ホワイトプラス"
     },
@@ -26873,7 +26873,7 @@
       "item_id": "P003",
       "total": 89,
       "recent": 0,
-      "prior": 9,
+      "prior": 8,
       "recent_likes": 0,
       "item_short": "ビアス"
     },
@@ -26896,16 +26896,16 @@
     {
       "item_id": "P001",
       "total": 165,
-      "recent": 3,
-      "prior": 2,
-      "recent_likes": 9,
+      "recent": 2,
+      "prior": 3,
+      "recent_likes": 5,
       "item_short": "ハーバニエンス"
     },
     {
       "item_id": "P005",
       "total": 198,
       "recent": 1,
-      "prior": 1,
+      "prior": 0,
       "recent_likes": 2,
       "item_short": "リノクル"
     },
