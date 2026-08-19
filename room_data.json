@@ -2,7 +2,7 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-08-19 01:21 JST",
+    "generated_at": "2026-08-19 09:48 JST",
     "snapshots": 1
   },
   "summary": {
@@ -292,7 +292,7 @@
       "post_url": "https://room.rakuten.co.jp/room_b8afb70fec/1700386930246156",
       "price": 5960,
       "from_service": "room",
-      "likes": 215,
+      "likes": 216,
       "comments": 0,
       "recollects": 0,
       "detail_views": 0,
@@ -634,7 +634,7 @@
       "post_url": "https://room.rakuten.co.jp/room_8ded1f8dd5/1700373554282199",
       "price": 5960,
       "from_service": "room",
-      "likes": 132,
+      "likes": 131,
       "comments": 1,
       "recollects": 0,
       "detail_views": 0,
@@ -2602,7 +2602,7 @@
       "post_id": "1700239502085448",
       "created_at": "2024-03-02 20:56:43",
       "username": "room_aabf9c0ce4",
-      "fullname": "ひなた☆8/11ご購入感謝です❤️",
+      "fullname": "ひなた☆8/17ご購入感謝です❤️",
       "user_rank": 4,
       "item_id": "P001",
       "item_name": "ハーバニエンス ハーブガーデンセット",
@@ -3590,7 +3590,7 @@
       "post_id": "1700381075726155",
       "created_at": "2026-06-06 14:05:28",
       "username": "room_8089671927",
-      "fullname": "💎アロハ🕊️15ありがと✨身体に優し",
+      "fullname": "💎アロハ🕊️お客様感謝デー♡ゆる活",
       "user_rank": 4,
       "item_id": "P003",
       "item_name": "ビアス",
@@ -10275,15 +10275,15 @@
       "item_short": "ジェルバームクレンジング"
     },
     {
-      "post_id": "1700388681839209",
-      "created_at": "2026-08-10 13:54:36",
-      "username": "room_7d7ce39625",
-      "fullname": "らい",
+      "post_id": "1700347775192206",
+      "created_at": "2025-10-27 23:40:04",
+      "username": "room_ca1c03a9e0",
+      "fullname": "vale",
       "user_rank": 1,
       "item_id": "P001",
       "item_name": "ハーバニエンス ハーブガーデンセット",
       "item_url": "https://item.rakuten.co.jp/aokinomori/s-herbgarden_set/",
-      "post_url": "https://room.rakuten.co.jp/room_7d7ce39625/1700388681839209",
+      "post_url": "https://room.rakuten.co.jp/room_ca1c03a9e0/1700347775192206",
       "price": 3190,
       "from_service": "room",
       "likes": 3,
@@ -10294,15 +10294,15 @@
       "item_short": "ハーバニエンス"
     },
     {
-      "post_id": "1700347775192206",
-      "created_at": "2025-10-27 23:40:04",
-      "username": "room_ca1c03a9e0",
-      "fullname": "vale",
+      "post_id": "1700388681839209",
+      "created_at": "2026-08-10 13:54:36",
+      "username": "room_7d7ce39625",
+      "fullname": "らい",
       "user_rank": 1,
       "item_id": "P001",
       "item_name": "ハーバニエンス ハーブガーデンセット",
       "item_url": "https://item.rakuten.co.jp/aokinomori/s-herbgarden_set/",
-      "post_url": "https://room.rakuten.co.jp/room_ca1c03a9e0/1700347775192206",
+      "post_url": "https://room.rakuten.co.jp/room_7d7ce39625/1700388681839209",
       "price": 3190,
       "from_service": "room",
       "likes": 3,
@@ -17936,7 +17936,7 @@
       "created_at": "2025-11-07 22:59:19",
       "username": "eimy8228",
       "fullname": "えむえむwedding",
-      "user_rank": 2,
+      "user_rank": 3,
       "item_id": "P005",
       "item_name": "リノクル",
       "item_url": "https://item.rakuten.co.jp/aokinomori/s-linokle/",
@@ -24430,26 +24430,26 @@
       "item_name": "MYC ホワイトプラス",
       "item_short": "ホワイトプラス",
       "posts": 238,
-      "likes": 3313,
+      "likes": 3312,
       "comments": 41,
       "recollects": 25,
       "latest": "2026-08-13 08:57:15",
       "likes_per_post": 13.9,
       "recollect_rate": 0.11,
-      "influence": 3388
+      "influence": 3387
     },
     {
       "item_id": "P003",
       "item_name": "ビアス",
       "item_short": "ビアス",
       "posts": 89,
-      "likes": 2148,
+      "likes": 2149,
       "comments": 40,
       "recollects": 14,
       "latest": "2026-08-07 20:40:37",
       "likes_per_post": 24.1,
       "recollect_rate": 0.16,
-      "influence": 2190
+      "influence": 2191
     },
     {
       "item_id": "P004",
@@ -24535,7 +24535,7 @@
       "username": "room_8ded1f8dd5",
       "fullname": "アポロさん家",
       "posts": 5,
-      "total_likes": 1126,
+      "total_likes": 1125,
       "rank": 3
     },
     {
@@ -24633,7 +24633,7 @@
       "username": "room_b8afb70fec",
       "fullname": "ちーのん",
       "posts": 1,
-      "total_likes": 215,
+      "total_likes": 216,
       "rank": 4
     },
     {
@@ -26091,7 +26091,7 @@
     {
       "day": "2026-04-05",
       "n": 10,
-      "likes": 497
+      "likes": 496
     },
     {
       "day": "2026-04-06",
@@ -26591,7 +26591,7 @@
     {
       "day": "2026-07-25",
       "n": 20,
-      "likes": 382
+      "likes": 383
     },
     {
       "day": "2026-07-26",
@@ -26831,8 +26831,8 @@
       "post_url": "https://room.rakuten.co.jp/room_b8afb70fec/1700386930246156",
       "item_name": "ビアス",
       "item_short": "ビアス",
-      "first_likes": 205,
-      "last_likes": 215,
+      "first_likes": 206,
+      "last_likes": 216,
       "delta": 10
     },
     {
@@ -26894,7 +26894,7 @@
       "item_id": "P002",
       "total": 238,
       "recent": 1,
-      "prior": 6,
+      "prior": 5,
       "recent_likes": 1,
       "item_short": "ホワイトプラス"
     },
@@ -26909,17 +26909,17 @@
     {
       "item_id": "P004",
       "total": 76,
-      "recent": 1,
-      "prior": 3,
-      "recent_likes": 1,
+      "recent": 0,
+      "prior": 4,
+      "recent_likes": 0,
       "item_short": "グルタスキントナー"
     },
     {
       "item_id": "P007",
       "total": 200,
-      "recent": 6,
-      "prior": 12,
-      "recent_likes": 11,
+      "recent": 4,
+      "prior": 10,
+      "recent_likes": 8,
       "item_short": "ハーブラピール"
     },
     {
@@ -26941,9 +26941,9 @@
     {
       "item_id": "P008",
       "total": 91,
-      "recent": 2,
-      "prior": 1,
-      "recent_likes": 6,
+      "recent": 0,
+      "prior": 3,
+      "recent_likes": 0,
       "item_short": "ビタスポットセラム"
     },
     {
@@ -26962,12 +26962,12 @@
       "i": "ハーバニエンス"
     },
     {
-      "l": 3313,
+      "l": 3312,
       "r": 25,
       "i": "ホワイトプラス"
     },
     {
-      "l": 2148,
+      "l": 2149,
       "r": 14,
       "i": "ビアス"
     },
