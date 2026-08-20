@@ -2,7 +2,7 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-08-20 01:21 JST",
+    "generated_at": "2026-08-20 09:47 JST",
     "snapshots": 1
   },
   "summary": {
@@ -7144,7 +7144,7 @@
       "created_at": "2026-04-26 20:38:15",
       "username": "room_89c7f351d7",
       "fullname": "天楽００７",
-      "user_rank": 2,
+      "user_rank": 3,
       "item_id": "P006",
       "item_name": "レチノソームショット",
       "item_url": "https://item.rakuten.co.jp/aokinomori/retinol/",
@@ -26894,7 +26894,7 @@
       "item_id": "P002",
       "total": 238,
       "recent": 1,
-      "prior": 5,
+      "prior": 2,
       "recent_likes": 1,
       "item_short": "ホワイトプラス"
     },
@@ -26902,7 +26902,7 @@
       "item_id": "P003",
       "total": 89,
       "recent": 0,
-      "prior": 7,
+      "prior": 3,
       "recent_likes": 0,
       "item_short": "ビアス"
     },
@@ -26918,7 +26918,7 @@
       "item_id": "P007",
       "total": 200,
       "recent": 4,
-      "prior": 10,
+      "prior": 7,
       "recent_likes": 8,
       "item_short": "ハーブラピール"
     },
@@ -26926,7 +26926,7 @@
       "item_id": "P001",
       "total": 166,
       "recent": 1,
-      "prior": 5,
+      "prior": 4,
       "recent_likes": 0,
       "item_short": "ハーバニエンス"
     },
