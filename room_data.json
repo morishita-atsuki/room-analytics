@@ -2,7 +2,7 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-08-21 01:25 JST",
+    "generated_at": "2026-08-21 09:52 JST",
     "snapshots": 1
   },
   "summary": {
@@ -6858,7 +6858,7 @@
       "post_id": "1700381125713334",
       "created_at": "2026-06-06 20:45:41",
       "username": "room_blmn",
-      "fullname": "𝚋𝚕𝚖𝚗･*☽ヘアケア",
+      "fullname": "𝚋𝚕𝚖𝚗･*☽ふるさと納税",
       "user_rank": 4,
       "item_id": "P003",
       "item_name": "ビアス",
@@ -26893,16 +26893,16 @@
     {
       "item_id": "P002",
       "total": 238,
-      "recent": 1,
-      "prior": 2,
-      "recent_likes": 1,
+      "recent": 0,
+      "prior": 1,
+      "recent_likes": 0,
       "item_short": "ホワイトプラス"
     },
     {
       "item_id": "P003",
       "total": 89,
       "recent": 0,
-      "prior": 3,
+      "prior": 2,
       "recent_likes": 0,
       "item_short": "ビアス"
     },
@@ -26918,7 +26918,7 @@
       "item_id": "P007",
       "total": 200,
       "recent": 4,
-      "prior": 7,
+      "prior": 5,
       "recent_likes": 8,
       "item_short": "ハーブラピール"
     },
@@ -26933,9 +26933,9 @@
     {
       "item_id": "P005",
       "total": 198,
-      "recent": 1,
-      "prior": 0,
-      "recent_likes": 2,
+      "recent": 0,
+      "prior": 1,
+      "recent_likes": 0,
       "item_short": "リノクル"
     },
     {
