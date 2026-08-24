@@ -2,14 +2,14 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-08-24 17:38 JST",
+    "generated_at": "2026-08-25 01:26 JST",
     "snapshots": 1
   },
   "summary": {
     "posts": 1286,
     "users": 1017,
     "items": 9,
-    "likes": 18869,
+    "likes": 18870,
     "comments": 246,
     "recollects": 122
   },
@@ -3245,6 +3245,25 @@
       "item_short": "グルタスキントナー"
     },
     {
+      "post_id": "1700381027461431",
+      "created_at": "2026-06-06 06:27:15",
+      "username": "room_yunyamam24",
+      "fullname": "🌻ゆにゃmam24🌻年子ワンオペ育児",
+      "user_rank": 3,
+      "item_id": "P006",
+      "item_name": "レチノソームショット",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/retinol/",
+      "post_url": "https://room.rakuten.co.jp/room_yunyamam24/1700381027461431",
+      "price": 2980,
+      "from_service": "room",
+      "likes": 17,
+      "comments": 1,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "レチノソームショット"
+    },
+    {
       "post_id": "1700340698602133",
       "created_at": "2025-09-28 19:31:03",
       "username": "room_15d548266a",
@@ -3357,25 +3376,6 @@
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "ビアス"
-    },
-    {
-      "post_id": "1700381027461431",
-      "created_at": "2026-06-06 06:27:15",
-      "username": "room_yunyamam24",
-      "fullname": "🌻ゆにゃmam24🌻年子ワンオペ育児",
-      "user_rank": 3,
-      "item_id": "P006",
-      "item_name": "レチノソームショット",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/retinol/",
-      "post_url": "https://room.rakuten.co.jp/room_yunyamam24/1700381027461431",
-      "price": 2980,
-      "from_service": "room",
-      "likes": 16,
-      "comments": 1,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "レチノソームショット"
     },
     {
       "post_id": "1700380984543834",
@@ -24520,13 +24520,13 @@
       "item_name": "レチノソームショット",
       "item_short": "レチノソームショット",
       "posts": 200,
-      "likes": 2331,
+      "likes": 2332,
       "comments": 34,
       "recollects": 27,
       "latest": "2026-07-26 19:33:06",
       "likes_per_post": 11.7,
       "recollect_rate": 0.14,
-      "influence": 2412
+      "influence": 2413
     },
     {
       "item_id": "P007",
@@ -26409,7 +26409,7 @@
     {
       "day": "2026-06-06",
       "n": 27,
-      "likes": 295
+      "likes": 296
     },
     {
       "day": "2026-06-07",
@@ -27040,7 +27040,7 @@
       "i": "リノクル"
     },
     {
-      "l": 2331,
+      "l": 2332,
       "r": 27,
       "i": "レチノソームショット"
     },
