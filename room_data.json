@@ -2,7 +2,7 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-08-27 15:29 JST",
+    "generated_at": "2026-08-27 17:35 JST",
     "snapshots": 1
   },
   "summary": {
@@ -24924,18 +24924,18 @@
       "rank": 4
     },
     {
-      "username": "room_87177bb8aa",
-      "fullname": "まる",
-      "posts": 2,
-      "total_likes": 131,
-      "rank": 3
-    },
-    {
       "username": "misaroom_0264595a8d",
       "fullname": "みさ",
       "posts": 2,
       "total_likes": 131,
       "rank": 5
+    },
+    {
+      "username": "room_87177bb8aa",
+      "fullname": "まる",
+      "posts": 2,
+      "total_likes": 131,
+      "rank": 3
     },
     {
       "username": "room_e1c24bbeed",
