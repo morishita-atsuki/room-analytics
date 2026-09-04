@@ -2,14 +2,14 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-09-04 09:34 JST",
+    "generated_at": "2026-09-04 11:18 JST",
     "snapshots": 1
   },
   "summary": {
     "posts": 1305,
     "users": 1034,
     "items": 9,
-    "likes": 19388,
+    "likes": 19386,
     "comments": 264,
     "recollects": 118
   },
@@ -254,7 +254,7 @@
       "post_url": "https://room.rakuten.co.jp/koony.room_kenko/1700390248918339",
       "price": 5960,
       "from_service": "room",
-      "likes": 234,
+      "likes": 235,
       "comments": 9,
       "recollects": 0,
       "detail_views": 0,
@@ -292,7 +292,7 @@
       "post_url": "https://room.rakuten.co.jp/room_b8afb70fec/1700386930246156",
       "price": 5960,
       "from_service": "room",
-      "likes": 225,
+      "likes": 226,
       "comments": 0,
       "recollects": 0,
       "detail_views": 0,
@@ -1014,7 +1014,7 @@
       "post_url": "https://room.rakuten.co.jp/room_87177bb8aa/1700386260443384",
       "price": 5960,
       "from_service": "room",
-      "likes": 94,
+      "likes": 93,
       "comments": 2,
       "recollects": 1,
       "detail_views": 0,
@@ -1934,25 +1934,6 @@
       "item_short": "ホワイトプラス"
     },
     {
-      "post_id": "1700390240299364",
-      "created_at": "2026-08-24 21:57:08",
-      "username": "room_086a200a23",
-      "fullname": "NORIKO☺︎✳︎×看護師の日常とケア",
-      "user_rank": 4,
-      "item_id": "P003",
-      "item_name": "ビアス",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
-      "post_url": "https://room.rakuten.co.jp/room_086a200a23/1700390240299364",
-      "price": 5960,
-      "from_service": "room",
-      "likes": 44,
-      "comments": 0,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "ビアス"
-    },
-    {
       "post_id": "1700364088747209",
       "created_at": "2026-01-20 21:57:22",
       "username": "room_b4cb6eeec2",
@@ -2046,6 +2027,25 @@
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "ホワイトプラス"
+    },
+    {
+      "post_id": "1700390240299364",
+      "created_at": "2026-08-24 21:57:08",
+      "username": "room_086a200a23",
+      "fullname": "NORIKO☺︎✳︎×看護師の日常とケア",
+      "user_rank": 4,
+      "item_id": "P003",
+      "item_name": "ビアス",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
+      "post_url": "https://room.rakuten.co.jp/room_086a200a23/1700390240299364",
+      "price": 5960,
+      "from_service": "room",
+      "likes": 42,
+      "comments": 0,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "ビアス"
     },
     {
       "post_id": "1700354067766382",
@@ -8223,25 +8223,6 @@
       "item_short": "ビアス"
     },
     {
-      "post_id": "1700388090418343",
-      "created_at": "2026-08-05 11:59:33",
-      "username": "room_980a311f3e",
-      "fullname": "rose🩷40代きれいめコーデ",
-      "user_rank": 4,
-      "item_id": "P003",
-      "item_name": "ビアス",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
-      "post_url": "https://room.rakuten.co.jp/room_980a311f3e/1700388090418343",
-      "price": 5960,
-      "from_service": "room",
-      "likes": 5,
-      "comments": 0,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "ビアス"
-    },
-    {
       "post_id": "1700383633980137",
       "created_at": "2026-06-26 23:38:50",
       "username": "room_883588",
@@ -9665,6 +9646,25 @@
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "ホワイトプラス"
+    },
+    {
+      "post_id": "1700388090418343",
+      "created_at": "2026-08-05 11:59:33",
+      "username": "room_980a311f3e",
+      "fullname": "rose🩷40代きれいめコーデ",
+      "user_rank": 4,
+      "item_id": "P003",
+      "item_name": "ビアス",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
+      "post_url": "https://room.rakuten.co.jp/room_980a311f3e/1700388090418343",
+      "price": 5960,
+      "from_service": "room",
+      "likes": 4,
+      "comments": 0,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "ビアス"
     },
     {
       "post_id": "1700386603425174",
@@ -17286,15 +17286,15 @@
       "item_short": "ビアス"
     },
     {
-      "post_id": "1700390893264348",
-      "created_at": "2026-08-30 11:24:18",
-      "username": "room_d69a7326e7",
-      "fullname": "CloudV Shop",
-      "user_rank": 1,
+      "post_id": "1700390488630291",
+      "created_at": "2026-08-26 20:29:57",
+      "username": "room_00a5b787a4",
+      "fullname": "ふくおう",
+      "user_rank": 2,
       "item_id": "P003",
       "item_name": "ビアス",
       "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
-      "post_url": "https://room.rakuten.co.jp/room_d69a7326e7/1700390893264348",
+      "post_url": "https://room.rakuten.co.jp/room_00a5b787a4/1700390488630291",
       "price": 5960,
       "from_service": "room",
       "likes": 1,
@@ -17305,15 +17305,15 @@
       "item_short": "ビアス"
     },
     {
-      "post_id": "1700390488630291",
-      "created_at": "2026-08-26 20:29:57",
-      "username": "room_00a5b787a4",
-      "fullname": "ふくおう",
-      "user_rank": 2,
+      "post_id": "1700390893264348",
+      "created_at": "2026-08-30 11:24:18",
+      "username": "room_d69a7326e7",
+      "fullname": "CloudV Shop",
+      "user_rank": 1,
       "item_id": "P003",
       "item_name": "ビアス",
       "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
-      "post_url": "https://room.rakuten.co.jp/room_00a5b787a4/1700390488630291",
+      "post_url": "https://room.rakuten.co.jp/room_d69a7326e7/1700390893264348",
       "price": 5960,
       "from_service": "room",
       "likes": 1,
@@ -17593,7 +17593,7 @@
       "post_id": "1700374868342315",
       "created_at": "2026-04-16 12:14:24",
       "username": "room_bb6d824ecd",
-      "fullname": "阿呼　フォロワーさん経由します",
+      "fullname": "無無　フォロワーさん経由します",
       "user_rank": 3,
       "item_id": "P003",
       "item_name": "ビアス",
@@ -24842,13 +24842,13 @@
       "item_name": "ビアス",
       "item_short": "ビアス",
       "posts": 108,
-      "likes": 2567,
+      "likes": 2565,
       "comments": 50,
       "recollects": 14,
       "latest": "2026-09-02 08:45:38",
       "likes_per_post": 23.8,
       "recollect_rate": 0.13,
-      "influence": 2609
+      "influence": 2607
     },
     {
       "item_id": "P004",
@@ -25018,14 +25018,14 @@
       "username": "koony.room_kenko",
       "fullname": "🍀心と身体の健康をつくる🍀",
       "posts": 1,
-      "total_likes": 234,
+      "total_likes": 235,
       "rank": 3
     },
     {
       "username": "room_b8afb70fec",
       "fullname": "ちーのん",
       "posts": 1,
-      "total_likes": 225,
+      "total_likes": 226,
       "rank": 4
     },
     {
@@ -25081,7 +25081,7 @@
       "username": "room_87177bb8aa",
       "fullname": "まる",
       "posts": 2,
-      "total_likes": 180,
+      "total_likes": 179,
       "rank": 4
     },
     {
@@ -25589,13 +25589,6 @@
       "rank": 4
     },
     {
-      "username": "room_086a200a23",
-      "fullname": "NORIKO☺︎✳︎×看護師の日常とケア",
-      "posts": 1,
-      "total_likes": 44,
-      "rank": 4
-    },
-    {
       "username": "room_b4cb6eeec2",
       "fullname": "すず☆美容と暮らし☆",
       "posts": 1,
@@ -25622,6 +25615,13 @@
       "posts": 1,
       "total_likes": 42,
       "rank": 1
+    },
+    {
+      "username": "room_086a200a23",
+      "fullname": "NORIKO☺︎✳︎×看護師の日常とケア",
+      "posts": 1,
+      "total_likes": 42,
+      "rank": 4
     },
     {
       "username": "room_080539ea35",
@@ -26940,7 +26940,7 @@
     {
       "day": "2026-07-19",
       "n": 16,
-      "likes": 404
+      "likes": 403
     },
     {
       "day": "2026-07-20",
@@ -26970,7 +26970,7 @@
     {
       "day": "2026-07-25",
       "n": 19,
-      "likes": 387
+      "likes": 388
     },
     {
       "day": "2026-07-26",
@@ -27015,7 +27015,7 @@
     {
       "day": "2026-08-05",
       "n": 10,
-      "likes": 158
+      "likes": 157
     },
     {
       "day": "2026-08-06",
@@ -27090,7 +27090,7 @@
     {
       "day": "2026-08-24",
       "n": 22,
-      "likes": 512
+      "likes": 511
     },
     {
       "day": "2026-08-25",
@@ -27252,8 +27252,8 @@
       "post_url": "https://room.rakuten.co.jp/koony.room_kenko/1700390248918339",
       "item_name": "ビアス",
       "item_short": "ビアス",
-      "first_likes": 224,
-      "last_likes": 234,
+      "first_likes": 225,
+      "last_likes": 235,
       "delta": 10
     },
     {
@@ -27270,8 +27270,8 @@
       "post_url": "https://room.rakuten.co.jp/room_b8afb70fec/1700386930246156",
       "item_name": "ビアス",
       "item_short": "ビアス",
-      "first_likes": 215,
-      "last_likes": 225,
+      "first_likes": 216,
+      "last_likes": 226,
       "delta": 10
     },
     {
@@ -27406,7 +27406,7 @@
       "i": "ホワイトプラス"
     },
     {
-      "l": 2567,
+      "l": 2565,
       "r": 14,
       "i": "ビアス"
     },
