@@ -2,12 +2,12 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-09-08 04:30 JST",
+    "generated_at": "2026-09-08 11:24 JST",
     "snapshots": 1
   },
   "summary": {
-    "posts": 1327,
-    "users": 1043,
+    "posts": 1329,
+    "users": 1045,
     "items": 9,
     "likes": 19679,
     "comments": 276,
@@ -1345,25 +1345,6 @@
       "item_short": "ホワイトプラス"
     },
     {
-      "post_id": "1700390843713282",
-      "created_at": "2026-08-29 22:08:51",
-      "username": "room_469b896c67",
-      "fullname": "ゆあら",
-      "user_rank": 4,
-      "item_id": "P008",
-      "item_name": "ビタスポットセラム",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/myc-skinity-serum/",
-      "post_url": "https://room.rakuten.co.jp/room_469b896c67/1700390843713282",
-      "price": 2980,
-      "from_service": "room",
-      "likes": 70,
-      "comments": 0,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "ビタスポットセラム"
-    },
-    {
       "post_id": "1700382913668222",
       "created_at": "2026-06-21 00:35:53",
       "username": "room_83f969249b",
@@ -1381,6 +1362,25 @@
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "ジェルバームクレンジング"
+    },
+    {
+      "post_id": "1700390843713282",
+      "created_at": "2026-08-29 22:08:51",
+      "username": "room_469b896c67",
+      "fullname": "ゆあら",
+      "user_rank": 4,
+      "item_id": "P008",
+      "item_name": "ビタスポットセラム",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/myc-skinity-serum/",
+      "post_url": "https://room.rakuten.co.jp/room_469b896c67/1700390843713282",
+      "price": 2980,
+      "from_service": "room",
+      "likes": 69,
+      "comments": 0,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "ビタスポットセラム"
     },
     {
       "post_id": "1700387772799217",
@@ -20326,6 +20326,25 @@
       "item_short": "ハーブラピール"
     },
     {
+      "post_id": "1700392196475167",
+      "created_at": "2026-09-08 10:25:07",
+      "username": "room_b42d16bbd7",
+      "fullname": "ナベっち",
+      "user_rank": 4,
+      "item_id": "P008",
+      "item_name": "ビタスポットセラム",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/myc-skinity-serum/",
+      "post_url": "https://room.rakuten.co.jp/room_b42d16bbd7/1700392196475167",
+      "price": 2980,
+      "from_service": "room",
+      "likes": 1,
+      "comments": 0,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "ビタスポットセラム"
+    },
+    {
       "post_id": "1700390493119297",
       "created_at": "2026-08-26 21:01:57",
       "username": "ff.sac.an",
@@ -24886,6 +24905,25 @@
       "item_short": "ハーブラピール"
     },
     {
+      "post_id": "1700392161701727",
+      "created_at": "2026-09-08 00:24:19",
+      "username": "room_db3b1d3097",
+      "fullname": "aya",
+      "user_rank": 3,
+      "item_id": "P008",
+      "item_name": "ビタスポットセラム",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/myc-skinity-serum/",
+      "post_url": "https://room.rakuten.co.jp/room_db3b1d3097/1700392161701727",
+      "price": 2980,
+      "from_service": "room",
+      "likes": 0,
+      "comments": 0,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "ビタスポットセラム"
+    },
+    {
       "post_id": "1700390531434274",
       "created_at": "2026-08-27 07:20:30",
       "username": "room_fa1ed29264",
@@ -24985,7 +25023,7 @@
       "created_at": "2026-04-27 12:00:54",
       "username": "naminami914",
       "fullname": "なみroom☆ig@nnnami_777",
-      "user_rank": 2,
+      "user_rank": 3,
       "item_id": "P008",
       "item_name": "ビタスポットセラム",
       "item_url": "https://item.rakuten.co.jp/aokinomori/myc-skinity-serum/",
@@ -25324,12 +25362,12 @@
       "item_id": "P008",
       "item_name": "ビタスポットセラム",
       "item_short": "ビタスポットセラム",
-      "posts": 99,
+      "posts": 101,
       "likes": 1194,
       "comments": 12,
       "recollects": 7,
-      "latest": "2026-08-29 22:08:51",
-      "likes_per_post": 12.1,
+      "latest": "2026-09-08 10:25:07",
+      "likes_per_post": 11.8,
       "recollect_rate": 0.07,
       "influence": 1215
     },
@@ -25811,17 +25849,17 @@
       "rank": 4
     },
     {
-      "username": "room_469b896c67",
-      "fullname": "ゆあら",
+      "username": "room_83f969249b",
+      "fullname": "まゆーみ　6日象印水筒有難う💖🙏",
       "posts": 1,
       "total_likes": 70,
       "rank": 4
     },
     {
-      "username": "room_83f969249b",
-      "fullname": "まゆーみ　6日象印水筒有難う💖🙏",
+      "username": "room_469b896c67",
+      "fullname": "ゆあら",
       "posts": 1,
-      "total_likes": 70,
+      "total_likes": 69,
       "rank": 4
     },
     {
@@ -27473,7 +27511,7 @@
     {
       "day": "2026-08-29",
       "n": 1,
-      "likes": 70
+      "likes": 69
     },
     {
       "day": "2026-08-30",
@@ -27519,6 +27557,11 @@
       "day": "2026-09-07",
       "n": 22,
       "likes": 36
+    },
+    {
+      "day": "2026-09-08",
+      "n": 2,
+      "likes": 1
     }
   ],
   "movers": [
@@ -27715,16 +27758,16 @@
     {
       "item_id": "P002",
       "total": 238,
-      "recent": 6,
-      "prior": 27,
-      "recent_likes": 7,
+      "recent": 5,
+      "prior": 16,
+      "recent_likes": 6,
       "item_short": "ホワイトプラス"
     },
     {
       "item_id": "P003",
       "total": 109,
       "recent": 5,
-      "prior": 15,
+      "prior": 7,
       "recent_likes": 27,
       "item_short": "ビアス"
     },
@@ -27739,9 +27782,9 @@
     {
       "item_id": "P007",
       "total": 200,
-      "recent": 20,
-      "prior": 12,
-      "recent_likes": 59,
+      "recent": 19,
+      "prior": 11,
+      "recent_likes": 56,
       "item_short": "ハーブラピール"
     },
     {
@@ -27762,10 +27805,10 @@
     },
     {
       "item_id": "P008",
-      "total": 99,
-      "recent": 0,
+      "total": 101,
+      "recent": 2,
       "prior": 11,
-      "recent_likes": 0,
+      "recent_likes": 1,
       "item_short": "ビタスポットセラム"
     },
     {
