@@ -2,7 +2,7 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-09-13 03:00 JST",
+    "generated_at": "2026-09-13 09:34 JST",
     "snapshots": 1
   },
   "summary": {
@@ -28215,17 +28215,17 @@
     {
       "item_id": "P002",
       "total": 238,
-      "recent": 6,
-      "prior": 2,
+      "recent": 5,
+      "prior": 3,
       "recent_likes": 20,
       "item_short": "ホワイトプラス"
     },
     {
       "item_id": "P003",
       "total": 110,
-      "recent": 5,
-      "prior": 3,
-      "recent_likes": 43,
+      "recent": 3,
+      "prior": 5,
+      "recent_likes": 33,
       "item_short": "ビアス"
     },
     {
@@ -28239,9 +28239,9 @@
     {
       "item_id": "P007",
       "total": 200,
-      "recent": 14,
-      "prior": 6,
-      "recent_likes": 32,
+      "recent": 13,
+      "prior": 7,
+      "recent_likes": 31,
       "item_short": "ハーブラピール"
     },
     {
@@ -28264,7 +28264,7 @@
       "item_id": "P008",
       "total": 120,
       "recent": 21,
-      "prior": 1,
+      "prior": 0,
       "recent_likes": 50,
       "item_short": "ビタスポットセラム"
     },
