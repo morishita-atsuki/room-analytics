@@ -2,7 +2,7 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-09-15 05:06 JST",
+    "generated_at": "2026-09-15 09:35 JST",
     "snapshots": 1
   },
   "summary": {
@@ -28182,7 +28182,7 @@
     {
       "item_id": "P002",
       "total": 238,
-      "recent": 4,
+      "recent": 3,
       "prior": 4,
       "recent_likes": 17,
       "item_short": "ホワイトプラス"
@@ -28198,33 +28198,33 @@
     {
       "item_id": "P004",
       "total": 82,
-      "recent": 9,
-      "prior": 0,
-      "recent_likes": 62,
+      "recent": 4,
+      "prior": 5,
+      "recent_likes": 31,
       "item_short": "グルタスキントナー"
     },
     {
       "item_id": "P007",
       "total": 199,
-      "recent": 10,
-      "prior": 13,
-      "recent_likes": 24,
+      "recent": 7,
+      "prior": 15,
+      "recent_likes": 16,
       "item_short": "ハーブラピール"
     },
     {
       "item_id": "P001",
       "total": 181,
-      "recent": 4,
-      "prior": 12,
-      "recent_likes": 5,
+      "recent": 2,
+      "prior": 14,
+      "recent_likes": 3,
       "item_short": "ハーバニエンス"
     },
     {
       "item_id": "P005",
       "total": 197,
-      "recent": 10,
-      "prior": 10,
-      "recent_likes": 39,
+      "recent": 6,
+      "prior": 14,
+      "recent_likes": 32,
       "item_short": "リノクル"
     },
     {
@@ -28238,9 +28238,9 @@
     {
       "item_id": "P006",
       "total": 200,
-      "recent": 7,
-      "prior": 2,
-      "recent_likes": 7,
+      "recent": 3,
+      "prior": 6,
+      "recent_likes": 4,
       "item_short": "レチノソームショット"
     }
   ],
