@@ -2,14 +2,14 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-09-15 11:46 JST",
+    "generated_at": "2026-09-15 22:01 JST",
     "snapshots": 1
   },
   "summary": {
     "posts": 1350,
     "users": 1053,
     "items": 9,
-    "likes": 19991,
+    "likes": 20017,
     "comments": 288,
     "recollects": 121
   },
@@ -159,7 +159,7 @@
       "post_url": "https://room.rakuten.co.jp/shiorsroom/1700384126707168",
       "price": 3480,
       "from_service": "room",
-      "likes": 285,
+      "likes": 307,
       "comments": 10,
       "recollects": 0,
       "detail_views": 0,
@@ -1934,6 +1934,25 @@
       "item_short": "ハーブラピール"
     },
     {
+      "post_id": "1700390346405309",
+      "created_at": "2026-08-25 18:45:23",
+      "username": "room_fd7de84ba5",
+      "fullname": "✺MACORE✺",
+      "user_rank": 3,
+      "item_id": "P007",
+      "item_name": "ハーブラピール",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/hlpeel/",
+      "post_url": "https://room.rakuten.co.jp/room_fd7de84ba5/1700390346405309",
+      "price": 3480,
+      "from_service": "room",
+      "likes": 48,
+      "comments": 0,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "ハーブラピール"
+    },
+    {
       "post_id": "1700377202018739",
       "created_at": "2026-05-06 20:02:27",
       "username": "room_bb7296e21c",
@@ -1970,25 +1989,6 @@
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "ホワイトプラス"
-    },
-    {
-      "post_id": "1700390346405309",
-      "created_at": "2026-08-25 18:45:23",
-      "username": "room_fd7de84ba5",
-      "fullname": "✺MACORE✺",
-      "user_rank": 3,
-      "item_id": "P007",
-      "item_name": "ハーブラピール",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/hlpeel/",
-      "post_url": "https://room.rakuten.co.jp/room_fd7de84ba5/1700390346405309",
-      "price": 3480,
-      "from_service": "room",
-      "likes": 44,
-      "comments": 0,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "ハーブラピール"
     },
     {
       "post_id": "1700388194496794",
@@ -25749,13 +25749,13 @@
       "item_name": "ハーブラピール",
       "item_short": "ハーブラピール",
       "posts": 199,
-      "likes": 4132,
+      "likes": 4158,
       "comments": 68,
       "recollects": 12,
       "latest": "2026-09-14 20:06:30",
-      "likes_per_post": 20.8,
+      "likes_per_post": 20.9,
       "recollect_rate": 0.06,
-      "influence": 4168
+      "influence": 4194
     },
     {
       "item_id": "P008",
@@ -25842,16 +25842,16 @@
       "rank": 4
     },
     {
-      "username": "room_b3e0a18437",
-      "fullname": "こひな🌿",
-      "posts": 2,
-      "total_likes": 285,
-      "rank": 4
-    },
-    {
       "username": "shiorsroom",
       "fullname": "しい|お菓子とインテリア好きな30代ママ",
       "posts": 1,
+      "total_likes": 307,
+      "rank": 4
+    },
+    {
+      "username": "room_b3e0a18437",
+      "fullname": "こひな🌿",
+      "posts": 2,
       "total_likes": 285,
       "rank": 4
     },
@@ -26430,6 +26430,13 @@
       "rank": 3
     },
     {
+      "username": "room_fd7de84ba5",
+      "fullname": "✺MACORE✺",
+      "posts": 1,
+      "total_likes": 48,
+      "rank": 3
+    },
+    {
       "username": "room_291d364c3c",
       "fullname": "家事楽アイテム・お得情報大好き子育てパパ",
       "posts": 2,
@@ -26456,13 +26463,6 @@
       "posts": 2,
       "total_likes": 44,
       "rank": 4
-    },
-    {
-      "username": "room_fd7de84ba5",
-      "fullname": "✺MACORE✺",
-      "posts": 1,
-      "total_likes": 44,
-      "rank": 3
     },
     {
       "username": "room_emerald_m",
@@ -27660,7 +27660,7 @@
     {
       "day": "2026-07-01",
       "n": 4,
-      "likes": 299
+      "likes": 321
     },
     {
       "day": "2026-07-03",
@@ -27890,7 +27890,7 @@
     {
       "day": "2026-08-25",
       "n": 11,
-      "likes": 156
+      "likes": 160
     },
     {
       "day": "2026-08-26",
@@ -28057,8 +28057,8 @@
       "post_url": "https://room.rakuten.co.jp/shiorsroom/1700384126707168",
       "item_name": "ハーブラピール",
       "item_short": "ハーブラピール",
-      "first_likes": 275,
-      "last_likes": 285,
+      "first_likes": 297,
+      "last_likes": 307,
       "delta": 10
     },
     {
@@ -28276,7 +28276,7 @@
       "i": "レチノソームショット"
     },
     {
-      "l": 4132,
+      "l": 4158,
       "r": 12,
       "i": "ハーブラピール"
     },
