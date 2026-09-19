@@ -2,7 +2,7 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-09-19 09:35 JST",
+    "generated_at": "2026-09-19 11:31 JST",
     "snapshots": 1
   },
   "summary": {
@@ -7406,25 +7406,6 @@
       "item_short": "ホワイトプラス"
     },
     {
-      "post_id": "1700390116333400",
-      "created_at": "2026-08-23 21:59:09",
-      "username": "room_90163fdd87",
-      "fullname": "まな@育児系・産後ダイエットと美容",
-      "user_rank": 4,
-      "item_id": "P003",
-      "item_name": "ビアス",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
-      "post_url": "https://room.rakuten.co.jp/room_90163fdd87/1700390116333400",
-      "price": 2980,
-      "from_service": "room",
-      "likes": 6,
-      "comments": 0,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "ビアス"
-    },
-    {
       "post_id": "1700381059799101",
       "created_at": "2026-06-06 11:44:19",
       "username": "room_881756f5c7",
@@ -7453,6 +7434,25 @@
       "item_name": "ビアス",
       "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
       "post_url": "https://room.rakuten.co.jp/room_blmn/1700381125713334",
+      "price": 2980,
+      "from_service": "room",
+      "likes": 6,
+      "comments": 0,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "ビアス"
+    },
+    {
+      "post_id": "1700390116333400",
+      "created_at": "2026-08-23 21:59:09",
+      "username": "room_90163fdd87",
+      "fullname": "まな@育児系・産後ダイエットと美容",
+      "user_rank": 4,
+      "item_id": "P003",
+      "item_name": "ビアス",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
+      "post_url": "https://room.rakuten.co.jp/room_90163fdd87/1700390116333400",
       "price": 2980,
       "from_service": "room",
       "likes": 6,
