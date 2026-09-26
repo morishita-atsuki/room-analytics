@@ -2,15 +2,15 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-09-26 21:35 JST",
+    "generated_at": "2026-09-27 03:53 JST",
     "snapshots": 1
   },
   "summary": {
     "posts": 1372,
-    "users": 1063,
+    "users": 1064,
     "items": 9,
-    "likes": 20598,
-    "comments": 298,
+    "likes": 20599,
+    "comments": 300,
     "recollects": 118
   },
   "posts": [
@@ -455,7 +455,7 @@
       "post_id": "1700374932704363",
       "created_at": "2026-04-16 22:07:13",
       "username": "room_2022mitsui",
-      "fullname": "みぃ💄やっとログインできた…🥹",
+      "fullname": "みぃ💄美容コスメ多め",
       "user_rank": 4,
       "item_id": "P004",
       "item_name": "グルタスキントナー",
@@ -3865,7 +3865,7 @@
       "price": 6480,
       "from_service": "room",
       "likes": 16,
-      "comments": 1,
+      "comments": 3,
       "recollects": 1,
       "detail_views": 0,
       "influence_points": 0,
@@ -15766,6 +15766,25 @@
       "item_short": "リノクル"
     },
     {
+      "post_id": "1700341541513141",
+      "created_at": "2025-10-02 06:11:57",
+      "username": "room_7dfc00d6e2",
+      "fullname": "おすぎ　お買い上げありがとうございます",
+      "user_rank": 3,
+      "item_id": "P005",
+      "item_name": "リノクル",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/s-linokle/",
+      "post_url": "https://room.rakuten.co.jp/room_7dfc00d6e2/1700341541513141",
+      "price": 6480,
+      "from_service": "room",
+      "likes": 2,
+      "comments": 0,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "リノクル"
+    },
+    {
       "post_id": "1700394182487130",
       "created_at": "2026-09-23 11:10:43",
       "username": "room_a60008b2bc",
@@ -19404,25 +19423,6 @@
       "item_name": "リノクル",
       "item_url": "https://item.rakuten.co.jp/aokinomori/s-linokle/",
       "post_url": "https://room.rakuten.co.jp/hinata777/1700393839465247",
-      "price": 6480,
-      "from_service": "room",
-      "likes": 1,
-      "comments": 0,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "リノクル"
-    },
-    {
-      "post_id": "1700393839252183",
-      "created_at": "2026-09-20 19:54:04",
-      "username": "room_fb0f46cd50",
-      "fullname": "ゆうちゃん",
-      "user_rank": 4,
-      "item_id": "P005",
-      "item_name": "リノクル",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/s-linokle/",
-      "post_url": "https://room.rakuten.co.jp/room_fb0f46cd50/1700393839252183",
       "price": 6480,
       "from_service": "room",
       "likes": 1,
@@ -26141,13 +26141,13 @@
       "item_name": "リノクル",
       "item_short": "リノクル",
       "posts": 197,
-      "likes": 2030,
-      "comments": 19,
+      "likes": 2031,
+      "comments": 21,
       "recollects": 17,
       "latest": "2026-09-24 09:57:37",
       "likes_per_post": 10.3,
       "recollect_rate": 0.09,
-      "influence": 2081
+      "influence": 2082
     },
     {
       "item_id": "P006",
@@ -27077,8 +27077,8 @@
     },
     {
       "day": "2025-10-02",
-      "n": 1,
-      "likes": 3
+      "n": 2,
+      "likes": 5
     },
     {
       "day": "2025-10-03",
@@ -28357,8 +28357,8 @@
     },
     {
       "day": "2026-09-20",
-      "n": 22,
-      "likes": 176
+      "n": 21,
+      "likes": 175
     },
     {
       "day": "2026-09-21",
@@ -28625,9 +28625,9 @@
     {
       "item_id": "P005",
       "total": 197,
-      "recent": 31,
+      "recent": 30,
       "prior": 7,
-      "recent_likes": 138,
+      "recent_likes": 137,
       "item_short": "リノクル"
     },
     {
@@ -28669,7 +28669,7 @@
       "i": "グルタスキントナー"
     },
     {
-      "l": 2030,
+      "l": 2031,
       "r": 17,
       "i": "リノクル"
     },
