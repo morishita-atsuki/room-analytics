@@ -2,7 +2,7 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-10-01 05:25 JST",
+    "generated_at": "2026-10-01 09:34 JST",
     "snapshots": 1
   },
   "summary": {
@@ -28578,9 +28578,9 @@
     {
       "item_id": "P007",
       "total": 197,
-      "recent": 7,
-      "prior": 2,
-      "recent_likes": 27,
+      "recent": 4,
+      "prior": 5,
+      "recent_likes": 25,
       "item_short": "ハーブラピール"
     },
     {
@@ -28594,17 +28594,17 @@
     {
       "item_id": "P002",
       "total": 239,
-      "recent": 5,
-      "prior": 17,
-      "recent_likes": 12,
+      "recent": 1,
+      "prior": 21,
+      "recent_likes": 3,
       "item_short": "ホワイトプラス"
     },
     {
       "item_id": "P003",
       "total": 124,
-      "recent": 17,
-      "prior": 0,
-      "recent_likes": 166,
+      "recent": 4,
+      "prior": 13,
+      "recent_likes": 42,
       "item_short": "ビアス"
     },
     {
@@ -28642,9 +28642,9 @@
     {
       "item_id": "P006",
       "total": 200,
-      "recent": 4,
-      "prior": 0,
-      "recent_likes": 17,
+      "recent": 0,
+      "prior": 4,
+      "recent_likes": 0,
       "item_short": "レチノソームショット"
     }
   ],
