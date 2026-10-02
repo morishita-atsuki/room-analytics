@@ -2,14 +2,14 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-10-02 23:21 JST",
+    "generated_at": "2026-10-03 05:15 JST",
     "snapshots": 1
   },
   "summary": {
-    "posts": 1375,
-    "users": 1071,
+    "posts": 1374,
+    "users": 1072,
     "items": 9,
-    "likes": 20786,
+    "likes": 20772,
     "comments": 304,
     "recollects": 119
   },
@@ -4231,25 +4231,6 @@
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "ビアス"
-    },
-    {
-      "post_id": "1700392349795441",
-      "created_at": "2026-09-09 12:03:48",
-      "username": "room_hiimaru",
-      "fullname": "ひーまる🌿整う暮らしと成分美容",
-      "user_rank": 4,
-      "item_id": "P004",
-      "item_name": "グルタスキントナー",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/glutathione/",
-      "post_url": "https://room.rakuten.co.jp/room_hiimaru/1700392349795441",
-      "price": 2890,
-      "from_service": "room",
-      "likes": 14,
-      "comments": 0,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "グルタスキントナー"
     },
     {
       "post_id": "1700368251221648",
@@ -15162,7 +15143,7 @@
       "created_at": "2026-03-26 12:48:52",
       "username": "room_cima",
       "fullname": "ちま🪽10時間労働でも肌が綺麗な人",
-      "user_rank": 1,
+      "user_rank": 2,
       "item_id": "P004",
       "item_name": "グルタスキントナー",
       "item_url": "https://item.rakuten.co.jp/aokinomori/glutathione/",
@@ -15205,25 +15186,6 @@
       "item_name": "リノクル",
       "item_url": "https://item.rakuten.co.jp/aokinomori/s-linokle/",
       "post_url": "https://room.rakuten.co.jp/room_0001122b6d/1700394128591143",
-      "price": 6480,
-      "from_service": "room",
-      "likes": 2,
-      "comments": 0,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "リノクル"
-    },
-    {
-      "post_id": "1700393872046381",
-      "created_at": "2026-09-20 23:06:39",
-      "username": "room_223becbe92",
-      "fullname": "Rifa's select branch",
-      "user_rank": 4,
-      "item_id": "P005",
-      "item_name": "リノクル",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/s-linokle/",
-      "post_url": "https://room.rakuten.co.jp/room_223becbe92/1700393872046381",
       "price": 6480,
       "from_service": "room",
       "likes": 2,
@@ -15737,6 +15699,25 @@
       "item_name": "リノクル",
       "item_url": "https://item.rakuten.co.jp/aokinomori/s-linokle/",
       "post_url": "https://room.rakuten.co.jp/room_7dfc00d6e2/1700341541513141",
+      "price": 6480,
+      "from_service": "room",
+      "likes": 2,
+      "comments": 0,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "リノクル"
+    },
+    {
+      "post_id": "1700339230352340",
+      "created_at": "2025-09-22 20:00:44",
+      "username": "room_0a5635df8a",
+      "fullname": "J ROOM  経由購入感謝です😣😣",
+      "user_rank": 2,
+      "item_id": "P005",
+      "item_name": "リノクル",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/s-linokle/",
+      "post_url": "https://room.rakuten.co.jp/room_0a5635df8a/1700339230352340",
       "price": 6480,
       "from_service": "room",
       "likes": 2,
@@ -24167,7 +24148,7 @@
       "post_id": "1700368339915311",
       "created_at": "2026-02-22 22:19:01",
       "username": "room_066c08f6f5",
-      "fullname": "エール☆いつもありがとうございます☆",
+      "fullname": "あたたまる",
       "user_rank": 3,
       "item_id": "P005",
       "item_name": "リノクル",
@@ -26184,14 +26165,14 @@
       "item_id": "P004",
       "item_name": "グルタスキントナー",
       "item_short": "グルタスキントナー",
-      "posts": 82,
-      "likes": 1370,
+      "posts": 81,
+      "likes": 1356,
       "comments": 26,
       "recollects": 6,
       "latest": "2026-09-25 22:04:26",
       "likes_per_post": 16.7,
       "recollect_rate": 0.07,
-      "influence": 1388
+      "influence": 1374
     },
     {
       "item_id": "P005",
@@ -27106,6 +27087,11 @@
       "day": "2025-09-21",
       "n": 1,
       "likes": 3
+    },
+    {
+      "day": "2025-09-22",
+      "n": 1,
+      "likes": 2
     },
     {
       "day": "2025-09-23",
@@ -28374,8 +28360,8 @@
     },
     {
       "day": "2026-09-09",
-      "n": 13,
-      "likes": 54
+      "n": 12,
+      "likes": 40
     },
     {
       "day": "2026-09-10",
@@ -28419,8 +28405,8 @@
     },
     {
       "day": "2026-09-20",
-      "n": 19,
-      "likes": 188
+      "n": 18,
+      "likes": 186
     },
     {
       "day": "2026-09-21",
@@ -28695,7 +28681,7 @@
     },
     {
       "item_id": "P004",
-      "total": 82,
+      "total": 81,
       "recent": 1,
       "prior": 1,
       "recent_likes": 1,
@@ -28713,7 +28699,7 @@
       "item_id": "P005",
       "total": 197,
       "recent": 0,
-      "prior": 30,
+      "prior": 29,
       "recent_likes": 0,
       "item_short": "リノクル"
     },
@@ -28751,7 +28737,7 @@
       "i": "ビアス"
     },
     {
-      "l": 1370,
+      "l": 1356,
       "r": 6,
       "i": "グルタスキントナー"
     },
