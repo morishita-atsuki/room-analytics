@@ -2,7 +2,7 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-10-03 05:15 JST",
+    "generated_at": "2026-10-03 09:35 JST",
     "snapshots": 1
   },
   "summary": {
@@ -28650,9 +28650,9 @@
     {
       "item_id": "P007",
       "total": 199,
-      "recent": 8,
-      "prior": 5,
-      "recent_likes": 31,
+      "recent": 5,
+      "prior": 8,
+      "recent_likes": 6,
       "item_short": "ハーブラピール"
     },
     {
@@ -28667,24 +28667,24 @@
       "item_id": "P002",
       "total": 239,
       "recent": 0,
-      "prior": 21,
+      "prior": 18,
       "recent_likes": 0,
       "item_short": "ホワイトプラス"
     },
     {
       "item_id": "P003",
       "total": 125,
-      "recent": 4,
-      "prior": 14,
-      "recent_likes": 11,
+      "recent": 3,
+      "prior": 15,
+      "recent_likes": 8,
       "item_short": "ビアス"
     },
     {
       "item_id": "P004",
       "total": 81,
-      "recent": 1,
-      "prior": 1,
-      "recent_likes": 1,
+      "recent": 0,
+      "prior": 2,
+      "recent_likes": 0,
       "item_short": "グルタスキントナー"
     },
     {
@@ -28699,7 +28699,7 @@
       "item_id": "P005",
       "total": 197,
       "recent": 0,
-      "prior": 29,
+      "prior": 27,
       "recent_likes": 0,
       "item_short": "リノクル"
     },
