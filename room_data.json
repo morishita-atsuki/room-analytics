@@ -2,15 +2,15 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-10-14 11:58 JST",
+    "generated_at": "2026-10-14 22:13 JST",
     "snapshots": 1
   },
   "summary": {
     "posts": 1397,
     "users": 1082,
     "items": 9,
-    "likes": 21294,
-    "comments": 324,
+    "likes": 21303,
+    "comments": 343,
     "recollects": 114
   },
   "posts": [
@@ -1405,7 +1405,7 @@
       "post_id": "1700382913668222",
       "created_at": "2026-06-21 00:35:53",
       "username": "room_83f969249b",
-      "fullname": "まゆーみ　10日キッズエフオー感謝❣️",
+      "fullname": "まゆーみ　13日子供セットアップ感謝❣️",
       "user_rank": 4,
       "item_id": "P009",
       "item_name": "MYC ジェルバームクレンジング",
@@ -1820,6 +1820,25 @@
       "item_short": "レチノソームショット"
     },
     {
+      "post_id": "1700394143470344",
+      "created_at": "2026-09-23 00:07:43",
+      "username": "ninikono_memo",
+      "fullname": "🐥niniko_room",
+      "user_rank": 4,
+      "item_id": "P003",
+      "item_name": "ビアス",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
+      "post_url": "https://room.rakuten.co.jp/ninikono_memo/1700394143470344",
+      "price": 5960,
+      "from_service": "room",
+      "likes": 56,
+      "comments": 0,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "ビアス"
+    },
+    {
       "post_id": "1700396221082427",
       "created_at": "2026-10-08 21:46:22",
       "username": "mimily2626_ylimim",
@@ -1875,25 +1894,6 @@
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "ホワイトプラス"
-    },
-    {
-      "post_id": "1700394143470344",
-      "created_at": "2026-09-23 00:07:43",
-      "username": "ninikono_memo",
-      "fullname": "🐥niniko_room",
-      "user_rank": 4,
-      "item_id": "P003",
-      "item_name": "ビアス",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
-      "post_url": "https://room.rakuten.co.jp/ninikono_memo/1700394143470344",
-      "price": 5960,
-      "from_service": "room",
-      "likes": 55,
-      "comments": 0,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "ビアス"
     },
     {
       "post_id": "1700383036659114",
@@ -3036,6 +3036,25 @@
       "item_short": "ホワイトプラス"
     },
     {
+      "post_id": "1700396784079351",
+      "created_at": "2026-10-13 14:55:09",
+      "username": "room_f34f625cfb",
+      "fullname": "ユッピー｜コスメと子育てROOM",
+      "user_rank": 4,
+      "item_id": "P004",
+      "item_name": "グルタスキントナー",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/glutathione/",
+      "post_url": "https://room.rakuten.co.jp/room_f34f625cfb/1700396784079351",
+      "price": 3300,
+      "from_service": "room",
+      "likes": 27,
+      "comments": 25,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "グルタスキントナー"
+    },
+    {
       "post_id": "1700331165851342",
       "created_at": "2025-08-16 22:28:03",
       "username": "room_e848c55683",
@@ -3397,25 +3416,6 @@
       "item_short": "ホワイトプラス"
     },
     {
-      "post_id": "1700396784079351",
-      "created_at": "2026-10-13 14:55:09",
-      "username": "room_f34f625cfb",
-      "fullname": "ユッピー｜コスメと子育てROOM",
-      "user_rank": 4,
-      "item_id": "P004",
-      "item_name": "グルタスキントナー",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/glutathione/",
-      "post_url": "https://room.rakuten.co.jp/room_f34f625cfb/1700396784079351",
-      "price": 3300,
-      "from_service": "room",
-      "likes": 20,
-      "comments": 6,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "グルタスキントナー"
-    },
-    {
       "post_id": "1700393702178247",
       "created_at": "2026-09-19 20:17:44",
       "username": "room_d3dbc5bf54",
@@ -3701,6 +3701,25 @@
       "item_short": "ホワイトプラス"
     },
     {
+      "post_id": "1700396663760178",
+      "created_at": "2026-10-12 15:30:37",
+      "username": "shiawase60",
+      "fullname": "しあわせ世代のおすすめ便",
+      "user_rank": 4,
+      "item_id": "P003",
+      "item_name": "ビアス",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
+      "post_url": "https://room.rakuten.co.jp/shiawase60/1700396663760178",
+      "price": 5960,
+      "from_service": "room",
+      "likes": 18,
+      "comments": 2,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "ビアス"
+    },
+    {
       "post_id": "1700392011274114",
       "created_at": "2026-09-06 23:54:28",
       "username": "room_3d45c63805",
@@ -3832,25 +3851,6 @@
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "ホワイトプラス"
-    },
-    {
-      "post_id": "1700396663760178",
-      "created_at": "2026-10-12 15:30:37",
-      "username": "shiawase60",
-      "fullname": "しあわせ世代のおすすめ便",
-      "user_rank": 4,
-      "item_id": "P003",
-      "item_name": "ビアス",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
-      "post_url": "https://room.rakuten.co.jp/shiawase60/1700396663760178",
-      "price": 5960,
-      "from_service": "room",
-      "likes": 17,
-      "comments": 2,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "ビアス"
     },
     {
       "post_id": "1700390216965237",
@@ -26590,26 +26590,26 @@
       "item_name": "ビアス",
       "item_short": "ビアス",
       "posts": 140,
-      "likes": 2923,
+      "likes": 2925,
       "comments": 54,
       "recollects": 12,
       "latest": "2026-10-12 15:30:37",
       "likes_per_post": 20.9,
       "recollect_rate": 0.09,
-      "influence": 2959
+      "influence": 2961
     },
     {
       "item_id": "P004",
       "item_name": "グルタスキントナー",
       "item_short": "グルタスキントナー",
       "posts": 81,
-      "likes": 1374,
-      "comments": 32,
+      "likes": 1381,
+      "comments": 51,
       "recollects": 6,
       "latest": "2026-10-13 14:55:09",
       "likes_per_post": 17.0,
       "recollect_rate": 0.07,
-      "influence": 1392
+      "influence": 1399
     },
     {
       "item_id": "P005",
@@ -27148,17 +27148,17 @@
       "rank": 1
     },
     {
-      "username": "room_c02992c152",
-      "fullname": "ほにゃほにゃお  ",
-      "posts": 1,
+      "username": "ninikono_memo",
+      "fullname": "🐥niniko_room",
+      "posts": 3,
       "total_likes": 71,
       "rank": 4
     },
     {
-      "username": "ninikono_memo",
-      "fullname": "🐥niniko_room",
-      "posts": 3,
-      "total_likes": 70,
+      "username": "room_c02992c152",
+      "fullname": "ほにゃほにゃお  ",
+      "posts": 1,
+      "total_likes": 71,
       "rank": 4
     },
     {
@@ -27177,7 +27177,7 @@
     },
     {
       "username": "room_83f969249b",
-      "fullname": "まゆーみ　10日キッズエフオー感謝❣️",
+      "fullname": "まゆーみ　13日子供セットアップ感謝❣️",
       "posts": 1,
       "total_likes": 70,
       "rank": 4
@@ -28798,7 +28798,7 @@
     {
       "day": "2026-09-23",
       "n": 24,
-      "likes": 172
+      "likes": 173
     },
     {
       "day": "2026-09-24",
@@ -28883,12 +28883,12 @@
     {
       "day": "2026-10-12",
       "n": 5,
-      "likes": 56
+      "likes": 57
     },
     {
       "day": "2026-10-13",
       "n": 2,
-      "likes": 20
+      "likes": 27
     }
   ],
   "movers": [
@@ -29103,7 +29103,7 @@
       "total": 140,
       "recent": 15,
       "prior": 1,
-      "recent_likes": 87,
+      "recent_likes": 88,
       "item_short": "ビアス"
     },
     {
@@ -29111,7 +29111,7 @@
       "total": 81,
       "recent": 3,
       "prior": 0,
-      "recent_likes": 23,
+      "recent_likes": 30,
       "item_short": "グルタスキントナー"
     },
     {
@@ -29159,12 +29159,12 @@
       "i": "ホワイトプラス"
     },
     {
-      "l": 2923,
+      "l": 2925,
       "r": 12,
       "i": "ビアス"
     },
     {
-      "l": 1374,
+      "l": 1381,
       "r": 6,
       "i": "グルタスキントナー"
     },
