@@ -2,7 +2,7 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-10-15 04:53 JST",
+    "generated_at": "2026-10-15 09:35 JST",
     "snapshots": 1
   },
   "summary": {
@@ -29103,9 +29103,9 @@
     {
       "item_id": "P002",
       "total": 239,
-      "recent": 5,
-      "prior": 5,
-      "recent_likes": 53,
+      "recent": 1,
+      "prior": 9,
+      "recent_likes": 1,
       "item_short": "ホワイトプラス"
     },
     {
@@ -29128,16 +29128,16 @@
       "item_id": "P001",
       "total": 198,
       "recent": 24,
-      "prior": 4,
+      "prior": 3,
       "recent_likes": 93,
       "item_short": "ハーバニエンス"
     },
     {
       "item_id": "P005",
       "total": 197,
-      "recent": 3,
-      "prior": 5,
-      "recent_likes": 17,
+      "recent": 2,
+      "prior": 6,
+      "recent_likes": 11,
       "item_short": "リノクル"
     },
     {
@@ -29151,9 +29151,9 @@
     {
       "item_id": "P006",
       "total": 200,
-      "recent": 2,
-      "prior": 3,
-      "recent_likes": 36,
+      "recent": 1,
+      "prior": 4,
+      "recent_likes": 0,
       "item_short": "レチノソームショット"
     }
   ],
