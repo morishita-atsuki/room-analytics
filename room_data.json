@@ -2,14 +2,14 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-10-21 09:34 JST",
+    "generated_at": "2026-10-21 11:46 JST",
     "snapshots": 1
   },
   "summary": {
     "posts": 1398,
     "users": 1082,
     "items": 9,
-    "likes": 21414,
+    "likes": 21416,
     "comments": 347,
     "recollects": 113
   },
@@ -102,7 +102,7 @@
       "post_url": "https://room.rakuten.co.jp/room_8ded1f8dd5/1700383697351124",
       "price": 5960,
       "from_service": "room",
-      "likes": 392,
+      "likes": 393,
       "comments": 10,
       "recollects": 0,
       "detail_views": 0,
@@ -1801,6 +1801,25 @@
       "item_short": "レチノソームショット"
     },
     {
+      "post_id": "1700395991815543",
+      "created_at": "2026-10-07 07:12:15",
+      "username": "room_30bd1feed6",
+      "fullname": "快適ライフ研究所｜暮らしのいいもの研究室",
+      "user_rank": 4,
+      "item_id": "P006",
+      "item_name": "レチノソームショット",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/retinol/",
+      "post_url": "https://room.rakuten.co.jp/room_30bd1feed6/1700395991815543",
+      "price": 3960,
+      "from_service": "room",
+      "likes": 58,
+      "comments": 2,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "レチノソームショット"
+    },
+    {
       "post_id": "1700390497289229",
       "created_at": "2026-08-26 21:27:21",
       "username": "room_57a8198317",
@@ -1818,25 +1837,6 @@
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "ビアス"
-    },
-    {
-      "post_id": "1700395991815543",
-      "created_at": "2026-10-07 07:12:15",
-      "username": "room_30bd1feed6",
-      "fullname": "快適ライフ研究所｜暮らしのいいもの研究室",
-      "user_rank": 4,
-      "item_id": "P006",
-      "item_name": "レチノソームショット",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/retinol/",
-      "post_url": "https://room.rakuten.co.jp/room_30bd1feed6/1700395991815543",
-      "price": 3960,
-      "from_service": "room",
-      "likes": 57,
-      "comments": 2,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "レチノソームショット"
     },
     {
       "post_id": "1700381256196373",
@@ -9287,15 +9287,15 @@
       "item_short": "ビアス"
     },
     {
-      "post_id": "1700396337043850",
-      "created_at": "2026-10-09 21:07:43",
-      "username": "room_849032bf12",
-      "fullname": "ずなまる | 日常の幸せ探し✨️",
-      "user_rank": 3,
+      "post_id": "1700390548810135",
+      "created_at": "2026-08-27 10:41:19",
+      "username": "room_21b62a8970",
+      "fullname": "C🌷",
+      "user_rank": 4,
       "item_id": "P003",
       "item_name": "ビアス",
       "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
-      "post_url": "https://room.rakuten.co.jp/room_849032bf12/1700396337043850",
+      "post_url": "https://room.rakuten.co.jp/room_21b62a8970/1700390548810135",
       "price": 5960,
       "from_service": "room",
       "likes": 5,
@@ -9306,15 +9306,15 @@
       "item_short": "ビアス"
     },
     {
-      "post_id": "1700390548810135",
-      "created_at": "2026-08-27 10:41:19",
-      "username": "room_21b62a8970",
-      "fullname": "C🌷",
-      "user_rank": 4,
+      "post_id": "1700396337043850",
+      "created_at": "2026-10-09 21:07:43",
+      "username": "room_849032bf12",
+      "fullname": "ずなまる | 日常の幸せ探し✨️",
+      "user_rank": 3,
       "item_id": "P003",
       "item_name": "ビアス",
       "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
-      "post_url": "https://room.rakuten.co.jp/room_21b62a8970/1700390548810135",
+      "post_url": "https://room.rakuten.co.jp/room_849032bf12/1700396337043850",
       "price": 5960,
       "from_service": "room",
       "likes": 5,
@@ -10883,25 +10883,6 @@
       "item_short": "ビアス"
     },
     {
-      "post_id": "1700396205447481",
-      "created_at": "2026-10-08 20:11:01",
-      "username": "kabo.222",
-      "fullname": "かぼち 40代美容と健康整う暮らし",
-      "user_rank": 4,
-      "item_id": "P003",
-      "item_name": "ビアス",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
-      "post_url": "https://room.rakuten.co.jp/kabo.222/1700396205447481",
-      "price": 5960,
-      "from_service": "room",
-      "likes": 4,
-      "comments": 0,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "ビアス"
-    },
-    {
       "post_id": "1700386483599225",
       "created_at": "2026-07-21 20:30:14",
       "username": "room_sanana9",
@@ -10935,6 +10916,25 @@
       "likes": 4,
       "comments": 0,
       "recollects": 1,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "ビアス"
+    },
+    {
+      "post_id": "1700396205447481",
+      "created_at": "2026-10-08 20:11:01",
+      "username": "kabo.222",
+      "fullname": "かぼち 40代美容と健康整う暮らし",
+      "user_rank": 4,
+      "item_id": "P003",
+      "item_name": "ビアス",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
+      "post_url": "https://room.rakuten.co.jp/kabo.222/1700396205447481",
+      "price": 5960,
+      "from_service": "room",
+      "likes": 4,
+      "comments": 0,
+      "recollects": 0,
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "ビアス"
@@ -13068,25 +13068,6 @@
       "item_short": "ビアス"
     },
     {
-      "post_id": "1700396234890318",
-      "created_at": "2026-10-08 23:24:49",
-      "username": "room_425b535123",
-      "fullname": "🐈暮らし整え×便利グッズ📝インテリア",
-      "user_rank": 4,
-      "item_id": "P003",
-      "item_name": "ビアス",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
-      "post_url": "https://room.rakuten.co.jp/room_425b535123/1700396234890318",
-      "price": 5960,
-      "from_service": "room",
-      "likes": 3,
-      "comments": 0,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "ビアス"
-    },
-    {
       "post_id": "1700381281518355",
       "created_at": "2026-06-07 21:36:07",
       "username": "room_99d1009f18",
@@ -13134,6 +13115,25 @@
       "item_name": "ビアス",
       "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
       "post_url": "https://room.rakuten.co.jp/room_flatyamachan/1700381150098215",
+      "price": 5960,
+      "from_service": "room",
+      "likes": 3,
+      "comments": 0,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "ビアス"
+    },
+    {
+      "post_id": "1700396234890318",
+      "created_at": "2026-10-08 23:24:49",
+      "username": "room_425b535123",
+      "fullname": "🐈暮らし整え×便利グッズ📝インテリア",
+      "user_rank": 4,
+      "item_id": "P003",
+      "item_name": "ビアス",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
+      "post_url": "https://room.rakuten.co.jp/room_425b535123/1700396234890318",
       "price": 5960,
       "from_service": "room",
       "likes": 3,
@@ -19129,25 +19129,6 @@
       "item_short": "ビアス"
     },
     {
-      "post_id": "1700381022943185",
-      "created_at": "2026-06-06 04:37:03",
-      "username": "niwatreena",
-      "fullname": "にわとりーな@皆様に感謝",
-      "user_rank": 4,
-      "item_id": "P003",
-      "item_name": "ビアス",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
-      "post_url": "https://room.rakuten.co.jp/niwatreena/1700381022943185",
-      "price": 5960,
-      "from_service": "room",
-      "likes": 1,
-      "comments": 0,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "ビアス"
-    },
-    {
       "post_id": "1700381132456355",
       "created_at": "2026-06-06 21:20:48",
       "username": "room_51d1306fb0",
@@ -19162,6 +19143,25 @@
       "likes": 1,
       "comments": 0,
       "recollects": 1,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "ビアス"
+    },
+    {
+      "post_id": "1700381022943185",
+      "created_at": "2026-06-06 04:37:03",
+      "username": "niwatreena",
+      "fullname": "にわとりーな@皆様に感謝",
+      "user_rank": 4,
+      "item_id": "P003",
+      "item_name": "ビアス",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
+      "post_url": "https://room.rakuten.co.jp/niwatreena/1700381022943185",
+      "price": 5960,
+      "from_service": "room",
+      "likes": 1,
+      "comments": 0,
+      "recollects": 0,
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "ビアス"
@@ -26609,13 +26609,13 @@
       "item_name": "ビアス",
       "item_short": "ビアス",
       "posts": 141,
-      "likes": 2943,
+      "likes": 2944,
       "comments": 54,
       "recollects": 12,
       "latest": "2026-10-18 18:43:28",
       "likes_per_post": 20.9,
       "recollect_rate": 0.09,
-      "influence": 2979
+      "influence": 2980
     },
     {
       "item_id": "P004",
@@ -26648,13 +26648,13 @@
       "item_name": "レチノソームショット",
       "item_short": "レチノソームショット",
       "posts": 200,
-      "likes": 2447,
+      "likes": 2448,
       "comments": 45,
       "recollects": 26,
       "latest": "2026-10-15 20:37:59",
       "likes_per_post": 12.2,
       "recollect_rate": 0.13,
-      "influence": 2525
+      "influence": 2526
     },
     {
       "item_id": "P007",
@@ -26701,7 +26701,7 @@
       "username": "room_8ded1f8dd5",
       "fullname": "アポロさん家",
       "posts": 5,
-      "total_likes": 1125,
+      "total_likes": 1126,
       "rank": 3
     },
     {
@@ -26999,18 +26999,18 @@
       "rank": 2
     },
     {
+      "username": "room_30bd1feed6",
+      "fullname": "快適ライフ研究所｜暮らしのいいもの研究室",
+      "posts": 3,
+      "total_likes": 123,
+      "rank": 4
+    },
+    {
       "username": "room_1eef02e4ef",
       "fullname": "おさむ",
       "posts": 1,
       "total_likes": 123,
       "rank": 3
-    },
-    {
-      "username": "room_30bd1feed6",
-      "fullname": "快適ライフ研究所｜暮らしのいいもの研究室",
-      "posts": 3,
-      "total_likes": 122,
-      "rank": 4
     },
     {
       "username": "room_928e7ce94c",
@@ -28437,7 +28437,7 @@
     {
       "day": "2026-06-27",
       "n": 3,
-      "likes": 400
+      "likes": 401
     },
     {
       "day": "2026-06-28",
@@ -28872,7 +28872,7 @@
     {
       "day": "2026-10-07",
       "n": 6,
-      "likes": 117
+      "likes": 118
     },
     {
       "day": "2026-10-08",
@@ -28977,8 +28977,8 @@
       "post_url": "https://room.rakuten.co.jp/room_8ded1f8dd5/1700383697351124",
       "item_name": "ビアス",
       "item_short": "ビアス",
-      "first_likes": 382,
-      "last_likes": 392,
+      "first_likes": 383,
+      "last_likes": 393,
       "delta": 10
     },
     {
@@ -29203,7 +29203,7 @@
       "i": "ホワイトプラス"
     },
     {
-      "l": 2943,
+      "l": 2944,
       "r": 12,
       "i": "ビアス"
     },
@@ -29218,7 +29218,7 @@
       "i": "リノクル"
     },
     {
-      "l": 2447,
+      "l": 2448,
       "r": 26,
       "i": "レチノソームショット"
     },
