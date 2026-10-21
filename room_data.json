@@ -2,14 +2,14 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-10-21 11:46 JST",
+    "generated_at": "2026-10-21 22:20 JST",
     "snapshots": 1
   },
   "summary": {
     "posts": 1398,
     "users": 1082,
     "items": 9,
-    "likes": 21416,
+    "likes": 21427,
     "comments": 347,
     "recollects": 113
   },
@@ -26,7 +26,7 @@
       "post_url": "https://room.rakuten.co.jp/shiorsroom/1700384126707168",
       "price": 3480,
       "from_service": "room",
-      "likes": 601,
+      "likes": 611,
       "comments": 22,
       "recollects": 0,
       "detail_views": 0,
@@ -1709,7 +1709,7 @@
       "post_id": "1700388122013319",
       "created_at": "2026-08-05 17:11:00",
       "username": "room_0d5069d897",
-      "fullname": "さとこみ（～10/18 感謝🙏）",
+      "fullname": "さとこみ（～10/20 感謝🙏）",
       "user_rank": 4,
       "item_id": "P003",
       "item_name": "ビアス",
@@ -4426,7 +4426,7 @@
       "post_id": "1700381075726155",
       "created_at": "2026-06-06 14:05:28",
       "username": "room_8089671927",
-      "fullname": "💎アロハ🕊️1617ありがと✨無添加",
+      "fullname": "💎アロハ🕊️ゆる身体に優しい🔥温活",
       "user_rank": 4,
       "item_id": "P003",
       "item_name": "ビアス",
@@ -6152,6 +6152,25 @@
       "item_short": "ホワイトプラス"
     },
     {
+      "post_id": "1700397453246165",
+      "created_at": "2026-10-18 18:43:28",
+      "username": "room_cc73faa7e2",
+      "fullname": "みつえもん",
+      "user_rank": 4,
+      "item_id": "P003",
+      "item_name": "ビアス",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
+      "post_url": "https://room.rakuten.co.jp/room_cc73faa7e2/1700397453246165",
+      "price": 5960,
+      "from_service": "room",
+      "likes": 9,
+      "comments": 0,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "ビアス"
+    },
+    {
       "post_id": "1700396634701311",
       "created_at": "2026-10-12 10:25:13",
       "username": "baaba_benri",
@@ -6758,25 +6777,6 @@
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "ホワイトプラス"
-    },
-    {
-      "post_id": "1700397453246165",
-      "created_at": "2026-10-18 18:43:28",
-      "username": "room_cc73faa7e2",
-      "fullname": "みつえもん",
-      "user_rank": 4,
-      "item_id": "P003",
-      "item_name": "ビアス",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
-      "post_url": "https://room.rakuten.co.jp/room_cc73faa7e2/1700397453246165",
-      "price": 5960,
-      "from_service": "room",
-      "likes": 8,
-      "comments": 0,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "ビアス"
     },
     {
       "post_id": "1700381596105165",
@@ -10921,15 +10921,15 @@
       "item_short": "ビアス"
     },
     {
-      "post_id": "1700396205447481",
-      "created_at": "2026-10-08 20:11:01",
-      "username": "kabo.222",
-      "fullname": "かぼち 40代美容と健康整う暮らし",
-      "user_rank": 4,
+      "post_id": "1700383527272360",
+      "created_at": "2026-06-26 00:06:49",
+      "username": "room_4fd0ec62f1",
+      "fullname": "のんのんままぁ",
+      "user_rank": 3,
       "item_id": "P003",
       "item_name": "ビアス",
       "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
-      "post_url": "https://room.rakuten.co.jp/kabo.222/1700396205447481",
+      "post_url": "https://room.rakuten.co.jp/room_4fd0ec62f1/1700383527272360",
       "price": 5960,
       "from_service": "room",
       "likes": 4,
@@ -10940,15 +10940,15 @@
       "item_short": "ビアス"
     },
     {
-      "post_id": "1700383527272360",
-      "created_at": "2026-06-26 00:06:49",
-      "username": "room_4fd0ec62f1",
-      "fullname": "のんのんままぁ",
-      "user_rank": 3,
+      "post_id": "1700396205447481",
+      "created_at": "2026-10-08 20:11:01",
+      "username": "kabo.222",
+      "fullname": "かぼち 40代美容と健康整う暮らし",
+      "user_rank": 4,
       "item_id": "P003",
       "item_name": "ビアス",
       "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
-      "post_url": "https://room.rakuten.co.jp/room_4fd0ec62f1/1700383527272360",
+      "post_url": "https://room.rakuten.co.jp/kabo.222/1700396205447481",
       "price": 5960,
       "from_service": "room",
       "likes": 4,
@@ -23803,15 +23803,15 @@
       "item_short": "ビアス"
     },
     {
-      "post_id": "1700381282367390",
-      "created_at": "2026-06-07 21:41:04",
-      "username": "room_8f0b1b60d2",
-      "fullname": "cozy",
-      "user_rank": 1,
+      "post_id": "1700381093347280",
+      "created_at": "2026-06-06 16:45:23",
+      "username": "room_d5cc5316fa",
+      "fullname": "shin/健康ROOM",
+      "user_rank": 4,
       "item_id": "P003",
       "item_name": "ビアス",
       "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
-      "post_url": "https://room.rakuten.co.jp/room_8f0b1b60d2/1700381282367390",
+      "post_url": "https://room.rakuten.co.jp/room_d5cc5316fa/1700381093347280",
       "price": 5960,
       "from_service": "room",
       "likes": 0,
@@ -23822,15 +23822,15 @@
       "item_short": "ビアス"
     },
     {
-      "post_id": "1700381093347280",
-      "created_at": "2026-06-06 16:45:23",
-      "username": "room_d5cc5316fa",
-      "fullname": "shin/健康ROOM",
-      "user_rank": 4,
+      "post_id": "1700381282367390",
+      "created_at": "2026-06-07 21:41:04",
+      "username": "room_8f0b1b60d2",
+      "fullname": "cozy",
+      "user_rank": 1,
       "item_id": "P003",
       "item_name": "ビアス",
       "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
-      "post_url": "https://room.rakuten.co.jp/room_d5cc5316fa/1700381093347280",
+      "post_url": "https://room.rakuten.co.jp/room_8f0b1b60d2/1700381282367390",
       "price": 5960,
       "from_service": "room",
       "likes": 0,
@@ -26609,13 +26609,13 @@
       "item_name": "ビアス",
       "item_short": "ビアス",
       "posts": 141,
-      "likes": 2944,
+      "likes": 2945,
       "comments": 54,
       "recollects": 12,
       "latest": "2026-10-18 18:43:28",
       "likes_per_post": 20.9,
       "recollect_rate": 0.09,
-      "influence": 2980
+      "influence": 2981
     },
     {
       "item_id": "P004",
@@ -26661,13 +26661,13 @@
       "item_name": "ハーブラピール",
       "item_short": "ハーブラピール",
       "posts": 199,
-      "likes": 4455,
+      "likes": 4465,
       "comments": 79,
       "recollects": 12,
       "latest": "2026-10-19 02:32:48",
       "likes_per_post": 22.4,
       "recollect_rate": 0.06,
-      "influence": 4491
+      "influence": 4501
     },
     {
       "item_id": "P008",
@@ -26708,7 +26708,7 @@
       "username": "shiorsroom",
       "fullname": "しい|お菓子と手帳好きな30代ママ",
       "posts": 2,
-      "total_likes": 642,
+      "total_likes": 652,
       "rank": 4
     },
     {
@@ -27287,7 +27287,7 @@
     },
     {
       "username": "room_0d5069d897",
-      "fullname": "さとこみ（～10/18 感謝🙏）",
+      "fullname": "さとこみ（～10/20 感謝🙏）",
       "posts": 1,
       "total_likes": 61,
       "rank": 4
@@ -28452,7 +28452,7 @@
     {
       "day": "2026-07-01",
       "n": 4,
-      "likes": 615
+      "likes": 625
     },
     {
       "day": "2026-07-03",
@@ -28927,7 +28927,7 @@
     {
       "day": "2026-10-18",
       "n": 1,
-      "likes": 8
+      "likes": 9
     },
     {
       "day": "2026-10-19",
@@ -28941,8 +28941,8 @@
       "post_url": "https://room.rakuten.co.jp/shiorsroom/1700384126707168",
       "item_name": "ハーブラピール",
       "item_short": "ハーブラピール",
-      "first_likes": 591,
-      "last_likes": 601,
+      "first_likes": 601,
+      "last_likes": 611,
       "delta": 10
     },
     {
@@ -29147,7 +29147,7 @@
       "total": 141,
       "recent": 1,
       "prior": 15,
-      "recent_likes": 8,
+      "recent_likes": 9,
       "item_short": "ビアス"
     },
     {
@@ -29203,7 +29203,7 @@
       "i": "ホワイトプラス"
     },
     {
-      "l": 2944,
+      "l": 2945,
       "r": 12,
       "i": "ビアス"
     },
@@ -29223,7 +29223,7 @@
       "i": "レチノソームショット"
     },
     {
-      "l": 4455,
+      "l": 4465,
       "r": 12,
       "i": "ハーブラピール"
     },
