@@ -2,14 +2,14 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-10-23 01:34 JST",
+    "generated_at": "2026-10-23 04:39 JST",
     "snapshots": 1
   },
   "summary": {
     "posts": 1399,
     "users": 1083,
     "items": 9,
-    "likes": 21432,
+    "likes": 21434,
     "comments": 347,
     "recollects": 112
   },
@@ -2865,6 +2865,25 @@
       "item_short": "ホワイトプラス"
     },
     {
+      "post_id": "1700396784079351",
+      "created_at": "2026-10-13 14:55:09",
+      "username": "room_f34f625cfb",
+      "fullname": "ユッピー｜コスメと子育てROOM",
+      "user_rank": 4,
+      "item_id": "P004",
+      "item_name": "グルタスキントナー",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/glutathione/",
+      "post_url": "https://room.rakuten.co.jp/room_f34f625cfb/1700396784079351",
+      "price": 3300,
+      "from_service": "room",
+      "likes": 29,
+      "comments": 27,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "グルタスキントナー"
+    },
+    {
       "post_id": "1700377875326319",
       "created_at": "2026-05-12 00:20:34",
       "username": "room_aa80aaa868",
@@ -2920,25 +2939,6 @@
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "ビアス"
-    },
-    {
-      "post_id": "1700396784079351",
-      "created_at": "2026-10-13 14:55:09",
-      "username": "room_f34f625cfb",
-      "fullname": "ユッピー｜コスメと子育てROOM",
-      "user_rank": 4,
-      "item_id": "P004",
-      "item_name": "グルタスキントナー",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/glutathione/",
-      "post_url": "https://room.rakuten.co.jp/room_f34f625cfb/1700396784079351",
-      "price": 3300,
-      "from_service": "room",
-      "likes": 28,
-      "comments": 27,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "グルタスキントナー"
     },
     {
       "post_id": "1700347621935171",
@@ -3647,7 +3647,7 @@
       "post_id": "1700394065726427",
       "created_at": "2026-09-22 12:58:03",
       "username": "room_f1824dad7a",
-      "fullname": "ちわわちゃん🐶",
+      "fullname": "ちわわちゃん🐶いいね制限中",
       "user_rank": 4,
       "item_id": "P008",
       "item_name": "ビタスポットセラム",
@@ -9439,6 +9439,25 @@
       "item_short": "ビアス"
     },
     {
+      "post_id": "1700397913495117",
+      "created_at": "2026-10-22 15:23:21",
+      "username": "room_0925acddd8",
+      "fullname": "Yana🌿質の高い暮らしのROOM",
+      "user_rank": 3,
+      "item_id": "P004",
+      "item_name": "グルタスキントナー",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/glutathione/",
+      "post_url": "https://room.rakuten.co.jp/room_0925acddd8/1700397913495117",
+      "price": 3300,
+      "from_service": "room",
+      "likes": 5,
+      "comments": 0,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "グルタスキントナー"
+    },
+    {
       "post_id": "1700392331953277",
       "created_at": "2026-09-09 09:16:09",
       "username": "room_d98656932d",
@@ -10976,25 +10995,6 @@
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "ビアス"
-    },
-    {
-      "post_id": "1700397913495117",
-      "created_at": "2026-10-22 15:23:21",
-      "username": "room_0925acddd8",
-      "fullname": "Yana🌿質の高い暮らしのROOM",
-      "user_rank": 3,
-      "item_id": "P004",
-      "item_name": "グルタスキントナー",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/glutathione/",
-      "post_url": "https://room.rakuten.co.jp/room_0925acddd8/1700397913495117",
-      "price": 3300,
-      "from_service": "room",
-      "likes": 4,
-      "comments": 0,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "グルタスキントナー"
     },
     {
       "post_id": "1700383104638884",
@@ -26641,13 +26641,13 @@
       "item_name": "グルタスキントナー",
       "item_short": "グルタスキントナー",
       "posts": 82,
-      "likes": 1387,
+      "likes": 1389,
       "comments": 53,
       "recollects": 6,
       "latest": "2026-10-22 15:23:21",
       "likes_per_post": 16.9,
       "recollect_rate": 0.07,
-      "influence": 1405
+      "influence": 1407
     },
     {
       "item_id": "P005",
@@ -28916,7 +28916,7 @@
     {
       "day": "2026-10-13",
       "n": 2,
-      "likes": 28
+      "likes": 29
     },
     {
       "day": "2026-10-14",
@@ -28951,7 +28951,7 @@
     {
       "day": "2026-10-22",
       "n": 2,
-      "likes": 4
+      "likes": 5
     }
   ],
   "movers": [
@@ -29174,7 +29174,7 @@
       "total": 82,
       "recent": 1,
       "prior": 3,
-      "recent_likes": 4,
+      "recent_likes": 5,
       "item_short": "グルタスキントナー"
     },
     {
@@ -29227,7 +29227,7 @@
       "i": "ビアス"
     },
     {
-      "l": 1387,
+      "l": 1389,
       "r": 6,
       "i": "グルタスキントナー"
     },
