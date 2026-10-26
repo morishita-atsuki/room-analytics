@@ -2,14 +2,14 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-10-26 11:34 JST",
+    "generated_at": "2026-10-26 23:42 JST",
     "snapshots": 1
   },
   "summary": {
     "posts": 1399,
     "users": 1083,
     "items": 9,
-    "likes": 21444,
+    "likes": 21446,
     "comments": 348,
     "recollects": 112
   },
@@ -1405,7 +1405,7 @@
       "post_id": "1700382913668222",
       "created_at": "2026-06-21 00:35:53",
       "username": "room_83f969249b",
-      "fullname": "まゆーみ　14日カトラリー有難う❤️🙏",
+      "fullname": "まゆーみ　24日ユーグレナ感謝💖🙏",
       "user_rank": 4,
       "item_id": "P009",
       "item_name": "MYC ジェルバームクレンジング",
@@ -1611,6 +1611,25 @@
       "item_short": "ビアス"
     },
     {
+      "post_id": "1700395991815543",
+      "created_at": "2026-10-07 07:12:15",
+      "username": "room_30bd1feed6",
+      "fullname": "快適ライフ研究所｜暮らしのいいもの研究室",
+      "user_rank": 4,
+      "item_id": "P006",
+      "item_name": "レチノソームショット",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/retinol/",
+      "post_url": "https://room.rakuten.co.jp/room_30bd1feed6/1700395991815543",
+      "price": 3960,
+      "from_service": "room",
+      "likes": 64,
+      "comments": 2,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "レチノソームショット"
+    },
+    {
       "post_id": "1700350861352428",
       "created_at": "2025-11-10 10:25:46",
       "username": "room_8b5b15c5ec",
@@ -1624,25 +1643,6 @@
       "from_service": "room",
       "likes": 64,
       "comments": 1,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "レチノソームショット"
-    },
-    {
-      "post_id": "1700395991815543",
-      "created_at": "2026-10-07 07:12:15",
-      "username": "room_30bd1feed6",
-      "fullname": "快適ライフ研究所｜暮らしのいいもの研究室",
-      "user_rank": 4,
-      "item_id": "P006",
-      "item_name": "レチノソームショット",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/retinol/",
-      "post_url": "https://room.rakuten.co.jp/room_30bd1feed6/1700395991815543",
-      "price": 3960,
-      "from_service": "room",
-      "likes": 63,
-      "comments": 2,
       "recollects": 0,
       "detail_views": 0,
       "influence_points": 0,
@@ -7273,6 +7273,25 @@
       "item_short": "リノクル"
     },
     {
+      "post_id": "1700388999655386",
+      "created_at": "2026-08-13 11:42:44",
+      "username": "room_oyabaka_3wan",
+      "fullname": "きゅんたん🐶わんこのいる暮らし｜40代",
+      "user_rank": 4,
+      "item_id": "P005",
+      "item_name": "リノクル",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/s-linokle/",
+      "post_url": "https://room.rakuten.co.jp/room_oyabaka_3wan/1700388999655386",
+      "price": 5980,
+      "from_service": "room",
+      "likes": 7,
+      "comments": 1,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "リノクル"
+    },
+    {
       "post_id": "1700383150008338",
       "created_at": "2026-06-22 23:45:58",
       "username": "room_97ae83f921",
@@ -8141,25 +8160,6 @@
       "from_service": "room",
       "likes": 6,
       "comments": 0,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "リノクル"
-    },
-    {
-      "post_id": "1700388999655386",
-      "created_at": "2026-08-13 11:42:44",
-      "username": "room_oyabaka_3wan",
-      "fullname": "きゅんたん🐶わんこのいる暮らし｜40代",
-      "user_rank": 4,
-      "item_id": "P005",
-      "item_name": "リノクル",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/s-linokle/",
-      "post_url": "https://room.rakuten.co.jp/room_oyabaka_3wan/1700388999655386",
-      "price": 5980,
-      "from_service": "room",
-      "likes": 6,
-      "comments": 1,
       "recollects": 0,
       "detail_views": 0,
       "influence_points": 0,
@@ -26654,26 +26654,26 @@
       "item_name": "リノクル",
       "item_short": "リノクル",
       "posts": 197,
-      "likes": 2060,
+      "likes": 2061,
       "comments": 21,
       "recollects": 17,
       "latest": "2026-10-17 21:13:48",
       "likes_per_post": 10.5,
       "recollect_rate": 0.09,
-      "influence": 2111
+      "influence": 2112
     },
     {
       "item_id": "P006",
       "item_name": "レチノソームショット",
       "item_short": "レチノソームショット",
       "posts": 200,
-      "likes": 2453,
+      "likes": 2454,
       "comments": 45,
       "recollects": 26,
       "latest": "2026-10-22 11:11:12",
       "likes_per_post": 12.3,
       "recollect_rate": 0.13,
-      "influence": 2531
+      "influence": 2532
     },
     {
       "item_id": "P007",
@@ -26997,17 +26997,17 @@
       "rank": 5
     },
     {
-      "username": "room_e1c24bbeed",
-      "fullname": "Keihime🧸💛お礼プロフにて💐",
-      "posts": 1,
+      "username": "room_30bd1feed6",
+      "fullname": "快適ライフ研究所｜暮らしのいいもの研究室",
+      "posts": 3,
       "total_likes": 129,
       "rank": 4
     },
     {
-      "username": "room_30bd1feed6",
-      "fullname": "快適ライフ研究所｜暮らしのいいもの研究室",
-      "posts": 3,
-      "total_likes": 128,
+      "username": "room_e1c24bbeed",
+      "fullname": "Keihime🧸💛お礼プロフにて💐",
+      "posts": 1,
+      "total_likes": 129,
       "rank": 4
     },
     {
@@ -27215,7 +27215,7 @@
     },
     {
       "username": "room_83f969249b",
-      "fullname": "まゆーみ　14日カトラリー有難う❤️🙏",
+      "fullname": "まゆーみ　24日ユーグレナ感謝💖🙏",
       "posts": 1,
       "total_likes": 70,
       "rank": 4
@@ -28651,7 +28651,7 @@
     {
       "day": "2026-08-13",
       "n": 2,
-      "likes": 7
+      "likes": 8
     },
     {
       "day": "2026-08-14",
@@ -28891,7 +28891,7 @@
     {
       "day": "2026-10-07",
       "n": 6,
-      "likes": 123
+      "likes": 124
     },
     {
       "day": "2026-10-08",
@@ -29247,12 +29247,12 @@
       "i": "グルタスキントナー"
     },
     {
-      "l": 2060,
+      "l": 2061,
       "r": 17,
       "i": "リノクル"
     },
     {
-      "l": 2453,
+      "l": 2454,
       "r": 26,
       "i": "レチノソームショット"
     },
