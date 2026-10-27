@@ -2,7 +2,7 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-10-27 05:49 JST",
+    "generated_at": "2026-10-27 09:35 JST",
     "snapshots": 1
   },
   "summary": {
@@ -29141,8 +29141,8 @@
     {
       "item_id": "P007",
       "total": 199,
-      "recent": 2,
-      "prior": 4,
+      "recent": 1,
+      "prior": 3,
       "recent_likes": 2,
       "item_short": "ハーブラピール"
     },
@@ -29166,7 +29166,7 @@
       "item_id": "P003",
       "total": 139,
       "recent": 1,
-      "prior": 4,
+      "prior": 1,
       "recent_likes": 1,
       "item_short": "ビアス"
     },
