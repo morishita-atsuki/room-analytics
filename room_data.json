@@ -2,14 +2,14 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-10-28 05:19 JST",
+    "generated_at": "2026-10-28 12:23 JST",
     "snapshots": 1
   },
   "summary": {
     "posts": 1400,
     "users": 1084,
     "items": 9,
-    "likes": 21397,
+    "likes": 21398,
     "comments": 347,
     "recollects": 111
   },
@@ -56,7 +56,7 @@
       "post_id": "1700382785286136",
       "created_at": "2026-06-20 07:02:38",
       "username": "room_ce6e8ec13d",
-      "fullname": "kimidori55🌱26日感謝✨😭",
+      "fullname": "kimidori55🌱28日投稿休み",
       "user_rank": 4,
       "item_id": "P002",
       "item_name": "MYC ホワイトプラス",
@@ -851,6 +851,25 @@
       "item_short": "ジェルバームクレンジング"
     },
     {
+      "post_id": "1700382806804140",
+      "created_at": "2026-06-20 10:46:19",
+      "username": "room_307e686a48",
+      "fullname": "kei",
+      "user_rank": 4,
+      "item_id": "P005",
+      "item_name": "リノクル",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/s-linokle/",
+      "post_url": "https://room.rakuten.co.jp/room_307e686a48/1700382806804140",
+      "price": 5980,
+      "from_service": "room",
+      "likes": 117,
+      "comments": 2,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "リノクル"
+    },
+    {
       "post_id": "1700371933871248",
       "created_at": "2026-03-22 19:51:38",
       "username": "room_8ded1f8dd5",
@@ -887,25 +906,6 @@
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "ホワイトプラス"
-    },
-    {
-      "post_id": "1700382806804140",
-      "created_at": "2026-06-20 10:46:19",
-      "username": "room_307e686a48",
-      "fullname": "kei",
-      "user_rank": 4,
-      "item_id": "P005",
-      "item_name": "リノクル",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/s-linokle/",
-      "post_url": "https://room.rakuten.co.jp/room_307e686a48/1700382806804140",
-      "price": 5980,
-      "from_service": "room",
-      "likes": 116,
-      "comments": 2,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "リノクル"
     },
     {
       "post_id": "1700366915254287",
@@ -1405,7 +1405,7 @@
       "post_id": "1700382913668222",
       "created_at": "2026-06-21 00:35:53",
       "username": "room_83f969249b",
-      "fullname": "まゆーみ　25日エバクロ有難う💖",
+      "fullname": "まゆーみ　27日洋服有難う❣️🙇",
       "user_rank": 4,
       "item_id": "P009",
       "item_name": "MYC ジェルバームクレンジング",
@@ -1785,7 +1785,7 @@
       "post_id": "1700393858422113",
       "created_at": "2026-09-20 21:41:55",
       "username": "room_e52c611b0e",
-      "fullname": "tacos🍀㉓日感謝❤(ӦｖӦ｡)",
+      "fullname": "tacos🍀㉖㉗日感謝❤(ӦｖӦ｡)",
       "user_rank": 4,
       "item_id": "P005",
       "item_name": "リノクル",
@@ -2412,7 +2412,7 @@
       "post_id": "1700386900243103",
       "created_at": "2026-07-25 15:10:38",
       "username": "hello_kiyo07",
-      "fullname": "きよ🌹幸せ✨皆様のお心遣いに感謝🎃",
+      "fullname": "きよ🌹幸せ✨皆様のお心遣いに感謝💖",
       "user_rank": 4,
       "item_id": "P005",
       "item_name": "リノクル",
@@ -13376,7 +13376,7 @@
       "created_at": "2026-03-23 23:41:57",
       "username": "room_d8280c6405",
       "fullname": "暮らしと美容のセレクトROOM",
-      "user_rank": 1,
+      "user_rank": 2,
       "item_id": "P005",
       "item_name": "リノクル",
       "item_url": "https://item.rakuten.co.jp/aokinomori/s-linokle/",
@@ -26673,13 +26673,13 @@
       "item_name": "リノクル",
       "item_short": "リノクル",
       "posts": 197,
-      "likes": 2061,
+      "likes": 2062,
       "comments": 21,
       "recollects": 17,
       "latest": "2026-10-17 21:13:48",
       "likes_per_post": 10.5,
       "recollect_rate": 0.09,
-      "influence": 2112
+      "influence": 2113
     },
     {
       "item_id": "P006",
@@ -26758,7 +26758,7 @@
     },
     {
       "username": "room_ce6e8ec13d",
-      "fullname": "kimidori55🌱26日感謝✨😭",
+      "fullname": "kimidori55🌱28日投稿休み",
       "posts": 1,
       "total_likes": 420,
       "rank": 4
@@ -27072,15 +27072,15 @@
       "rank": 4
     },
     {
-      "username": "room_0ae729fc16",
-      "fullname": "おくのはら",
+      "username": "room_307e686a48",
+      "fullname": "kei",
       "posts": 1,
-      "total_likes": 116,
+      "total_likes": 117,
       "rank": 4
     },
     {
-      "username": "room_307e686a48",
-      "fullname": "kei",
+      "username": "room_0ae729fc16",
+      "fullname": "おくのはら",
       "posts": 1,
       "total_likes": 116,
       "rank": 4
@@ -27234,7 +27234,7 @@
     },
     {
       "username": "room_83f969249b",
-      "fullname": "まゆーみ　25日エバクロ有難う💖",
+      "fullname": "まゆーみ　27日洋服有難う❣️🙇",
       "posts": 1,
       "total_likes": 70,
       "rank": 4
@@ -27346,7 +27346,7 @@
     },
     {
       "username": "room_e52c611b0e",
-      "fullname": "tacos🍀㉓日感謝❤(ӦｖӦ｡)",
+      "fullname": "tacos🍀㉖㉗日感謝❤(ӦｖӦ｡)",
       "posts": 1,
       "total_likes": 59,
       "rank": 4
@@ -28440,7 +28440,7 @@
     {
       "day": "2026-06-20",
       "n": 11,
-      "likes": 713
+      "likes": 714
     },
     {
       "day": "2026-06-21",
@@ -29180,7 +29180,7 @@
       "item_id": "P007",
       "total": 199,
       "recent": 1,
-      "prior": 3,
+      "prior": 2,
       "recent_likes": 2,
       "item_short": "ハーブラピール"
     },
@@ -29212,7 +29212,7 @@
       "item_id": "P004",
       "total": 82,
       "recent": 1,
-      "prior": 1,
+      "prior": 0,
       "recent_likes": 5,
       "item_short": "グルタスキントナー"
     },
@@ -29271,7 +29271,7 @@
       "i": "グルタスキントナー"
     },
     {
-      "l": 2061,
+      "l": 2062,
       "r": 17,
       "i": "リノクル"
     },
