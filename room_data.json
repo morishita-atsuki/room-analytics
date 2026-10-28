@@ -2,14 +2,14 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-10-28 23:44 JST",
+    "generated_at": "2026-10-29 05:42 JST",
     "snapshots": 1
   },
   "summary": {
-    "posts": 1400,
-    "users": 1084,
+    "posts": 1401,
+    "users": 1085,
     "items": 9,
-    "likes": 21398,
+    "likes": 21411,
     "comments": 347,
     "recollects": 111
   },
@@ -1728,7 +1728,7 @@
       "post_id": "1700388122013319",
       "created_at": "2026-08-05 17:11:00",
       "username": "room_0d5069d897",
-      "fullname": "さとこみ（～10/26 感謝🙏）",
+      "fullname": "さとこみ（～10/27 感謝🙏）",
       "user_rank": 4,
       "item_id": "P003",
       "item_name": "ビアス",
@@ -2059,7 +2059,7 @@
       "post_url": "https://room.rakuten.co.jp/room_d5efb7df95/1700394206502456",
       "price": 5960,
       "from_service": "room",
-      "likes": 49,
+      "likes": 50,
       "comments": 0,
       "recollects": 0,
       "detail_views": 0,
@@ -2124,6 +2124,25 @@
       "item_short": "ホワイトプラス"
     },
     {
+      "post_id": "1700321878854216",
+      "created_at": "2025-07-07 16:04:27",
+      "username": "misaroom_0264595a8d",
+      "fullname": "みさ",
+      "user_rank": 5,
+      "item_id": "P002",
+      "item_name": "MYC ホワイトプラス",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/mycwhite/",
+      "post_url": "https://room.rakuten.co.jp/misaroom_0264595a8d/1700321878854216",
+      "price": 3980,
+      "from_service": "room",
+      "likes": 44,
+      "comments": 2,
+      "recollects": 1,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "ホワイトプラス"
+    },
+    {
       "post_id": "1700388194496794",
       "created_at": "2026-08-06 07:14:44",
       "username": "room_emerald_m",
@@ -2162,25 +2181,6 @@
       "item_short": "ハーブラピール"
     },
     {
-      "post_id": "1700321878854216",
-      "created_at": "2025-07-07 16:04:27",
-      "username": "misaroom_0264595a8d",
-      "fullname": "みさ",
-      "user_rank": 5,
-      "item_id": "P002",
-      "item_name": "MYC ホワイトプラス",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/mycwhite/",
-      "post_url": "https://room.rakuten.co.jp/misaroom_0264595a8d/1700321878854216",
-      "price": 3980,
-      "from_service": "room",
-      "likes": 43,
-      "comments": 2,
-      "recollects": 1,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "ホワイトプラス"
-    },
-    {
       "post_id": "1700391963478148",
       "created_at": "2026-09-06 19:04:29",
       "username": "room_0c670c7033",
@@ -2217,6 +2217,25 @@
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "リノクル"
+    },
+    {
+      "post_id": "1700395794743354",
+      "created_at": "2026-10-05 20:13:42",
+      "username": "room_ded0a845ef",
+      "fullname": "あきまる@時短美容と便利グッズのポケット",
+      "user_rank": 4,
+      "item_id": "P006",
+      "item_name": "レチノソームショット",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/retinol/",
+      "post_url": "https://room.rakuten.co.jp/room_ded0a845ef/1700395794743354",
+      "price": 3960,
+      "from_service": "room",
+      "likes": 42,
+      "comments": 1,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "レチノソームショット"
     },
     {
       "post_id": "1700354067766382",
@@ -2312,25 +2331,6 @@
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "ビアス"
-    },
-    {
-      "post_id": "1700395794743354",
-      "created_at": "2026-10-05 20:13:42",
-      "username": "room_ded0a845ef",
-      "fullname": "あきまる@時短美容と便利グッズのポケット",
-      "user_rank": 4,
-      "item_id": "P006",
-      "item_name": "レチノソームショット",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/retinol/",
-      "post_url": "https://room.rakuten.co.jp/room_ded0a845ef/1700395794743354",
-      "price": 3960,
-      "from_service": "room",
-      "likes": 41,
-      "comments": 1,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "レチノソームショット"
     },
     {
       "post_id": "1700354721425282",
@@ -3986,6 +3986,25 @@
       "item_short": "ホワイトプラス"
     },
     {
+      "post_id": "1700383024622126",
+      "created_at": "2026-06-21 22:41:13",
+      "username": "karin_lifestyle",
+      "fullname": "karin🏠️𓃠🐾",
+      "user_rank": 3,
+      "item_id": "P002",
+      "item_name": "MYC ホワイトプラス",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/mycwhite/",
+      "post_url": "https://room.rakuten.co.jp/karin_lifestyle/1700383024622126",
+      "price": 3980,
+      "from_service": "room",
+      "likes": 16,
+      "comments": 0,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "ホワイトプラス"
+    },
+    {
       "post_id": "1700372127826273",
       "created_at": "2026-03-24 12:00:20",
       "username": "room_8a2254e7c2",
@@ -4189,25 +4208,6 @@
       "from_service": "room",
       "likes": 15,
       "comments": 1,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "ホワイトプラス"
-    },
-    {
-      "post_id": "1700383024622126",
-      "created_at": "2026-06-21 22:41:13",
-      "username": "karin_lifestyle",
-      "fullname": "karin🏠️𓃠🐾",
-      "user_rank": 3,
-      "item_id": "P002",
-      "item_name": "MYC ホワイトプラス",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/mycwhite/",
-      "post_url": "https://room.rakuten.co.jp/karin_lifestyle/1700383024622126",
-      "price": 3980,
-      "from_service": "room",
-      "likes": 15,
-      "comments": 0,
       "recollects": 0,
       "detail_views": 0,
       "influence_points": 0,
@@ -6133,6 +6133,25 @@
       "item_short": "ホワイトプラス"
     },
     {
+      "post_id": "1700339893148101",
+      "created_at": "2025-09-25 12:51:27",
+      "username": "sao_mama_room",
+      "fullname": "おうち時短グッズROOM",
+      "user_rank": 3,
+      "item_id": "P002",
+      "item_name": "MYC ホワイトプラス",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/mycwhite/",
+      "post_url": "https://room.rakuten.co.jp/sao_mama_room/1700339893148101",
+      "price": 3980,
+      "from_service": "room",
+      "likes": 9,
+      "comments": 0,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "ホワイトプラス"
+    },
+    {
       "post_id": "1700397453246165",
       "created_at": "2026-10-18 18:43:28",
       "username": "room_cc73faa7e2",
@@ -6142,6 +6161,25 @@
       "item_name": "ビアス",
       "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
       "post_url": "https://room.rakuten.co.jp/room_cc73faa7e2/1700397453246165",
+      "price": 5960,
+      "from_service": "room",
+      "likes": 9,
+      "comments": 0,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "ビアス"
+    },
+    {
+      "post_id": "1700383502581294",
+      "created_at": "2026-06-25 21:19:44",
+      "username": "room_c3c2ab4e2d",
+      "fullname": "すみこ🌰 美味しいものたくさん🍁",
+      "user_rank": 4,
+      "item_id": "P003",
+      "item_name": "ビアス",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
+      "post_url": "https://room.rakuten.co.jp/room_c3c2ab4e2d/1700383502581294",
       "price": 5960,
       "from_service": "room",
       "likes": 9,
@@ -6165,25 +6203,6 @@
       "from_service": "room",
       "likes": 9,
       "comments": 1,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "ビアス"
-    },
-    {
-      "post_id": "1700383502581294",
-      "created_at": "2026-06-25 21:19:44",
-      "username": "room_c3c2ab4e2d",
-      "fullname": "すみこ🌰 美味しいものたくさん🍁",
-      "user_rank": 4,
-      "item_id": "P003",
-      "item_name": "ビアス",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
-      "post_url": "https://room.rakuten.co.jp/room_c3c2ab4e2d/1700383502581294",
-      "price": 5960,
-      "from_service": "room",
-      "likes": 9,
-      "comments": 0,
       "recollects": 0,
       "detail_views": 0,
       "influence_points": 0,
@@ -13011,15 +13030,15 @@
       "item_short": "ビアス"
     },
     {
-      "post_id": "1700386670383404",
-      "created_at": "2026-07-23 14:10:33",
-      "username": "room_a9d29f19e8",
-      "fullname": "チロの助",
-      "user_rank": 3,
+      "post_id": "1700386482554358",
+      "created_at": "2026-07-21 20:22:18",
+      "username": "room_eae12ebe86",
+      "fullname": "Ruckyyy🌸経由感謝🙇‍♀️✨",
+      "user_rank": 4,
       "item_id": "P003",
       "item_name": "ビアス",
       "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
-      "post_url": "https://room.rakuten.co.jp/room_a9d29f19e8/1700386670383404",
+      "post_url": "https://room.rakuten.co.jp/room_eae12ebe86/1700386482554358",
       "price": 5960,
       "from_service": "room",
       "likes": 3,
@@ -13030,15 +13049,15 @@
       "item_short": "ビアス"
     },
     {
-      "post_id": "1700386482554358",
-      "created_at": "2026-07-21 20:22:18",
-      "username": "room_eae12ebe86",
-      "fullname": "Ruckyyy🌸経由感謝🙇‍♀️✨",
-      "user_rank": 4,
+      "post_id": "1700386670383404",
+      "created_at": "2026-07-23 14:10:33",
+      "username": "room_a9d29f19e8",
+      "fullname": "チロの助",
+      "user_rank": 3,
       "item_id": "P003",
       "item_name": "ビアス",
       "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
-      "post_url": "https://room.rakuten.co.jp/room_eae12ebe86/1700386482554358",
+      "post_url": "https://room.rakuten.co.jp/room_a9d29f19e8/1700386670383404",
       "price": 5960,
       "from_service": "room",
       "likes": 3,
@@ -26633,27 +26652,27 @@
       "item_id": "P002",
       "item_name": "MYC ホワイトプラス",
       "item_short": "ホワイトプラス",
-      "posts": 238,
-      "likes": 3909,
+      "posts": 239,
+      "likes": 3920,
       "comments": 55,
       "recollects": 18,
       "latest": "2026-10-15 23:28:10",
       "likes_per_post": 16.4,
       "recollect_rate": 0.08,
-      "influence": 3963
+      "influence": 3974
     },
     {
       "item_id": "P003",
       "item_name": "ビアス",
       "item_short": "ビアス",
       "posts": 141,
-      "likes": 2891,
+      "likes": 2892,
       "comments": 53,
       "recollects": 11,
       "latest": "2026-10-27 12:06:11",
       "likes_per_post": 20.5,
       "recollect_rate": 0.08,
-      "influence": 2924
+      "influence": 2925
     },
     {
       "item_id": "P004",
@@ -26686,13 +26705,13 @@
       "item_name": "レチノソームショット",
       "item_short": "レチノソームショット",
       "posts": 200,
-      "likes": 2454,
+      "likes": 2455,
       "comments": 45,
       "recollects": 26,
       "latest": "2026-10-22 11:11:12",
       "likes_per_post": 12.3,
       "recollect_rate": 0.13,
-      "influence": 2532
+      "influence": 2533
     },
     {
       "item_id": "P007",
@@ -26844,7 +26863,7 @@
       "username": "room_d5efb7df95",
       "fullname": "🍀みかりん🍀10月宜しくお願いします",
       "posts": 2,
-      "total_likes": 250,
+      "total_likes": 251,
       "rank": 4
     },
     {
@@ -27002,18 +27021,18 @@
       "rank": 4
     },
     {
+      "username": "misaroom_0264595a8d",
+      "fullname": "みさ",
+      "posts": 2,
+      "total_likes": 133,
+      "rank": 5
+    },
+    {
       "username": "room_c456a60837",
       "fullname": "りさ｜40代美容好き",
       "posts": 2,
       "total_likes": 133,
       "rank": 2
-    },
-    {
-      "username": "misaroom_0264595a8d",
-      "fullname": "みさ",
-      "posts": 2,
-      "total_likes": 132,
-      "rank": 5
     },
     {
       "username": "room_30bd1feed6",
@@ -27325,7 +27344,7 @@
     },
     {
       "username": "room_0d5069d897",
-      "fullname": "さとこみ（～10/26 感謝🙏）",
+      "fullname": "さとこみ（～10/27 感謝🙏）",
       "posts": 1,
       "total_likes": 61,
       "rank": 4
@@ -27450,7 +27469,7 @@
     {
       "day": "2025-07-07",
       "n": 1,
-      "likes": 43
+      "likes": 44
     },
     {
       "day": "2025-07-08",
@@ -27564,8 +27583,8 @@
     },
     {
       "day": "2025-09-25",
-      "n": 2,
-      "likes": 16
+      "n": 3,
+      "likes": 25
     },
     {
       "day": "2025-09-26",
@@ -28445,7 +28464,7 @@
     {
       "day": "2026-06-21",
       "n": 24,
-      "likes": 322
+      "likes": 323
     },
     {
       "day": "2026-06-22",
@@ -28850,7 +28869,7 @@
     {
       "day": "2026-09-23",
       "n": 24,
-      "likes": 177
+      "likes": 178
     },
     {
       "day": "2026-09-24",
@@ -28900,7 +28919,7 @@
     {
       "day": "2026-10-05",
       "n": 14,
-      "likes": 60
+      "likes": 61
     },
     {
       "day": "2026-10-06",
@@ -29194,7 +29213,7 @@
     },
     {
       "item_id": "P002",
-      "total": 238,
+      "total": 239,
       "recent": 0,
       "prior": 2,
       "recent_likes": 0,
@@ -29256,12 +29275,12 @@
       "i": "ハーバニエンス"
     },
     {
-      "l": 3909,
+      "l": 3920,
       "r": 18,
       "i": "ホワイトプラス"
     },
     {
-      "l": 2891,
+      "l": 2892,
       "r": 11,
       "i": "ビアス"
     },
@@ -29276,7 +29295,7 @@
       "i": "リノクル"
     },
     {
-      "l": 2454,
+      "l": 2455,
       "r": 26,
       "i": "レチノソームショット"
     },
