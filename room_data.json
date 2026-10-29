@@ -2,14 +2,14 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-10-29 05:42 JST",
+    "generated_at": "2026-10-29 12:45 JST",
     "snapshots": 1
   },
   "summary": {
     "posts": 1401,
     "users": 1085,
     "items": 9,
-    "likes": 21411,
+    "likes": 21412,
     "comments": 347,
     "recollects": 111
   },
@@ -702,7 +702,7 @@
       "post_id": "1700383399250388",
       "created_at": "2026-06-25 02:19:19",
       "username": "room_e1c24bbeed",
-      "fullname": "Keihime🧸💛お礼プロフにて💐",
+      "fullname": "Keihime🧸💛遅れてます🙏🏻",
       "user_rank": 4,
       "item_id": "P007",
       "item_name": "ハーブラピール",
@@ -3286,7 +3286,7 @@
       "post_id": "1700371437905259",
       "created_at": "2026-03-18 21:13:26",
       "username": "room_c35b440a49",
-      "fullname": "a-chan-room",
+      "fullname": "💗亜美と毎日の『困った』を一緒に解決❗",
       "user_rank": 4,
       "item_id": "P007",
       "item_name": "ハーブラピール",
@@ -6460,7 +6460,7 @@
       "created_at": "2026-02-27 08:01:03",
       "username": "room_uni_diet",
       "fullname": "s u a",
-      "user_rank": 1,
+      "user_rank": 3,
       "item_id": "P007",
       "item_name": "ハーブラピール",
       "item_url": "https://item.rakuten.co.jp/aokinomori/hlpeel/",
@@ -13885,6 +13885,25 @@
       "item_short": "レチノソームショット"
     },
     {
+      "post_id": "1700398528474136",
+      "created_at": "2026-10-27 00:10:58",
+      "username": "room_marukohoiku",
+      "fullname": "50代まるこ😺",
+      "user_rank": 3,
+      "item_id": "P007",
+      "item_name": "ハーブラピール",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/hlpeel/",
+      "post_url": "https://room.rakuten.co.jp/room_marukohoiku/1700398528474136",
+      "price": 3480,
+      "from_service": "room",
+      "likes": 3,
+      "comments": 0,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "ハーブラピール"
+    },
+    {
       "post_id": "1700396295587299",
       "created_at": "2026-10-09 14:24:50",
       "username": "room_f91debc305",
@@ -16562,25 +16581,6 @@
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "レチノソームショット"
-    },
-    {
-      "post_id": "1700398528474136",
-      "created_at": "2026-10-27 00:10:58",
-      "username": "room_marukohoiku",
-      "fullname": "50代まるこ😺",
-      "user_rank": 3,
-      "item_id": "P007",
-      "item_name": "ハーブラピール",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/hlpeel/",
-      "post_url": "https://room.rakuten.co.jp/room_marukohoiku/1700398528474136",
-      "price": 3480,
-      "from_service": "room",
-      "likes": 2,
-      "comments": 0,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "ハーブラピール"
     },
     {
       "post_id": "1700396704685333",
@@ -26718,13 +26718,13 @@
       "item_name": "ハーブラピール",
       "item_short": "ハーブラピール",
       "posts": 199,
-      "likes": 4493,
+      "likes": 4494,
       "comments": 79,
       "recollects": 12,
       "latest": "2026-10-27 00:10:58",
       "likes_per_post": 22.6,
       "recollect_rate": 0.06,
-      "influence": 4529
+      "influence": 4530
     },
     {
       "item_id": "P008",
@@ -27043,7 +27043,7 @@
     },
     {
       "username": "room_e1c24bbeed",
-      "fullname": "Keihime🧸💛お礼プロフにて💐",
+      "fullname": "Keihime🧸💛遅れてます🙏🏻",
       "posts": 1,
       "total_likes": 129,
       "rank": 4
@@ -29009,7 +29009,7 @@
     {
       "day": "2026-10-27",
       "n": 3,
-      "likes": 12
+      "likes": 13
     }
   ],
   "movers": [
@@ -29200,7 +29200,7 @@
       "total": 199,
       "recent": 1,
       "prior": 2,
-      "recent_likes": 2,
+      "recent_likes": 3,
       "item_short": "ハーブラピール"
     },
     {
@@ -29263,7 +29263,7 @@
       "item_id": "P006",
       "total": 200,
       "recent": 1,
-      "prior": 2,
+      "prior": 1,
       "recent_likes": 0,
       "item_short": "レチノソームショット"
     }
@@ -29300,7 +29300,7 @@
       "i": "レチノソームショット"
     },
     {
-      "l": 4493,
+      "l": 4494,
       "r": 12,
       "i": "ハーブラピール"
     },
