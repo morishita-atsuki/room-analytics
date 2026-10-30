@@ -2,14 +2,14 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-10-30 12:49 JST",
+    "generated_at": "2026-10-30 23:43 JST",
     "snapshots": 1
   },
   "summary": {
     "posts": 1399,
     "users": 1084,
     "items": 9,
-    "likes": 21430,
+    "likes": 21433,
     "comments": 347,
     "recollects": 111
   },
@@ -824,7 +824,7 @@
       "post_url": "https://room.rakuten.co.jp/room_af4794e1dc/1700333199632393",
       "price": 3960,
       "from_service": "room",
-      "likes": 119,
+      "likes": 120,
       "comments": 0,
       "recollects": 1,
       "detail_views": 0,
@@ -1554,6 +1554,25 @@
       "item_short": "ハーブラピール"
     },
     {
+      "post_id": "1700395991815543",
+      "created_at": "2026-10-07 07:12:15",
+      "username": "room_30bd1feed6",
+      "fullname": "快適ライフ研究所｜暮らしのいいもの研究室",
+      "user_rank": 4,
+      "item_id": "P006",
+      "item_name": "レチノソームショット",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/retinol/",
+      "post_url": "https://room.rakuten.co.jp/room_30bd1feed6/1700395991815543",
+      "price": 3960,
+      "from_service": "room",
+      "likes": 65,
+      "comments": 2,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "レチノソームショット"
+    },
+    {
       "post_id": "1700356491104315",
       "created_at": "2025-12-04 00:12:10",
       "username": "room_daisy_mamabiyou",
@@ -1590,25 +1609,6 @@
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "ホワイトプラス"
-    },
-    {
-      "post_id": "1700395991815543",
-      "created_at": "2026-10-07 07:12:15",
-      "username": "room_30bd1feed6",
-      "fullname": "快適ライフ研究所｜暮らしのいいもの研究室",
-      "user_rank": 4,
-      "item_id": "P006",
-      "item_name": "レチノソームショット",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/retinol/",
-      "post_url": "https://room.rakuten.co.jp/room_30bd1feed6/1700395991815543",
-      "price": 3960,
-      "from_service": "room",
-      "likes": 64,
-      "comments": 2,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "レチノソームショット"
     },
     {
       "post_id": "1700350861352428",
@@ -8090,6 +8090,25 @@
       "item_short": "ビアス"
     },
     {
+      "post_id": "1700397913495117",
+      "created_at": "2026-10-22 15:23:21",
+      "username": "room_0925acddd8",
+      "fullname": "Yana🌿質の高い暮らしのROOM",
+      "user_rank": 3,
+      "item_id": "P004",
+      "item_name": "グルタスキントナー",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/glutathione/",
+      "post_url": "https://room.rakuten.co.jp/room_0925acddd8/1700397913495117",
+      "price": 3300,
+      "from_service": "room",
+      "likes": 6,
+      "comments": 0,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "グルタスキントナー"
+    },
+    {
       "post_id": "1700386891174261",
       "created_at": "2026-07-25 13:30:38",
       "username": "room_8e8d2c9637",
@@ -9437,25 +9456,6 @@
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "ビアス"
-    },
-    {
-      "post_id": "1700397913495117",
-      "created_at": "2026-10-22 15:23:21",
-      "username": "room_0925acddd8",
-      "fullname": "Yana🌿質の高い暮らしのROOM",
-      "user_rank": 3,
-      "item_id": "P004",
-      "item_name": "グルタスキントナー",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/glutathione/",
-      "post_url": "https://room.rakuten.co.jp/room_0925acddd8/1700397913495117",
-      "price": 3300,
-      "from_service": "room",
-      "likes": 5,
-      "comments": 0,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "グルタスキントナー"
     },
     {
       "post_id": "1700392331953277",
@@ -26641,13 +26641,13 @@
       "item_name": "グルタスキントナー",
       "item_short": "グルタスキントナー",
       "posts": 82,
-      "likes": 1386,
+      "likes": 1387,
       "comments": 54,
       "recollects": 6,
       "latest": "2026-10-22 15:23:21",
       "likes_per_post": 16.9,
       "recollect_rate": 0.07,
-      "influence": 1404
+      "influence": 1405
     },
     {
       "item_id": "P005",
@@ -26667,13 +26667,13 @@
       "item_name": "レチノソームショット",
       "item_short": "レチノソームショット",
       "posts": 200,
-      "likes": 2455,
+      "likes": 2457,
       "comments": 45,
       "recollects": 26,
       "latest": "2026-10-22 11:11:12",
       "likes_per_post": 12.3,
       "recollect_rate": 0.13,
-      "influence": 2533
+      "influence": 2535
     },
     {
       "item_id": "P007",
@@ -27000,7 +27000,7 @@
       "username": "room_30bd1feed6",
       "fullname": "快適ライフ研究所｜暮らしのいいもの研究室",
       "posts": 3,
-      "total_likes": 129,
+      "total_likes": 130,
       "rank": 4
     },
     {
@@ -27042,7 +27042,7 @@
       "username": "room_af4794e1dc",
       "fullname": "♡マシュマロ♡",
       "posts": 1,
-      "total_likes": 119,
+      "total_likes": 120,
       "rank": 4
     },
     {
@@ -27491,7 +27491,7 @@
     {
       "day": "2025-08-28",
       "n": 1,
-      "likes": 119
+      "likes": 120
     },
     {
       "day": "2025-08-30",
@@ -28896,7 +28896,7 @@
     {
       "day": "2026-10-07",
       "n": 6,
-      "likes": 124
+      "likes": 125
     },
     {
       "day": "2026-10-08",
@@ -28961,7 +28961,7 @@
     {
       "day": "2026-10-22",
       "n": 2,
-      "likes": 5
+      "likes": 6
     },
     {
       "day": "2026-10-23",
@@ -29252,7 +29252,7 @@
       "i": "ビアス"
     },
     {
-      "l": 1386,
+      "l": 1387,
       "r": 6,
       "i": "グルタスキントナー"
     },
@@ -29262,7 +29262,7 @@
       "i": "リノクル"
     },
     {
-      "l": 2455,
+      "l": 2457,
       "r": 26,
       "i": "レチノソームショット"
     },
