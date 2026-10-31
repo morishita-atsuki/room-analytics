@@ -2,14 +2,14 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-10-31 23:07 JST",
+    "generated_at": "2026-11-01 04:38 JST",
     "snapshots": 1
   },
   "summary": {
     "posts": 1399,
     "users": 1084,
     "items": 9,
-    "likes": 21429,
+    "likes": 21430,
     "comments": 347,
     "recollects": 110
   },
@@ -379,7 +379,7 @@
       "post_id": "1700377504607217",
       "created_at": "2026-05-09 11:38:24",
       "username": "room_d5efb7df95",
-      "fullname": "🍀みかりん🍀10月宜しくお願いします",
+      "fullname": "🍀みかりん🍀11月宜しくお願いします",
       "user_rank": 4,
       "item_id": "P002",
       "item_name": "MYC ホワイトプラス",
@@ -1763,6 +1763,25 @@
       "item_short": "ビアス"
     },
     {
+      "post_id": "1700393858422113",
+      "created_at": "2026-09-20 21:41:55",
+      "username": "room_e52c611b0e",
+      "fullname": "tacos🍀㉖㉗日感謝❤(ӦｖӦ｡)",
+      "user_rank": 4,
+      "item_id": "P005",
+      "item_name": "リノクル",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/s-linokle/",
+      "post_url": "https://room.rakuten.co.jp/room_e52c611b0e/1700393858422113",
+      "price": 5980,
+      "from_service": "room",
+      "likes": 60,
+      "comments": 0,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "リノクル"
+    },
+    {
       "post_id": "1700395610626390",
       "created_at": "2026-10-04 16:33:34",
       "username": "room_ikkamasan",
@@ -1780,25 +1799,6 @@
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "ホワイトプラス"
-    },
-    {
-      "post_id": "1700393858422113",
-      "created_at": "2026-09-20 21:41:55",
-      "username": "room_e52c611b0e",
-      "fullname": "tacos🍀㉖㉗日感謝❤(ӦｖӦ｡)",
-      "user_rank": 4,
-      "item_id": "P005",
-      "item_name": "リノクル",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/s-linokle/",
-      "post_url": "https://room.rakuten.co.jp/room_e52c611b0e/1700393858422113",
-      "price": 5980,
-      "from_service": "room",
-      "likes": 59,
-      "comments": 0,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "リノクル"
     },
     {
       "post_id": "1700384935331236",
@@ -2051,7 +2051,7 @@
       "post_id": "1700394206502456",
       "created_at": "2026-09-23 15:03:42",
       "username": "room_d5efb7df95",
-      "fullname": "🍀みかりん🍀10月宜しくお願いします",
+      "fullname": "🍀みかりん🍀11月宜しくお願いします",
       "user_rank": 4,
       "item_id": "P003",
       "item_name": "ビアス",
@@ -2431,7 +2431,7 @@
       "post_id": "1700386900243103",
       "created_at": "2026-07-25 15:10:38",
       "username": "hello_kiyo07",
-      "fullname": "きよ🌹幸せ✨皆様のお心遣いに感謝💖",
+      "fullname": "きよ🌹幸せ✨10月も有難うございました",
       "user_rank": 4,
       "item_id": "P005",
       "item_name": "リノクル",
@@ -3343,7 +3343,7 @@
       "post_id": "1700391947968889",
       "created_at": "2026-09-06 17:11:21",
       "username": "room_884d269c9f",
-      "fullname": "akimama/美容とご褒美スイーツ🥰",
+      "fullname": "akimama/日常とご褒美スイーツ🍰",
       "user_rank": 4,
       "item_id": "P005",
       "item_name": "リノクル",
@@ -15253,15 +15253,15 @@
       "item_short": "ビアス"
     },
     {
-      "post_id": "1700386895159278",
-      "created_at": "2026-07-25 14:12:52",
-      "username": "room_4e98a49ec1",
-      "fullname": "aoi.1976",
-      "user_rank": 4,
+      "post_id": "1700386667329612",
+      "created_at": "2026-07-23 13:32:54",
+      "username": "room_4f68c83703",
+      "fullname": "はぁちゃん",
+      "user_rank": 3,
       "item_id": "P003",
       "item_name": "ビアス",
       "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
-      "post_url": "https://room.rakuten.co.jp/room_4e98a49ec1/1700386895159278",
+      "post_url": "https://room.rakuten.co.jp/room_4f68c83703/1700386667329612",
       "price": 5960,
       "from_service": "room",
       "likes": 2,
@@ -15272,15 +15272,15 @@
       "item_short": "ビアス"
     },
     {
-      "post_id": "1700386667329612",
-      "created_at": "2026-07-23 13:32:54",
-      "username": "room_4f68c83703",
-      "fullname": "はぁちゃん",
-      "user_rank": 3,
+      "post_id": "1700386895159278",
+      "created_at": "2026-07-25 14:12:52",
+      "username": "room_4e98a49ec1",
+      "fullname": "aoi.1976",
+      "user_rank": 4,
       "item_id": "P003",
       "item_name": "ビアス",
       "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
-      "post_url": "https://room.rakuten.co.jp/room_4f68c83703/1700386667329612",
+      "post_url": "https://room.rakuten.co.jp/room_4e98a49ec1/1700386895159278",
       "price": 5960,
       "from_service": "room",
       "likes": 2,
@@ -26654,13 +26654,13 @@
       "item_name": "リノクル",
       "item_short": "リノクル",
       "posts": 197,
-      "likes": 2062,
+      "likes": 2063,
       "comments": 21,
       "recollects": 17,
       "latest": "2026-10-17 21:13:48",
       "likes_per_post": 10.5,
       "recollect_rate": 0.09,
-      "influence": 2113
+      "influence": 2114
     },
     {
       "item_id": "P006",
@@ -26823,7 +26823,7 @@
     },
     {
       "username": "room_d5efb7df95",
-      "fullname": "🍀みかりん🍀10月宜しくお願いします",
+      "fullname": "🍀みかりん🍀11月宜しくお願いします",
       "posts": 2,
       "total_likes": 252,
       "rank": 4
@@ -27319,15 +27319,15 @@
       "rank": 4
     },
     {
-      "username": "room_ikkamasan",
-      "fullname": "いっかまさん",
+      "username": "room_e52c611b0e",
+      "fullname": "tacos🍀㉖㉗日感謝❤(ӦｖӦ｡)",
       "posts": 1,
-      "total_likes": 59,
+      "total_likes": 60,
       "rank": 4
     },
     {
-      "username": "room_e52c611b0e",
-      "fullname": "tacos🍀㉖㉗日感謝❤(ӦｖӦ｡)",
+      "username": "room_ikkamasan",
+      "fullname": "いっかまさん",
       "posts": 1,
       "total_likes": 59,
       "rank": 4
@@ -28821,7 +28821,7 @@
     {
       "day": "2026-09-20",
       "n": 14,
-      "likes": 205
+      "likes": 206
     },
     {
       "day": "2026-09-21",
@@ -29262,7 +29262,7 @@
       "i": "グルタスキントナー"
     },
     {
-      "l": 2062,
+      "l": 2063,
       "r": 17,
       "i": "リノクル"
     },
