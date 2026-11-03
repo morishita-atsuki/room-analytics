@@ -2,14 +2,14 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-11-04 00:40 JST",
+    "generated_at": "2026-11-04 06:23 JST",
     "snapshots": 1
   },
   "summary": {
     "posts": 1398,
     "users": 1083,
     "items": 9,
-    "likes": 21435,
+    "likes": 21424,
     "comments": 346,
     "recollects": 111
   },
@@ -2431,7 +2431,7 @@
       "post_id": "1700386900243103",
       "created_at": "2026-07-25 15:10:38",
       "username": "hello_kiyo07",
-      "fullname": "きよ🌹幸せ✨11月も宜しくお願いします",
+      "fullname": "きよ🌹幸せ✨いいね遅くなってます🙏",
       "user_rank": 4,
       "item_id": "P005",
       "item_name": "リノクル",
@@ -4426,7 +4426,7 @@
       "post_id": "1700381075726155",
       "created_at": "2026-06-06 14:05:28",
       "username": "room_8089671927",
-      "fullname": "💎アロハ🕊️10月もありがと🔥温活",
+      "fullname": "💎アロハ🕊️11/1ありがと🔥温活",
       "user_rank": 4,
       "item_id": "P003",
       "item_name": "ビアス",
@@ -5029,25 +5029,6 @@
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "ビアス"
-    },
-    {
-      "post_id": "1700396126776393",
-      "created_at": "2026-10-08 07:12:23",
-      "username": "douraku_koubou",
-      "fullname": "甘味処のちょこ得マーケット",
-      "user_rank": 3,
-      "item_id": "P005",
-      "item_name": "リノクル",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/s-linokle/",
-      "post_url": "https://room.rakuten.co.jp/douraku_koubou/1700396126776393",
-      "price": 5980,
-      "from_service": "room",
-      "likes": 12,
-      "comments": 0,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "リノクル"
     },
     {
       "post_id": "1700383238792409",
@@ -12935,25 +12916,6 @@
       "item_short": "ビアス"
     },
     {
-      "post_id": "1700398573363379",
-      "created_at": "2026-10-27 12:06:11",
-      "username": "room_97526433fa",
-      "fullname": "飯田天哉⭐️@iida.tennya",
-      "user_rank": 4,
-      "item_id": "P003",
-      "item_name": "ビアス",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
-      "post_url": "https://room.rakuten.co.jp/room_97526433fa/1700398573363379",
-      "price": 5960,
-      "from_service": "room",
-      "likes": 3,
-      "comments": 1,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "ビアス"
-    },
-    {
       "post_id": "1700383506922160",
       "created_at": "2026-06-25 21:42:50",
       "username": "room_eec98a160f",
@@ -12967,6 +12929,25 @@
       "from_service": "room",
       "likes": 3,
       "comments": 0,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "ビアス"
+    },
+    {
+      "post_id": "1700398573363379",
+      "created_at": "2026-10-27 12:06:11",
+      "username": "room_97526433fa",
+      "fullname": "飯田天哉⭐️@iida.tennya",
+      "user_rank": 4,
+      "item_id": "P003",
+      "item_name": "ビアス",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
+      "post_url": "https://room.rakuten.co.jp/room_97526433fa/1700398573363379",
+      "price": 5960,
+      "from_service": "room",
+      "likes": 3,
+      "comments": 1,
       "recollects": 0,
       "detail_views": 0,
       "influence_points": 0,
@@ -19072,25 +19053,6 @@
       "item_short": "ビアス"
     },
     {
-      "post_id": "1700398388436105",
-      "created_at": "2026-10-25 23:42:52",
-      "username": "room_b3f2eaa7ac",
-      "fullname": "s o n a ┊ くらしのアイテム",
-      "user_rank": 4,
-      "item_id": "P003",
-      "item_name": "ビアス",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
-      "post_url": "https://room.rakuten.co.jp/room_b3f2eaa7ac/1700398388436105",
-      "price": 5960,
-      "from_service": "room",
-      "likes": 1,
-      "comments": 0,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "ビアス"
-    },
-    {
       "post_id": "1700383523528195",
       "created_at": "2026-06-25 23:33:34",
       "username": "room_efc713e9d0",
@@ -19216,6 +19178,25 @@
       "post_url": "https://room.rakuten.co.jp/room_bb6d824ecd/1700374868342315",
       "price": 5960,
       "from_service": "Review",
+      "likes": 1,
+      "comments": 0,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "ビアス"
+    },
+    {
+      "post_id": "1700398388436105",
+      "created_at": "2026-10-25 23:42:52",
+      "username": "room_b3f2eaa7ac",
+      "fullname": "s o n a ┊ くらしのアイテム",
+      "user_rank": 4,
+      "item_id": "P003",
+      "item_name": "ビアス",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
+      "post_url": "https://room.rakuten.co.jp/room_b3f2eaa7ac/1700398388436105",
+      "price": 5960,
+      "from_service": "room",
       "likes": 1,
       "comments": 0,
       "recollects": 0,
@@ -20411,6 +20392,25 @@
       "item_name": "リノクル",
       "item_url": "https://item.rakuten.co.jp/aokinomori/s-linokle/",
       "post_url": "https://room.rakuten.co.jp/room_0877e45926/1700357810257196",
+      "price": 5980,
+      "from_service": "room",
+      "likes": 1,
+      "comments": 0,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "リノクル"
+    },
+    {
+      "post_id": "1700357310186344",
+      "created_at": "2025-12-06 23:01:24",
+      "username": "room_66661ebc5e",
+      "fullname": "si*",
+      "user_rank": 1,
+      "item_id": "P005",
+      "item_name": "リノクル",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/s-linokle/",
+      "post_url": "https://room.rakuten.co.jp/room_66661ebc5e/1700357310186344",
       "price": 5980,
       "from_service": "room",
       "likes": 1,
@@ -26635,13 +26635,13 @@
       "item_name": "リノクル",
       "item_short": "リノクル",
       "posts": 197,
-      "likes": 2062,
+      "likes": 2051,
       "comments": 21,
       "recollects": 17,
       "latest": "2026-10-17 21:13:48",
-      "likes_per_post": 10.5,
+      "likes_per_post": 10.4,
       "recollect_rate": 0.09,
-      "influence": 2113
+      "influence": 2102
     },
     {
       "item_id": "P006",
@@ -27731,8 +27731,8 @@
     },
     {
       "day": "2025-12-06",
-      "n": 2,
-      "likes": 6
+      "n": 3,
+      "likes": 7
     },
     {
       "day": "2025-12-07",
@@ -28886,8 +28886,8 @@
     },
     {
       "day": "2026-10-08",
-      "n": 26,
-      "likes": 204
+      "n": 25,
+      "likes": 192
     },
     {
       "day": "2026-10-09",
@@ -29253,7 +29253,7 @@
       "i": "グルタスキントナー"
     },
     {
-      "l": 2062,
+      "l": 2051,
       "r": 17,
       "i": "リノクル"
     },
