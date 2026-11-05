@@ -2,14 +2,14 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-11-05 13:32 JST",
+    "generated_at": "2026-11-06 00:58 JST",
     "snapshots": 1
   },
   "summary": {
     "posts": 1399,
     "users": 1085,
     "items": 9,
-    "likes": 21424,
+    "likes": 21426,
     "comments": 346,
     "recollects": 111
   },
@@ -178,7 +178,7 @@
       "post_url": "https://room.rakuten.co.jp/room_mmm876/1700368253231154",
       "price": 3980,
       "from_service": "room",
-      "likes": 276,
+      "likes": 277,
       "comments": 1,
       "recollects": 1,
       "detail_views": 0,
@@ -3666,7 +3666,7 @@
       "post_id": "1700394065726427",
       "created_at": "2026-09-22 12:58:03",
       "username": "room_f1824dad7a",
-      "fullname": "ちわわちゃん🐶✨いいね上限　制限中",
+      "fullname": "ちわわちゃん🐶🐰🐹🐭🦜🐠✨",
       "user_rank": 4,
       "item_id": "P008",
       "item_name": "ビタスポットセラム",
@@ -6118,7 +6118,7 @@
       "created_at": "2026-03-24 04:29:26",
       "username": "tsukatakumama",
       "fullname": "Satomi_WakuWakuRoom♪",
-      "user_rank": 2,
+      "user_rank": 3,
       "item_id": "P002",
       "item_name": "MYC ホワイトプラス",
       "item_url": "https://item.rakuten.co.jp/aokinomori/mycwhite/",
@@ -6337,6 +6337,25 @@
       "likes": 9,
       "comments": 0,
       "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "レチノソームショット"
+    },
+    {
+      "post_id": "1700372599598120",
+      "created_at": "2026-03-28 12:35:32",
+      "username": "room_1a7e6cbf02",
+      "fullname": "Remy",
+      "user_rank": 3,
+      "item_id": "P006",
+      "item_name": "レチノソームショット",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/retinol/",
+      "post_url": "https://room.rakuten.co.jp/room_1a7e6cbf02/1700372599598120",
+      "price": 3960,
+      "from_service": "room",
+      "likes": 9,
+      "comments": 2,
+      "recollects": 1,
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "レチノソームショット"
@@ -6907,25 +6926,6 @@
       "likes": 8,
       "comments": 0,
       "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "レチノソームショット"
-    },
-    {
-      "post_id": "1700372599598120",
-      "created_at": "2026-03-28 12:35:32",
-      "username": "room_1a7e6cbf02",
-      "fullname": "Remy",
-      "user_rank": 3,
-      "item_id": "P006",
-      "item_name": "レチノソームショット",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/retinol/",
-      "post_url": "https://room.rakuten.co.jp/room_1a7e6cbf02/1700372599598120",
-      "price": 3960,
-      "from_service": "room",
-      "likes": 8,
-      "comments": 2,
-      "recollects": 1,
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "レチノソームショット"
@@ -26615,13 +26615,13 @@
       "item_name": "MYC ホワイトプラス",
       "item_short": "ホワイトプラス",
       "posts": 238,
-      "likes": 3920,
+      "likes": 3921,
       "comments": 55,
       "recollects": 18,
       "latest": "2026-10-15 23:28:10",
       "likes_per_post": 16.5,
       "recollect_rate": 0.08,
-      "influence": 3974
+      "influence": 3975
     },
     {
       "item_id": "P003",
@@ -26667,13 +26667,13 @@
       "item_name": "レチノソームショット",
       "item_short": "レチノソームショット",
       "posts": 200,
-      "likes": 2458,
+      "likes": 2459,
       "comments": 45,
       "recollects": 26,
       "latest": "2026-10-22 11:11:12",
       "likes_per_post": 12.3,
       "recollect_rate": 0.13,
-      "influence": 2536
+      "influence": 2537
     },
     {
       "item_id": "P007",
@@ -26797,7 +26797,7 @@
       "username": "room_mmm876",
       "fullname": "Mi🎀",
       "posts": 1,
-      "total_likes": 276,
+      "total_likes": 277,
       "rank": 4
     },
     {
@@ -27936,7 +27936,7 @@
     {
       "day": "2026-02-22",
       "n": 24,
-      "likes": 524
+      "likes": 525
     },
     {
       "day": "2026-02-23",
@@ -28076,7 +28076,7 @@
     {
       "day": "2026-03-28",
       "n": 3,
-      "likes": 9
+      "likes": 10
     },
     {
       "day": "2026-03-29",
@@ -29082,8 +29082,8 @@
       "post_url": "https://room.rakuten.co.jp/room_mmm876/1700368253231154",
       "item_name": "MYC ホワイトプラス",
       "item_short": "ホワイトプラス",
-      "first_likes": 266,
-      "last_likes": 276,
+      "first_likes": 267,
+      "last_likes": 277,
       "delta": 10
     },
     {
@@ -29267,7 +29267,7 @@
       "i": "ハーバニエンス"
     },
     {
-      "l": 3920,
+      "l": 3921,
       "r": 18,
       "i": "ホワイトプラス"
     },
@@ -29287,7 +29287,7 @@
       "i": "リノクル"
     },
     {
-      "l": 2458,
+      "l": 2459,
       "r": 26,
       "i": "レチノソームショット"
     },
