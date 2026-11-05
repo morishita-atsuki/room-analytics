@@ -2,14 +2,14 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-11-05 06:38 JST",
+    "generated_at": "2026-11-05 13:32 JST",
     "snapshots": 1
   },
   "summary": {
     "posts": 1399,
     "users": 1085,
     "items": 9,
-    "likes": 21430,
+    "likes": 21424,
     "comments": 346,
     "recollects": 111
   },
@@ -1421,6 +1421,25 @@
       "item_short": "ジェルバームクレンジング"
     },
     {
+      "post_id": "1700370145381244",
+      "created_at": "2026-03-08 13:10:08",
+      "username": "room_c8ce4d9a53",
+      "fullname": "muuko",
+      "user_rank": 1,
+      "item_id": "P005",
+      "item_name": "リノクル",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/s-linokle/",
+      "post_url": "https://room.rakuten.co.jp/room_c8ce4d9a53/1700370145381244",
+      "price": 5980,
+      "from_service": "room",
+      "likes": 69,
+      "comments": 1,
+      "recollects": 1,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "リノクル"
+    },
+    {
       "post_id": "1700387772799217",
       "created_at": "2026-08-02 19:20:52",
       "username": "room_32364ac204",
@@ -1438,25 +1457,6 @@
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "ホワイトプラス"
-    },
-    {
-      "post_id": "1700370145381244",
-      "created_at": "2026-03-08 13:10:08",
-      "username": "room_c8ce4d9a53",
-      "fullname": "muuko",
-      "user_rank": 1,
-      "item_id": "P005",
-      "item_name": "リノクル",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/s-linokle/",
-      "post_url": "https://room.rakuten.co.jp/room_c8ce4d9a53/1700370145381244",
-      "price": 5980,
-      "from_service": "room",
-      "likes": 68,
-      "comments": 1,
-      "recollects": 1,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "リノクル"
     },
     {
       "post_id": "1700384853934299",
@@ -1611,6 +1611,25 @@
       "item_short": "ホワイトプラス"
     },
     {
+      "post_id": "1700375831474114",
+      "created_at": "2026-04-24 19:57:24",
+      "username": "room_871d5efe40",
+      "fullname": "なつめ🌺大人女子のお悩み美容🫧",
+      "user_rank": 4,
+      "item_id": "P006",
+      "item_name": "レチノソームショット",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/retinol/",
+      "post_url": "https://room.rakuten.co.jp/room_871d5efe40/1700375831474114",
+      "price": 3960,
+      "from_service": "room",
+      "likes": 64,
+      "comments": 0,
+      "recollects": 1,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "レチノソームショット"
+    },
+    {
       "post_id": "1700350861352428",
       "created_at": "2025-11-10 10:25:46",
       "username": "room_8b5b15c5ec",
@@ -1625,25 +1644,6 @@
       "likes": 64,
       "comments": 1,
       "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "レチノソームショット"
-    },
-    {
-      "post_id": "1700375831474114",
-      "created_at": "2026-04-24 19:57:24",
-      "username": "room_871d5efe40",
-      "fullname": "なつめ🌺大人女子のお悩み美容🫧",
-      "user_rank": 4,
-      "item_id": "P006",
-      "item_name": "レチノソームショット",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/retinol/",
-      "post_url": "https://room.rakuten.co.jp/room_871d5efe40/1700375831474114",
-      "price": 3960,
-      "from_service": "room",
-      "likes": 63,
-      "comments": 0,
-      "recollects": 1,
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "レチノソームショット"
@@ -6950,25 +6950,6 @@
       "item_short": "ハーブラピール"
     },
     {
-      "post_id": "1700369510142215",
-      "created_at": "2026-03-04 09:57:06",
-      "username": "llattehome_room",
-      "fullname": "あこ ⌇ときめくものと心地いい暮らし",
-      "user_rank": 5,
-      "item_id": "P007",
-      "item_name": "ハーブラピール",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/hlpeel/",
-      "post_url": "https://room.rakuten.co.jp/llattehome_room/1700369510142215",
-      "price": 2980,
-      "from_service": "room",
-      "likes": 8,
-      "comments": 0,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "ハーブラピール"
-    },
-    {
       "post_id": "1700392241608214",
       "created_at": "2026-09-08 17:09:35",
       "username": "room_c97619c2ad",
@@ -7599,7 +7580,7 @@
       "post_id": "1700372264238239",
       "created_at": "2026-03-25 13:43:48",
       "username": "room_12d8f85a3b",
-      "fullname": "にゃんこ🐈🐾",
+      "fullname": "にゃんこ🐈🐾朝コレに変更☀️",
       "user_rank": 4,
       "item_id": "P007",
       "item_name": "ハーブラピール",
@@ -7995,15 +7976,15 @@
       "item_short": "ビアス"
     },
     {
-      "post_id": "1700386663914314",
-      "created_at": "2026-07-23 12:53:01",
-      "username": "room_8f9d09ae6f",
-      "fullname": "naco_限界★ワーママ",
-      "user_rank": 4,
+      "post_id": "1700386378930181",
+      "created_at": "2026-07-20 21:09:01",
+      "username": "sakiroom_yurulife",
+      "fullname": "ゆるっと愛用品￤saki",
+      "user_rank": 1,
       "item_id": "P003",
       "item_name": "ビアス",
       "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
-      "post_url": "https://room.rakuten.co.jp/room_8f9d09ae6f/1700386663914314",
+      "post_url": "https://room.rakuten.co.jp/sakiroom_yurulife/1700386378930181",
       "price": 5960,
       "from_service": "room",
       "likes": 6,
@@ -8014,15 +7995,15 @@
       "item_short": "ビアス"
     },
     {
-      "post_id": "1700386378930181",
-      "created_at": "2026-07-20 21:09:01",
-      "username": "sakiroom_yurulife",
-      "fullname": "ゆるっと愛用品￤saki",
-      "user_rank": 1,
+      "post_id": "1700386663914314",
+      "created_at": "2026-07-23 12:53:01",
+      "username": "room_8f9d09ae6f",
+      "fullname": "naco_限界★ワーママ",
+      "user_rank": 4,
       "item_id": "P003",
       "item_name": "ビアス",
       "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
-      "post_url": "https://room.rakuten.co.jp/sakiroom_yurulife/1700386378930181",
+      "post_url": "https://room.rakuten.co.jp/room_8f9d09ae6f/1700386663914314",
       "price": 5960,
       "from_service": "room",
       "likes": 6,
@@ -8094,7 +8075,7 @@
       "created_at": "2026-07-25 13:30:38",
       "username": "room_8e8d2c9637",
       "fullname": "KN Tokimeki & Cute🧸",
-      "user_rank": 1,
+      "user_rank": 3,
       "item_id": "P004",
       "item_name": "グルタスキントナー",
       "item_url": "https://item.rakuten.co.jp/aokinomori/glutathione/",
@@ -16910,7 +16891,7 @@
       "created_at": "2026-06-14 11:57:20",
       "username": "yu1m6kk039",
       "fullname": "pipi_n",
-      "user_rank": 2,
+      "user_rank": 3,
       "item_id": "P007",
       "item_name": "ハーブラピール",
       "item_url": "https://item.rakuten.co.jp/aokinomori/hlpeel/",
@@ -17343,25 +17324,6 @@
       "item_short": "ジェルバームクレンジング"
     },
     {
-      "post_id": "1700353962945413",
-      "created_at": "2025-11-23 11:31:35",
-      "username": "room_33cb9cc22f",
-      "fullname": "tonto",
-      "user_rank": 1,
-      "item_id": "P001",
-      "item_name": "ハーバニエンス ハーブガーデンセット",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/s-herbgarden_set/",
-      "post_url": "https://room.rakuten.co.jp/room_33cb9cc22f/1700353962945413",
-      "price": 3480,
-      "from_service": "room",
-      "likes": 1,
-      "comments": 0,
-      "recollects": 1,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "ハーバニエンス"
-    },
-    {
       "post_id": "1700353963096395",
       "created_at": "2025-11-23 11:32:10",
       "username": "room_f5b9adc3d2",
@@ -17376,6 +17338,25 @@
       "likes": 1,
       "comments": 0,
       "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "ハーバニエンス"
+    },
+    {
+      "post_id": "1700353962945413",
+      "created_at": "2025-11-23 11:31:35",
+      "username": "room_33cb9cc22f",
+      "fullname": "tonto",
+      "user_rank": 1,
+      "item_id": "P001",
+      "item_name": "ハーバニエンス ハーブガーデンセット",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/s-herbgarden_set/",
+      "post_url": "https://room.rakuten.co.jp/room_33cb9cc22f/1700353962945413",
+      "price": 3480,
+      "from_service": "room",
+      "likes": 1,
+      "comments": 0,
+      "recollects": 1,
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "ハーバニエンス"
@@ -25437,6 +25418,25 @@
       "item_short": "レチノソームショット"
     },
     {
+      "post_id": "1700399737793328",
+      "created_at": "2026-11-05 08:20:55",
+      "username": "room_828bf7b060",
+      "fullname": "hirame",
+      "user_rank": 3,
+      "item_id": "P007",
+      "item_name": "ハーブラピール",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/hlpeel/",
+      "post_url": "https://room.rakuten.co.jp/room_828bf7b060/1700399737793328",
+      "price": 2980,
+      "from_service": "room",
+      "likes": 0,
+      "comments": 0,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "ハーブラピール"
+    },
+    {
       "post_id": "1700399219070360",
       "created_at": "2026-11-01 15:50:53",
       "username": "room_50eaf41d6a",
@@ -26654,39 +26654,39 @@
       "item_name": "リノクル",
       "item_short": "リノクル",
       "posts": 197,
-      "likes": 2050,
+      "likes": 2051,
       "comments": 21,
       "recollects": 16,
       "latest": "2026-11-04 19:26:34",
       "likes_per_post": 10.4,
       "recollect_rate": 0.08,
-      "influence": 2098
+      "influence": 2099
     },
     {
       "item_id": "P006",
       "item_name": "レチノソームショット",
       "item_short": "レチノソームショット",
       "posts": 200,
-      "likes": 2457,
+      "likes": 2458,
       "comments": 45,
       "recollects": 26,
       "latest": "2026-10-22 11:11:12",
       "likes_per_post": 12.3,
       "recollect_rate": 0.13,
-      "influence": 2535
+      "influence": 2536
     },
     {
       "item_id": "P007",
       "item_name": "ハーブラピール",
       "item_short": "ハーブラピール",
       "posts": 199,
-      "likes": 4529,
+      "likes": 4521,
       "comments": 79,
       "recollects": 12,
-      "latest": "2026-11-03 19:17:56",
-      "likes_per_post": 22.8,
+      "latest": "2026-11-05 08:20:55",
+      "likes_per_post": 22.7,
       "recollect_rate": 0.06,
-      "influence": 4565
+      "influence": 4557
     },
     {
       "item_id": "P008",
@@ -26853,7 +26853,7 @@
       "username": "room_871d5efe40",
       "fullname": "なつめ🌺大人女子のお悩み美容🫧",
       "posts": 2,
-      "total_likes": 190,
+      "total_likes": 191,
       "rank": 4
     },
     {
@@ -27224,7 +27224,7 @@
       "username": "room_c8ce4d9a53",
       "fullname": "muuko",
       "posts": 1,
-      "total_likes": 68,
+      "total_likes": 69,
       "rank": 1
     },
     {
@@ -27980,8 +27980,8 @@
     },
     {
       "day": "2026-03-04",
-      "n": 4,
-      "likes": 34
+      "n": 3,
+      "likes": 26
     },
     {
       "day": "2026-03-05",
@@ -28001,7 +28001,7 @@
     {
       "day": "2026-03-08",
       "n": 8,
-      "likes": 89
+      "likes": 90
     },
     {
       "day": "2026-03-09",
@@ -28186,7 +28186,7 @@
     {
       "day": "2026-04-24",
       "n": 3,
-      "likes": 76
+      "likes": 77
     },
     {
       "day": "2026-04-25",
@@ -28997,6 +28997,11 @@
       "day": "2026-11-04",
       "n": 3,
       "likes": 10
+    },
+    {
+      "day": "2026-11-05",
+      "n": 1,
+      "likes": 0
     }
   ],
   "movers": [
@@ -29185,7 +29190,7 @@
     {
       "item_id": "P007",
       "total": 199,
-      "recent": 3,
+      "recent": 4,
       "prior": 1,
       "recent_likes": 6,
       "item_short": "ハーブラピール"
@@ -29277,17 +29282,17 @@
       "i": "グルタスキントナー"
     },
     {
-      "l": 2050,
+      "l": 2051,
       "r": 16,
       "i": "リノクル"
     },
     {
-      "l": 2457,
+      "l": 2458,
       "r": 26,
       "i": "レチノソームショット"
     },
     {
-      "l": 4529,
+      "l": 4521,
       "r": 12,
       "i": "ハーブラピール"
     },
