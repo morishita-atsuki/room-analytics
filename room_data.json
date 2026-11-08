@@ -2,7 +2,7 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-11-08 23:40 JST",
+    "generated_at": "2026-11-09 05:03 JST",
     "snapshots": 1
   },
   "summary": {
@@ -12973,25 +12973,6 @@
       "item_short": "ビアス"
     },
     {
-      "post_id": "1700398573363379",
-      "created_at": "2026-10-27 12:06:11",
-      "username": "room_97526433fa",
-      "fullname": "飯田天哉⭐️@iida.tennya",
-      "user_rank": 4,
-      "item_id": "P003",
-      "item_name": "ビアス",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
-      "post_url": "https://room.rakuten.co.jp/room_97526433fa/1700398573363379",
-      "price": 5960,
-      "from_service": "room",
-      "likes": 3,
-      "comments": 1,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "ビアス"
-    },
-    {
       "post_id": "1700381281518355",
       "created_at": "2026-06-07 21:36:07",
       "username": "room_99d1009f18",
@@ -13043,6 +13024,25 @@
       "from_service": "room",
       "likes": 3,
       "comments": 0,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "ビアス"
+    },
+    {
+      "post_id": "1700398573363379",
+      "created_at": "2026-10-27 12:06:11",
+      "username": "room_97526433fa",
+      "fullname": "飯田天哉⭐️@iida.tennya",
+      "user_rank": 4,
+      "item_id": "P003",
+      "item_name": "ビアス",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
+      "post_url": "https://room.rakuten.co.jp/room_97526433fa/1700398573363379",
+      "price": 5960,
+      "from_service": "room",
+      "likes": 3,
+      "comments": 1,
       "recollects": 0,
       "detail_views": 0,
       "influence_points": 0,
