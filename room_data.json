@@ -2,14 +2,14 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-11-09 12:55 JST",
+    "generated_at": "2026-11-10 03:04 JST",
     "snapshots": 1
   },
   "summary": {
-    "posts": 1399,
+    "posts": 1398,
     "users": 1086,
     "items": 9,
-    "likes": 21492,
+    "likes": 21493,
     "comments": 348,
     "recollects": 109
   },
@@ -56,7 +56,7 @@
       "post_id": "1700382785286136",
       "created_at": "2026-06-20 07:02:38",
       "username": "room_ce6e8ec13d",
-      "fullname": "kimidori55🌱7日感謝✨😭",
+      "fullname": "kimidori55🌱8日感謝✨😭",
       "user_rank": 4,
       "item_id": "P002",
       "item_name": "MYC ホワイトプラス",
@@ -767,7 +767,7 @@
       "post_url": "https://room.rakuten.co.jp/room_871d5efe40/1700372305721165",
       "price": 3300,
       "from_service": "room",
-      "likes": 127,
+      "likes": 128,
       "comments": 0,
       "recollects": 1,
       "detail_views": 0,
@@ -1014,7 +1014,7 @@
       "post_url": "https://room.rakuten.co.jp/koony.room_kenko/1700395644800102",
       "price": 3980,
       "from_service": "room",
-      "likes": 99,
+      "likes": 100,
       "comments": 2,
       "recollects": 0,
       "detail_views": 0,
@@ -1470,7 +1470,7 @@
       "post_url": "https://room.rakuten.co.jp/room_222nori/1700384853934299",
       "price": 3980,
       "from_service": "room",
-      "likes": 67,
+      "likes": 68,
       "comments": 0,
       "recollects": 0,
       "detail_views": 0,
@@ -1728,7 +1728,7 @@
       "post_id": "1700388122013319",
       "created_at": "2026-08-05 17:11:00",
       "username": "room_0d5069d897",
-      "fullname": "さとこみ（～11/6 感謝🙏）",
+      "fullname": "さとこみ（～11/8 感謝🙏）",
       "user_rank": 4,
       "item_id": "P003",
       "item_name": "ビアス",
@@ -1972,6 +1972,25 @@
       "item_short": "グルタスキントナー"
     },
     {
+      "post_id": "1700386501601262",
+      "created_at": "2026-07-21 22:32:27",
+      "username": "room_ozatake5958",
+      "fullname": "ozatake:ワンオペママサポーター",
+      "user_rank": 3,
+      "item_id": "P002",
+      "item_name": "MYC ホワイトプラス",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/mycwhite/",
+      "post_url": "https://room.rakuten.co.jp/room_ozatake5958/1700386501601262",
+      "price": 3980,
+      "from_service": "room",
+      "likes": 53,
+      "comments": 1,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "ホワイトプラス"
+    },
+    {
       "post_id": "1700387760553158",
       "created_at": "2026-08-02 17:08:46",
       "username": "room_02377d6516",
@@ -1989,25 +2008,6 @@
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "ビアス"
-    },
-    {
-      "post_id": "1700386501601262",
-      "created_at": "2026-07-21 22:32:27",
-      "username": "room_ozatake5958",
-      "fullname": "ozatake:ワンオペママサポーター",
-      "user_rank": 3,
-      "item_id": "P002",
-      "item_name": "MYC ホワイトプラス",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/mycwhite/",
-      "post_url": "https://room.rakuten.co.jp/room_ozatake5958/1700386501601262",
-      "price": 3980,
-      "from_service": "room",
-      "likes": 52,
-      "comments": 1,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "ホワイトプラス"
     },
     {
       "post_id": "1700386938825575",
@@ -12938,7 +12938,7 @@
       "post_id": "1700386482554358",
       "created_at": "2026-07-21 20:22:18",
       "username": "room_eae12ebe86",
-      "fullname": "Ruckyyy🌸経由感謝🙇‍♀️✨",
+      "fullname": "Ruckyyy🌸経由感謝🙇‍♀️💓",
       "user_rank": 4,
       "item_id": "P003",
       "item_name": "ビアス",
@@ -12982,25 +12982,6 @@
       "item_name": "ビアス",
       "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
       "post_url": "https://room.rakuten.co.jp/room_99d1009f18/1700381281518355",
-      "price": 5960,
-      "from_service": "room",
-      "likes": 3,
-      "comments": 0,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "ビアス"
-    },
-    {
-      "post_id": "1700381088625422",
-      "created_at": "2026-06-06 16:05:01",
-      "username": "room_8d9ef95560",
-      "fullname": "おすし",
-      "user_rank": 4,
-      "item_id": "P003",
-      "item_name": "ビアス",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
-      "post_url": "https://room.rakuten.co.jp/room_8d9ef95560/1700381088625422",
       "price": 5960,
       "from_service": "room",
       "likes": 3,
@@ -18825,25 +18806,6 @@
       "item_short": "ホワイトプラス"
     },
     {
-      "post_id": "1700399673680564",
-      "created_at": "2026-11-04 20:40:44",
-      "username": "room_d774fd2a62",
-      "fullname": "ryu1220",
-      "user_rank": 3,
-      "item_id": "P003",
-      "item_name": "ビアス",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
-      "post_url": "https://room.rakuten.co.jp/room_d774fd2a62/1700399673680564",
-      "price": 5960,
-      "from_service": "room",
-      "likes": 1,
-      "comments": 0,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "ビアス"
-    },
-    {
       "post_id": "1700390488630291",
       "created_at": "2026-08-26 20:29:57",
       "username": "room_00a5b787a4",
@@ -18910,6 +18872,25 @@
       "item_name": "ビアス",
       "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
       "post_url": "https://room.rakuten.co.jp/room_badb0386b7/1700378916733272",
+      "price": 5960,
+      "from_service": "room",
+      "likes": 1,
+      "comments": 0,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "ビアス"
+    },
+    {
+      "post_id": "1700399673680564",
+      "created_at": "2026-11-04 20:40:44",
+      "username": "room_d774fd2a62",
+      "fullname": "ryu1220",
+      "user_rank": 3,
+      "item_id": "P003",
+      "item_name": "ビアス",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
+      "post_url": "https://room.rakuten.co.jp/room_d774fd2a62/1700399673680564",
       "price": 5960,
       "from_service": "room",
       "likes": 1,
@@ -26615,39 +26596,39 @@
       "item_name": "MYC ホワイトプラス",
       "item_short": "ホワイトプラス",
       "posts": 238,
-      "likes": 3913,
+      "likes": 3916,
       "comments": 56,
       "recollects": 18,
       "latest": "2026-11-07 06:23:33",
-      "likes_per_post": 16.4,
+      "likes_per_post": 16.5,
       "recollect_rate": 0.08,
-      "influence": 3967
+      "influence": 3970
     },
     {
       "item_id": "P003",
       "item_name": "ビアス",
       "item_short": "ビアス",
-      "posts": 141,
-      "likes": 2891,
+      "posts": 140,
+      "likes": 2888,
       "comments": 53,
       "recollects": 12,
       "latest": "2026-11-04 20:40:44",
-      "likes_per_post": 20.5,
+      "likes_per_post": 20.6,
       "recollect_rate": 0.09,
-      "influence": 2927
+      "influence": 2924
     },
     {
       "item_id": "P004",
       "item_name": "グルタスキントナー",
       "item_short": "グルタスキントナー",
       "posts": 82,
-      "likes": 1386,
+      "likes": 1387,
       "comments": 54,
       "recollects": 6,
       "latest": "2026-10-22 15:23:21",
       "likes_per_post": 16.9,
       "recollect_rate": 0.07,
-      "influence": 1404
+      "influence": 1405
     },
     {
       "item_id": "P005",
@@ -26739,7 +26720,7 @@
     },
     {
       "username": "room_ce6e8ec13d",
-      "fullname": "kimidori55🌱7日感謝✨😭",
+      "fullname": "kimidori55🌱8日感謝✨😭",
       "posts": 1,
       "total_likes": 419,
       "rank": 4
@@ -26776,7 +26757,7 @@
       "username": "koony.room_kenko",
       "fullname": "🍀心と身体の健康をつくる🍀",
       "posts": 2,
-      "total_likes": 340,
+      "total_likes": 341,
       "rank": 3
     },
     {
@@ -26853,7 +26834,7 @@
       "username": "room_871d5efe40",
       "fullname": "なつめ🌺大人女子のお悩み美容🫧",
       "posts": 2,
-      "total_likes": 191,
+      "total_likes": 192,
       "rank": 4
     },
     {
@@ -27231,7 +27212,7 @@
       "username": "room_222nori",
       "fullname": "nori",
       "posts": 1,
-      "total_likes": 67,
+      "total_likes": 68,
       "rank": 4
     },
     {
@@ -27306,7 +27287,7 @@
     },
     {
       "username": "room_0d5069d897",
-      "fullname": "さとこみ（～11/6 感謝🙏）",
+      "fullname": "さとこみ（～11/8 感謝🙏）",
       "posts": 1,
       "total_likes": 61,
       "rank": 4
@@ -27368,17 +27349,17 @@
       "rank": 3
     },
     {
-      "username": "room_02377d6516",
-      "fullname": "memi@GeryH",
+      "username": "room_ozatake5958",
+      "fullname": "ozatake:ワンオペママサポーター",
       "posts": 1,
       "total_likes": 53,
       "rank": 3
     },
     {
-      "username": "room_ozatake5958",
-      "fullname": "ozatake:ワンオペママサポーター",
+      "username": "room_02377d6516",
+      "fullname": "memi@GeryH",
       "posts": 1,
-      "total_likes": 52,
+      "total_likes": 53,
       "rank": 3
     },
     {
@@ -28066,7 +28047,7 @@
     {
       "day": "2026-03-25",
       "n": 14,
-      "likes": 203
+      "likes": 204
     },
     {
       "day": "2026-03-26",
@@ -28360,8 +28341,8 @@
     },
     {
       "day": "2026-06-06",
-      "n": 26,
-      "likes": 297
+      "n": 25,
+      "likes": 294
     },
     {
       "day": "2026-06-07",
@@ -28501,7 +28482,7 @@
     {
       "day": "2026-07-07",
       "n": 1,
-      "likes": 67
+      "likes": 68
     },
     {
       "day": "2026-07-08",
@@ -28566,7 +28547,7 @@
     {
       "day": "2026-07-21",
       "n": 19,
-      "likes": 153
+      "likes": 154
     },
     {
       "day": "2026-07-22",
@@ -28886,7 +28867,7 @@
     {
       "day": "2026-10-04",
       "n": 3,
-      "likes": 158
+      "likes": 159
     },
     {
       "day": "2026-10-05",
@@ -29218,7 +29199,7 @@
     },
     {
       "item_id": "P003",
-      "total": 141,
+      "total": 140,
       "recent": 2,
       "prior": 2,
       "recent_likes": 11,
@@ -29272,17 +29253,17 @@
       "i": "ハーバニエンス"
     },
     {
-      "l": 3913,
+      "l": 3916,
       "r": 18,
       "i": "ホワイトプラス"
     },
     {
-      "l": 2891,
+      "l": 2888,
       "r": 12,
       "i": "ビアス"
     },
     {
-      "l": 1386,
+      "l": 1387,
       "r": 6,
       "i": "グルタスキントナー"
     },
