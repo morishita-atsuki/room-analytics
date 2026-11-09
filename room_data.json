@@ -2,7 +2,7 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-11-09 05:03 JST",
+    "generated_at": "2026-11-09 12:55 JST",
     "snapshots": 1
   },
   "summary": {
@@ -3666,7 +3666,7 @@
       "post_id": "1700394065726427",
       "created_at": "2026-09-22 12:58:03",
       "username": "room_f1824dad7a",
-      "fullname": "ちわわちゃん🐶🐱🐰🐭🐹上限中",
+      "fullname": "ちわわちゃん🐶🐱🐰🐭🐹🦜🐠",
       "user_rank": 4,
       "item_id": "P008",
       "item_name": "ビタスポットセラム",
@@ -29195,8 +29195,8 @@
     {
       "item_id": "P007",
       "total": 199,
-      "recent": 6,
-      "prior": 2,
+      "recent": 5,
+      "prior": 3,
       "recent_likes": 5,
       "item_short": "ハーブラピール"
     },
@@ -29220,7 +29220,7 @@
       "item_id": "P003",
       "total": 141,
       "recent": 2,
-      "prior": 3,
+      "prior": 2,
       "recent_likes": 11,
       "item_short": "ビアス"
     },
