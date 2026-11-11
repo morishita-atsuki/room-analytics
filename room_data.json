@@ -2,14 +2,14 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-11-12 00:44 JST",
+    "generated_at": "2026-11-12 07:23 JST",
     "snapshots": 1
   },
   "summary": {
     "posts": 1399,
     "users": 1086,
     "items": 9,
-    "likes": 21538,
+    "likes": 21537,
     "comments": 348,
     "recollects": 109
   },
@@ -1090,7 +1090,7 @@
       "post_url": "https://room.rakuten.co.jp/room_c456a60837/1700380472944658",
       "price": 5980,
       "from_service": "room",
-      "likes": 91,
+      "likes": 90,
       "comments": 4,
       "recollects": 0,
       "detail_views": 0,
@@ -26654,13 +26654,13 @@
       "item_name": "リノクル",
       "item_short": "リノクル",
       "posts": 197,
-      "likes": 2050,
+      "likes": 2049,
       "comments": 21,
       "recollects": 16,
       "latest": "2026-11-04 19:26:34",
       "likes_per_post": 10.4,
       "recollect_rate": 0.08,
-      "influence": 2098
+      "influence": 2097
     },
     {
       "item_id": "P006",
@@ -26997,18 +26997,18 @@
       "rank": 4
     },
     {
-      "username": "room_c456a60837",
-      "fullname": "りさ｜40代美容好き",
-      "posts": 2,
-      "total_likes": 133,
-      "rank": 1
-    },
-    {
       "username": "room_30bd1feed6",
       "fullname": "快適ライフ研究所｜暮らしのいいもの研究室",
       "posts": 3,
       "total_likes": 132,
       "rank": 4
+    },
+    {
+      "username": "room_c456a60837",
+      "fullname": "りさ｜40代美容好き",
+      "posts": 2,
+      "total_likes": 132,
+      "rank": 1
     },
     {
       "username": "room_e1c24bbeed",
@@ -28346,7 +28346,7 @@
     {
       "day": "2026-06-02",
       "n": 3,
-      "likes": 101
+      "likes": 100
     },
     {
       "day": "2026-06-03",
@@ -29297,7 +29297,7 @@
       "i": "グルタスキントナー"
     },
     {
-      "l": 2050,
+      "l": 2049,
       "r": 16,
       "i": "リノクル"
     },
