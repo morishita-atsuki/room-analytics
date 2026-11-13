@@ -2,14 +2,14 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-11-13 01:28 JST",
+    "generated_at": "2026-11-13 13:27 JST",
     "snapshots": 1
   },
   "summary": {
-    "posts": 1399,
-    "users": 1086,
+    "posts": 1398,
+    "users": 1085,
     "items": 9,
-    "likes": 21540,
+    "likes": 21448,
     "comments": 348,
     "recollects": 109
   },
@@ -1041,25 +1041,6 @@
       "item_short": "リノクル"
     },
     {
-      "post_id": "1700368983684986",
-      "created_at": "2026-02-28 10:11:29",
-      "username": "room_acc66b3ef7",
-      "fullname": "りり@あん💖経由購入感謝です🥰",
-      "user_rank": 1,
-      "item_id": "P005",
-      "item_name": "リノクル",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/s-linokle/",
-      "post_url": "https://room.rakuten.co.jp/room_acc66b3ef7/1700368983684986",
-      "price": 5980,
-      "from_service": "room",
-      "likes": 97,
-      "comments": 0,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "リノクル"
-    },
-    {
       "post_id": "1700374109259314",
       "created_at": "2026-04-10 00:04:13",
       "username": "room_d77a6a70e2",
@@ -1478,6 +1459,25 @@
       "item_short": "ホワイトプラス"
     },
     {
+      "post_id": "1700395991815543",
+      "created_at": "2026-10-07 07:12:15",
+      "username": "room_30bd1feed6",
+      "fullname": "快適ライフ研究所｜暮らしのいいもの研究室",
+      "user_rank": 4,
+      "item_id": "P006",
+      "item_name": "レチノソームショット",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/retinol/",
+      "post_url": "https://room.rakuten.co.jp/room_30bd1feed6/1700395991815543",
+      "price": 3960,
+      "from_service": "room",
+      "likes": 68,
+      "comments": 2,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "レチノソームショット"
+    },
+    {
       "post_id": "1700341847642109",
       "created_at": "2025-10-03 12:23:44",
       "username": "room_41e3b0337e",
@@ -1495,25 +1495,6 @@
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "リノクル"
-    },
-    {
-      "post_id": "1700395991815543",
-      "created_at": "2026-10-07 07:12:15",
-      "username": "room_30bd1feed6",
-      "fullname": "快適ライフ研究所｜暮らしのいいもの研究室",
-      "user_rank": 4,
-      "item_id": "P006",
-      "item_name": "レチノソームショット",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/retinol/",
-      "post_url": "https://room.rakuten.co.jp/room_30bd1feed6/1700395991815543",
-      "price": 3960,
-      "from_service": "room",
-      "likes": 67,
-      "comments": 2,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "レチノソームショット"
     },
     {
       "post_id": "1700394126664539",
@@ -1573,6 +1554,25 @@
       "item_short": "ハーブラピール"
     },
     {
+      "post_id": "1700375831474114",
+      "created_at": "2026-04-24 19:57:24",
+      "username": "room_871d5efe40",
+      "fullname": "なつめ🌺大人女子のお悩み美容🫧",
+      "user_rank": 4,
+      "item_id": "P006",
+      "item_name": "レチノソームショット",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/retinol/",
+      "post_url": "https://room.rakuten.co.jp/room_871d5efe40/1700375831474114",
+      "price": 3960,
+      "from_service": "room",
+      "likes": 65,
+      "comments": 0,
+      "recollects": 1,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "レチノソームショット"
+    },
+    {
       "post_id": "1700356491104315",
       "created_at": "2025-12-04 00:12:10",
       "username": "room_daisy_mamabiyou",
@@ -1609,25 +1609,6 @@
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "ホワイトプラス"
-    },
-    {
-      "post_id": "1700375831474114",
-      "created_at": "2026-04-24 19:57:24",
-      "username": "room_871d5efe40",
-      "fullname": "なつめ🌺大人女子のお悩み美容🫧",
-      "user_rank": 4,
-      "item_id": "P006",
-      "item_name": "レチノソームショット",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/retinol/",
-      "post_url": "https://room.rakuten.co.jp/room_871d5efe40/1700375831474114",
-      "price": 3960,
-      "from_service": "room",
-      "likes": 64,
-      "comments": 0,
-      "recollects": 1,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "レチノソームショット"
     },
     {
       "post_id": "1700350861352428",
@@ -1766,7 +1747,7 @@
       "post_id": "1700393858422113",
       "created_at": "2026-09-20 21:41:55",
       "username": "room_e52c611b0e",
-      "fullname": "tacos🍀⑪日感謝❤(ӦｖӦ｡)",
+      "fullname": "tacos🍀⑩⑪日感謝❤(ӦｖӦ｡)",
       "user_rank": 4,
       "item_id": "P005",
       "item_name": "リノクル",
@@ -3685,7 +3666,7 @@
       "post_id": "1700394065726427",
       "created_at": "2026-09-22 12:58:03",
       "username": "room_f1824dad7a",
-      "fullname": "ごはんのおとも　🍚",
+      "fullname": "ごはんのおとも　🍚　店舗改装中",
       "user_rank": 4,
       "item_id": "P008",
       "item_name": "ビタスポットセラム",
@@ -11424,6 +11405,25 @@
       "item_name": "リノクル",
       "item_url": "https://item.rakuten.co.jp/aokinomori/s-linokle/",
       "post_url": "https://room.rakuten.co.jp/room_69e76d59d0/1700327086913103",
+      "price": 5980,
+      "from_service": "room",
+      "likes": 4,
+      "comments": 0,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "リノクル"
+    },
+    {
+      "post_id": "1700324332485300",
+      "created_at": "2025-07-17 01:04:30",
+      "username": "retanko",
+      "fullname": "れいまま@obentotaihenda",
+      "user_rank": 2,
+      "item_id": "P005",
+      "item_name": "リノクル",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/s-linokle/",
+      "post_url": "https://room.rakuten.co.jp/retanko/1700324332485300",
       "price": 5980,
       "from_service": "room",
       "likes": 4,
@@ -20402,25 +20402,6 @@
       "item_short": "リノクル"
     },
     {
-      "post_id": "1700357310186344",
-      "created_at": "2025-12-06 23:01:24",
-      "username": "room_66661ebc5e",
-      "fullname": "si*",
-      "user_rank": 1,
-      "item_id": "P005",
-      "item_name": "リノクル",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/s-linokle/",
-      "post_url": "https://room.rakuten.co.jp/room_66661ebc5e/1700357310186344",
-      "price": 5980,
-      "from_service": "room",
-      "likes": 1,
-      "comments": 0,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "リノクル"
-    },
-    {
       "post_id": "1700397100387130",
       "created_at": "2026-10-15 20:37:59",
       "username": "room_216dcad328",
@@ -26653,27 +26634,27 @@
       "item_id": "P005",
       "item_name": "リノクル",
       "item_short": "リノクル",
-      "posts": 197,
-      "likes": 2049,
+      "posts": 196,
+      "likes": 1955,
       "comments": 21,
       "recollects": 16,
       "latest": "2026-11-04 19:26:34",
-      "likes_per_post": 10.4,
+      "likes_per_post": 10.0,
       "recollect_rate": 0.08,
-      "influence": 2097
+      "influence": 2003
     },
     {
       "item_id": "P006",
       "item_name": "レチノソームショット",
       "item_short": "レチノソームショット",
       "posts": 200,
-      "likes": 2461,
+      "likes": 2463,
       "comments": 45,
       "recollects": 26,
       "latest": "2026-10-22 11:11:12",
       "likes_per_post": 12.3,
       "recollect_rate": 0.13,
-      "influence": 2539
+      "influence": 2541
     },
     {
       "item_id": "P007",
@@ -26853,7 +26834,7 @@
       "username": "room_871d5efe40",
       "fullname": "なつめ🌺大人女子のお悩み美容🫧",
       "posts": 2,
-      "total_likes": 192,
+      "total_likes": 193,
       "rank": 4
     },
     {
@@ -27000,7 +26981,7 @@
       "username": "room_30bd1feed6",
       "fullname": "快適ライフ研究所｜暮らしのいいもの研究室",
       "posts": 3,
-      "total_likes": 132,
+      "total_likes": 133,
       "rank": 4
     },
     {
@@ -27093,13 +27074,6 @@
       "posts": 1,
       "total_likes": 102,
       "rank": 4
-    },
-    {
-      "username": "room_acc66b3ef7",
-      "fullname": "りり@あん💖経由購入感謝です🥰",
-      "posts": 1,
-      "total_likes": 97,
-      "rank": 1
     },
     {
       "username": "room_d77a6a70e2",
@@ -27320,7 +27294,7 @@
     },
     {
       "username": "room_e52c611b0e",
-      "fullname": "tacos🍀⑪日感謝❤(ӦｖӦ｡)",
+      "fullname": "tacos🍀⑩⑪日感謝❤(ӦｖӦ｡)",
       "posts": 1,
       "total_likes": 60,
       "rank": 4
@@ -27415,6 +27389,13 @@
       "posts": 1,
       "total_likes": 45,
       "rank": 4
+    },
+    {
+      "username": "room_dfb3f8aede",
+      "fullname": "HINA @hinap_17",
+      "posts": 1,
+      "total_likes": 45,
+      "rank": 4
     }
   ],
   "by_day": [
@@ -27452,6 +27433,11 @@
       "day": "2025-07-13",
       "n": 1,
       "likes": 6
+    },
+    {
+      "day": "2025-07-17",
+      "n": 1,
+      "likes": 4
     },
     {
       "day": "2025-07-20",
@@ -27755,8 +27741,8 @@
     },
     {
       "day": "2025-12-06",
-      "n": 3,
-      "likes": 7
+      "n": 2,
+      "likes": 6
     },
     {
       "day": "2025-12-07",
@@ -27970,8 +27956,8 @@
     },
     {
       "day": "2026-02-28",
-      "n": 2,
-      "likes": 103
+      "n": 1,
+      "likes": 6
     },
     {
       "day": "2026-03-02",
@@ -28191,7 +28177,7 @@
     {
       "day": "2026-04-24",
       "n": 3,
-      "likes": 77
+      "likes": 78
     },
     {
       "day": "2026-04-25",
@@ -28906,7 +28892,7 @@
     {
       "day": "2026-10-07",
       "n": 6,
-      "likes": 127
+      "likes": 128
     },
     {
       "day": "2026-10-08",
@@ -29205,8 +29191,8 @@
     {
       "item_id": "P007",
       "total": 199,
-      "recent": 4,
-      "prior": 3,
+      "recent": 3,
+      "prior": 4,
       "recent_likes": 1,
       "item_short": "ハーブラピール"
     },
@@ -29245,14 +29231,14 @@
     {
       "item_id": "P001",
       "total": 198,
-      "recent": 1,
-      "prior": 0,
-      "recent_likes": 159,
+      "recent": 0,
+      "prior": 1,
+      "recent_likes": 0,
       "item_short": "ハーバニエンス"
     },
     {
       "item_id": "P005",
-      "total": 197,
+      "total": 196,
       "recent": 0,
       "prior": 1,
       "recent_likes": 0,
@@ -29297,12 +29283,12 @@
       "i": "グルタスキントナー"
     },
     {
-      "l": 2049,
+      "l": 1955,
       "r": 16,
       "i": "リノクル"
     },
     {
-      "l": 2461,
+      "l": 2463,
       "r": 26,
       "i": "レチノソームショット"
     },
