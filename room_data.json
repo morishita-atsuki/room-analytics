@@ -2,14 +2,14 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-11-14 13:23 JST",
+    "generated_at": "2026-11-14 23:40 JST",
     "snapshots": 1
   },
   "summary": {
     "posts": 1399,
     "users": 1086,
     "items": 9,
-    "likes": 21449,
+    "likes": 21453,
     "comments": 348,
     "recollects": 109
   },
@@ -1367,7 +1367,7 @@
       "post_id": "1700390843713282",
       "created_at": "2026-08-29 22:08:51",
       "username": "room_469b896c67",
-      "fullname": "ゆあら｜肌と身体にうれしいもの",
+      "fullname": "ゆあら",
       "user_rank": 4,
       "item_id": "P008",
       "item_name": "ビタスポットセラム",
@@ -1457,6 +1457,25 @@
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "ホワイトプラス"
+    },
+    {
+      "post_id": "1700388122013319",
+      "created_at": "2026-08-05 17:11:00",
+      "username": "room_0d5069d897",
+      "fullname": "さとこみ（～11/12 感謝🙏）",
+      "user_rank": 4,
+      "item_id": "P003",
+      "item_name": "ビアス",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
+      "post_url": "https://room.rakuten.co.jp/room_0d5069d897/1700388122013319",
+      "price": 3980,
+      "from_service": "room",
+      "likes": 68,
+      "comments": 0,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "ビアス"
     },
     {
       "post_id": "1700395991815543",
@@ -1611,25 +1630,6 @@
       "item_short": "ホワイトプラス"
     },
     {
-      "post_id": "1700388122013319",
-      "created_at": "2026-08-05 17:11:00",
-      "username": "room_0d5069d897",
-      "fullname": "さとこみ（～11/12 感謝🙏）",
-      "user_rank": 4,
-      "item_id": "P003",
-      "item_name": "ビアス",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
-      "post_url": "https://room.rakuten.co.jp/room_0d5069d897/1700388122013319",
-      "price": 3980,
-      "from_service": "room",
-      "likes": 64,
-      "comments": 0,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "ビアス"
-    },
-    {
       "post_id": "1700350861352428",
       "created_at": "2025-11-10 10:25:46",
       "username": "room_8b5b15c5ec",
@@ -1747,7 +1747,7 @@
       "post_id": "1700393858422113",
       "created_at": "2026-09-20 21:41:55",
       "username": "room_e52c611b0e",
-      "fullname": "tacos🍀⑩⑪日感謝❤(ӦｖӦ｡)",
+      "fullname": "tacos🍀⑩⑪⑬日感謝❤(ӦｖӦ｡)",
       "user_rank": 4,
       "item_id": "P005",
       "item_name": "リノクル",
@@ -3666,7 +3666,7 @@
       "post_id": "1700394065726427",
       "created_at": "2026-09-22 12:58:03",
       "username": "room_f1824dad7a",
-      "fullname": "ちわわちゃん🐶🐱上限中",
+      "fullname": "ちわわちゃん🐶上限中🍚🥢",
       "user_rank": 4,
       "item_id": "P008",
       "item_name": "ビタスポットセラム",
@@ -26628,13 +26628,13 @@
       "item_name": "ビアス",
       "item_short": "ビアス",
       "posts": 140,
-      "likes": 2894,
+      "likes": 2898,
       "comments": 53,
       "recollects": 12,
       "latest": "2026-11-04 20:40:44",
       "likes_per_post": 20.7,
       "recollect_rate": 0.09,
-      "influence": 2930
+      "influence": 2934
     },
     {
       "item_id": "P004",
@@ -27201,7 +27201,7 @@
     },
     {
       "username": "room_469b896c67",
-      "fullname": "ゆあら｜肌と身体にうれしいもの",
+      "fullname": "ゆあら",
       "posts": 1,
       "total_likes": 70,
       "rank": 4
@@ -27223,6 +27223,13 @@
     {
       "username": "room_222nori",
       "fullname": "nori",
+      "posts": 1,
+      "total_likes": 68,
+      "rank": 4
+    },
+    {
+      "username": "room_0d5069d897",
+      "fullname": "さとこみ（～11/12 感謝🙏）",
       "posts": 1,
       "total_likes": 68,
       "rank": 4
@@ -27258,13 +27265,6 @@
     {
       "username": "room_832cee1573",
       "fullname": "aya🌸ご購入ありがとうございます✨",
-      "posts": 1,
-      "total_likes": 64,
-      "rank": 4
-    },
-    {
-      "username": "room_0d5069d897",
-      "fullname": "さとこみ（～11/12 感謝🙏）",
       "posts": 1,
       "total_likes": 64,
       "rank": 4
@@ -27313,7 +27313,7 @@
     },
     {
       "username": "room_e52c611b0e",
-      "fullname": "tacos🍀⑩⑪日感謝❤(ӦｖӦ｡)",
+      "fullname": "tacos🍀⑩⑪⑬日感謝❤(ӦｖӦ｡)",
       "posts": 1,
       "total_likes": 60,
       "rank": 4
@@ -28641,7 +28641,7 @@
     {
       "day": "2026-08-05",
       "n": 10,
-      "likes": 164
+      "likes": 168
     },
     {
       "day": "2026-08-06",
@@ -29292,7 +29292,7 @@
       "i": "ホワイトプラス"
     },
     {
-      "l": 2894,
+      "l": 2898,
       "r": 12,
       "i": "ビアス"
     },
