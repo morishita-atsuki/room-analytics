@@ -2,14 +2,14 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-11-17 02:43 JST",
+    "generated_at": "2026-11-17 14:56 JST",
     "snapshots": 1
   },
   "summary": {
-    "posts": 1399,
+    "posts": 1397,
     "users": 1086,
     "items": 9,
-    "likes": 21464,
+    "likes": 21459,
     "comments": 348,
     "recollects": 108
   },
@@ -3666,7 +3666,7 @@
       "post_id": "1700394065726427",
       "created_at": "2026-09-22 12:58:03",
       "username": "room_f1824dad7a",
-      "fullname": "ちわわちゃん🐶ごはんのおとも🍚🥢",
+      "fullname": "ちわわちゃん🐶✨🛒週替わりSHOP",
       "user_rank": 4,
       "item_id": "P008",
       "item_name": "ビタスポットセラム",
@@ -6441,7 +6441,7 @@
       "created_at": "2026-03-05 15:41:33",
       "username": "hope_step_jump",
       "fullname": "ほーぷ",
-      "user_rank": 1,
+      "user_rank": 3,
       "item_id": "P007",
       "item_name": "ハーブラピール",
       "item_url": "https://item.rakuten.co.jp/aokinomori/hlpeel/",
@@ -6517,7 +6517,7 @@
       "created_at": "2026-04-15 14:25:51",
       "username": "hope_step_jump",
       "fullname": "ほーぷ",
-      "user_rank": 1,
+      "user_rank": 3,
       "item_id": "P008",
       "item_name": "ビタスポットセラム",
       "item_url": "https://item.rakuten.co.jp/aokinomori/myc-skinity-serum/",
@@ -11947,25 +11947,6 @@
       "item_short": "ハーブラピール"
     },
     {
-      "post_id": "1700390504660211",
-      "created_at": "2026-08-26 22:17:07",
-      "username": "room_30fd67e0e7",
-      "fullname": "あかおび",
-      "user_rank": 3,
-      "item_id": "P008",
-      "item_name": "ビタスポットセラム",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/myc-skinity-serum/",
-      "post_url": "https://room.rakuten.co.jp/room_30fd67e0e7/1700390504660211",
-      "price": 3990,
-      "from_service": "room",
-      "likes": 4,
-      "comments": 0,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "ビタスポットセラム"
-    },
-    {
       "post_id": "1700390502959290",
       "created_at": "2026-08-26 22:05:58",
       "username": "room_516a98ba80",
@@ -15443,25 +15424,6 @@
       "item_short": "グルタスキントナー"
     },
     {
-      "post_id": "1700383114750860",
-      "created_at": "2026-06-22 19:19:57",
-      "username": "room_30fd67e0e7",
-      "fullname": "あかおび",
-      "user_rank": 3,
-      "item_id": "P004",
-      "item_name": "グルタスキントナー",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/glutathione/",
-      "post_url": "https://room.rakuten.co.jp/room_30fd67e0e7/1700383114750860",
-      "price": 3300,
-      "from_service": "room",
-      "likes": 2,
-      "comments": 0,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "グルタスキントナー"
-    },
-    {
       "post_id": "1700383073889787",
       "created_at": "2026-06-22 12:18:53",
       "username": "room_2e48ccedbe",
@@ -16068,6 +16030,25 @@
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "リノクル"
+    },
+    {
+      "post_id": "1700401490646239",
+      "created_at": "2026-11-17 08:55:07",
+      "username": "room_a542625098",
+      "fullname": "@HARU@",
+      "user_rank": 1,
+      "item_id": "P006",
+      "item_name": "レチノソームショット",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/retinol/",
+      "post_url": "https://room.rakuten.co.jp/room_a542625098/1700401490646239",
+      "price": 3960,
+      "from_service": "room",
+      "likes": 2,
+      "comments": 0,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "レチノソームショット"
     },
     {
       "post_id": "1700395735987171",
@@ -21038,25 +21019,6 @@
       "item_name": "レチノソームショット",
       "item_url": "https://item.rakuten.co.jp/aokinomori/retinol/",
       "post_url": "https://room.rakuten.co.jp/samena_life/1700347411511922",
-      "price": 3960,
-      "from_service": "room",
-      "likes": 1,
-      "comments": 0,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "レチノソームショット"
-    },
-    {
-      "post_id": "1700345811912118",
-      "created_at": "2025-10-19 18:36:16",
-      "username": "room_b62e82cd9e",
-      "fullname": "ポンタ",
-      "user_rank": 1,
-      "item_id": "P006",
-      "item_name": "レチノソームショット",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/retinol/",
-      "post_url": "https://room.rakuten.co.jp/room_b62e82cd9e/1700345811912118",
       "price": 3960,
       "from_service": "room",
       "likes": 1,
@@ -26640,14 +26602,14 @@
       "item_id": "P004",
       "item_name": "グルタスキントナー",
       "item_short": "グルタスキントナー",
-      "posts": 82,
-      "likes": 1387,
+      "posts": 81,
+      "likes": 1385,
       "comments": 54,
       "recollects": 6,
       "latest": "2026-10-22 15:23:21",
-      "likes_per_post": 16.9,
+      "likes_per_post": 17.1,
       "recollect_rate": 0.07,
-      "influence": 1405
+      "influence": 1403
     },
     {
       "item_id": "P005",
@@ -26667,13 +26629,13 @@
       "item_name": "レチノソームショット",
       "item_short": "レチノソームショット",
       "posts": 200,
-      "likes": 2459,
+      "likes": 2460,
       "comments": 45,
       "recollects": 26,
-      "latest": "2026-10-22 11:11:12",
+      "latest": "2026-11-17 08:55:07",
       "likes_per_post": 12.3,
       "recollect_rate": 0.13,
-      "influence": 2537
+      "influence": 2538
     },
     {
       "item_id": "P007",
@@ -26692,14 +26654,14 @@
       "item_id": "P008",
       "item_name": "ビタスポットセラム",
       "item_short": "ビタスポットセラム",
-      "posts": 119,
-      "likes": 1318,
+      "posts": 118,
+      "likes": 1314,
       "comments": 15,
       "recollects": 6,
       "latest": "2026-10-15 20:39:01",
       "likes_per_post": 11.1,
       "recollect_rate": 0.05,
-      "influence": 1336
+      "influence": 1332
     },
     {
       "item_id": "P009",
@@ -27634,11 +27596,6 @@
       "likes": 2
     },
     {
-      "day": "2025-10-19",
-      "n": 1,
-      "likes": 1
-    },
-    {
       "day": "2025-10-22",
       "n": 1,
       "likes": 8
@@ -28450,8 +28407,8 @@
     },
     {
       "day": "2026-06-22",
-      "n": 21,
-      "likes": 311
+      "n": 20,
+      "likes": 309
     },
     {
       "day": "2026-06-23",
@@ -28720,8 +28677,8 @@
     },
     {
       "day": "2026-08-26",
-      "n": 20,
-      "likes": 186
+      "n": 19,
+      "likes": 182
     },
     {
       "day": "2026-08-27",
@@ -29032,6 +28989,11 @@
       "day": "2026-11-16",
       "n": 1,
       "likes": 0
+    },
+    {
+      "day": "2026-11-17",
+      "n": 1,
+      "likes": 2
     }
   ],
   "movers": [
@@ -29251,7 +29213,7 @@
     },
     {
       "item_id": "P004",
-      "total": 82,
+      "total": 81,
       "recent": 0,
       "prior": 0,
       "recent_likes": 0,
@@ -29275,7 +29237,7 @@
     },
     {
       "item_id": "P008",
-      "total": 119,
+      "total": 118,
       "recent": 0,
       "prior": 0,
       "recent_likes": 0,
@@ -29284,9 +29246,9 @@
     {
       "item_id": "P006",
       "total": 200,
-      "recent": 0,
+      "recent": 1,
       "prior": 0,
-      "recent_likes": 0,
+      "recent_likes": 2,
       "item_short": "レチノソームショット"
     }
   ],
@@ -29307,7 +29269,7 @@
       "i": "ビアス"
     },
     {
-      "l": 1387,
+      "l": 1385,
       "r": 6,
       "i": "グルタスキントナー"
     },
@@ -29317,7 +29279,7 @@
       "i": "リノクル"
     },
     {
-      "l": 2459,
+      "l": 2460,
       "r": 26,
       "i": "レチノソームショット"
     },
@@ -29327,7 +29289,7 @@
       "i": "ハーブラピール"
     },
     {
-      "l": 1318,
+      "l": 1314,
       "r": 6,
       "i": "ビタスポットセラム"
     },
