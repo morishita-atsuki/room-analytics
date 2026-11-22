@@ -2,14 +2,14 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-11-22 09:34 JST",
+    "generated_at": "2026-11-22 13:25 JST",
     "snapshots": 1
   },
   "summary": {
-    "posts": 1393,
-    "users": 1087,
+    "posts": 1391,
+    "users": 1085,
     "items": 9,
-    "likes": 21418,
+    "likes": 21409,
     "comments": 354,
     "recollects": 106
   },
@@ -56,7 +56,7 @@
       "post_id": "1700382785286136",
       "created_at": "2026-06-20 07:02:38",
       "username": "room_ce6e8ec13d",
-      "fullname": "kimidori55🌱ボチボチ",
+      "fullname": "kimidori55🌱21日感謝✨😭",
       "user_rank": 4,
       "item_id": "P002",
       "item_name": "MYC ホワイトプラス",
@@ -1804,7 +1804,7 @@
       "post_id": "1700393858422113",
       "created_at": "2026-09-20 21:41:55",
       "username": "room_e52c611b0e",
-      "fullname": "tacos🍀いつも感謝❤(ӦｖӦ｡)",
+      "fullname": "tacos🍀⑳日感謝❤(ӦｖӦ｡)",
       "user_rank": 4,
       "item_id": "P005",
       "item_name": "リノクル",
@@ -6698,25 +6698,6 @@
       "likes": 8,
       "comments": 0,
       "recollects": 1,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "ビアス"
-    },
-    {
-      "post_id": "1700391247591423",
-      "created_at": "2026-09-02 08:45:38",
-      "username": "room_suikamama",
-      "fullname": "すいかまま/介護からその先の暮らしへ",
-      "user_rank": 3,
-      "item_id": "P003",
-      "item_name": "ビアス",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/bius/",
-      "post_url": "https://room.rakuten.co.jp/room_suikamama/1700391247591423",
-      "price": 2980,
-      "from_service": "room",
-      "likes": 8,
-      "comments": 0,
-      "recollects": 0,
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "ビアス"
@@ -17229,25 +17210,6 @@
       "item_short": "ハーバニエンス"
     },
     {
-      "post_id": "1700353962945413",
-      "created_at": "2025-11-23 11:31:35",
-      "username": "room_33cb9cc22f",
-      "fullname": "tonto",
-      "user_rank": 1,
-      "item_id": "P001",
-      "item_name": "ハーバニエンス ハーブガーデンセット",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/s-herbgarden_set/",
-      "post_url": "https://room.rakuten.co.jp/room_33cb9cc22f/1700353962945413",
-      "price": 3480,
-      "from_service": "room",
-      "likes": 1,
-      "comments": 0,
-      "recollects": 1,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "ハーバニエンス"
-    },
-    {
       "post_id": "1700353963096395",
       "created_at": "2025-11-23 11:32:10",
       "username": "room_f5b9adc3d2",
@@ -17262,6 +17224,25 @@
       "likes": 1,
       "comments": 0,
       "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "ハーバニエンス"
+    },
+    {
+      "post_id": "1700353962945413",
+      "created_at": "2025-11-23 11:31:35",
+      "username": "room_33cb9cc22f",
+      "fullname": "tonto",
+      "user_rank": 3,
+      "item_id": "P001",
+      "item_name": "ハーバニエンス ハーブガーデンセット",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/s-herbgarden_set/",
+      "post_url": "https://room.rakuten.co.jp/room_33cb9cc22f/1700353962945413",
+      "price": 3480,
+      "from_service": "room",
+      "likes": 1,
+      "comments": 0,
+      "recollects": 1,
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "ハーバニエンス"
@@ -19266,7 +19247,7 @@
       "created_at": "2026-09-22 00:14:27",
       "username": "room_ac2052f7cc",
       "fullname": "na",
-      "user_rank": 2,
+      "user_rank": 3,
       "item_id": "P004",
       "item_name": "グルタスキントナー",
       "item_url": "https://item.rakuten.co.jp/aokinomori/glutathione/",
@@ -19475,7 +19456,7 @@
       "created_at": "2026-03-25 10:34:46",
       "username": "room_e0b0f47751",
       "fullname": "Su-mama",
-      "user_rank": 1,
+      "user_rank": 2,
       "item_id": "P004",
       "item_name": "グルタスキントナー",
       "item_url": "https://item.rakuten.co.jp/aokinomori/glutathione/",
@@ -20183,25 +20164,6 @@
       "item_name": "リノクル",
       "item_url": "https://item.rakuten.co.jp/aokinomori/s-linokle/",
       "post_url": "https://room.rakuten.co.jp/leoncat0919/1700371912663267",
-      "price": 5980,
-      "from_service": "room",
-      "likes": 1,
-      "comments": 0,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "リノクル"
-    },
-    {
-      "post_id": "1700371868126199",
-      "created_at": "2026-03-22 08:44:35",
-      "username": "room_8ea8306037",
-      "fullname": "chi 🐾　✨ご購入感謝です✨",
-      "user_rank": 3,
-      "item_id": "P005",
-      "item_name": "リノクル",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/s-linokle/",
-      "post_url": "https://room.rakuten.co.jp/room_8ea8306037/1700371868126199",
       "price": 5980,
       "from_service": "room",
       "likes": 1,
@@ -26513,14 +26475,14 @@
       "item_id": "P003",
       "item_name": "ビアス",
       "item_short": "ビアス",
-      "posts": 138,
-      "likes": 2834,
+      "posts": 137,
+      "likes": 2826,
       "comments": 52,
       "recollects": 12,
       "latest": "2026-11-04 20:40:44",
-      "likes_per_post": 20.5,
+      "likes_per_post": 20.6,
       "recollect_rate": 0.09,
-      "influence": 2870
+      "influence": 2862
     },
     {
       "item_id": "P004",
@@ -26539,14 +26501,14 @@
       "item_id": "P005",
       "item_name": "リノクル",
       "item_short": "リノクル",
-      "posts": 197,
-      "likes": 1957,
+      "posts": 196,
+      "likes": 1956,
       "comments": 21,
       "recollects": 16,
       "latest": "2026-11-04 19:26:34",
-      "likes_per_post": 9.9,
+      "likes_per_post": 10.0,
       "recollect_rate": 0.08,
-      "influence": 2005
+      "influence": 2004
     },
     {
       "item_id": "P006",
@@ -26625,7 +26587,7 @@
     },
     {
       "username": "room_ce6e8ec13d",
-      "fullname": "kimidori55🌱ボチボチ",
+      "fullname": "kimidori55🌱21日感謝✨😭",
       "posts": 1,
       "total_likes": 419,
       "rank": 4
@@ -27213,7 +27175,7 @@
     },
     {
       "username": "room_e52c611b0e",
-      "fullname": "tacos🍀いつも感謝❤(ӦｖӦ｡)",
+      "fullname": "tacos🍀⑳日感謝❤(ӦｖӦ｡)",
       "posts": 1,
       "total_likes": 59,
       "rank": 4
@@ -27956,8 +27918,8 @@
     },
     {
       "day": "2026-03-22",
-      "n": 20,
-      "likes": 464
+      "n": 19,
+      "likes": 463
     },
     {
       "day": "2026-03-23",
@@ -28646,8 +28608,8 @@
     },
     {
       "day": "2026-09-02",
-      "n": 3,
-      "likes": 9
+      "n": 2,
+      "likes": 1
     },
     {
       "day": "2026-09-03",
@@ -29139,7 +29101,7 @@
     },
     {
       "item_id": "P003",
-      "total": 138,
+      "total": 137,
       "recent": 0,
       "prior": 0,
       "recent_likes": 0,
@@ -29163,7 +29125,7 @@
     },
     {
       "item_id": "P005",
-      "total": 197,
+      "total": 196,
       "recent": 0,
       "prior": 0,
       "recent_likes": 0,
@@ -29198,7 +29160,7 @@
       "i": "ホワイトプラス"
     },
     {
-      "l": 2834,
+      "l": 2826,
       "r": 12,
       "i": "ビアス"
     },
@@ -29208,7 +29170,7 @@
       "i": "グルタスキントナー"
     },
     {
-      "l": 1957,
+      "l": 1956,
       "r": 16,
       "i": "リノクル"
     },
