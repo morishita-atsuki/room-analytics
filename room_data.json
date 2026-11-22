@@ -2,14 +2,14 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-11-22 17:35 JST",
+    "generated_at": "2026-11-23 00:49 JST",
     "snapshots": 1
   },
   "summary": {
     "posts": 1391,
     "users": 1085,
     "items": 9,
-    "likes": 21409,
+    "likes": 21413,
     "comments": 354,
     "recollects": 106
   },
@@ -2412,7 +2412,7 @@
       "post_id": "1700386900243103",
       "created_at": "2026-07-25 15:10:38",
       "username": "hello_kiyo07",
-      "fullname": "きよ🌹幸せ✨ﾌﾞﾗｯｸﾌﾗｲﾃﾞｰ🥳",
+      "fullname": "きよ🌹幸せ🙏ご訪問遅れます🙇",
       "user_rank": 4,
       "item_id": "P005",
       "item_name": "リノクル",
@@ -2998,6 +2998,25 @@
       "item_short": "ハーバニエンス"
     },
     {
+      "post_id": "1700239502085448",
+      "created_at": "2024-03-02 20:56:43",
+      "username": "room_aabf9c0ce4",
+      "fullname": "ひなた☆11/21ご購入感謝です❤️",
+      "user_rank": 4,
+      "item_id": "P001",
+      "item_name": "ハーバニエンス ハーブガーデンセット",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/s-herbgarden_set/",
+      "post_url": "https://room.rakuten.co.jp/room_aabf9c0ce4/1700239502085448",
+      "price": 3480,
+      "from_service": "room",
+      "likes": 27,
+      "comments": 0,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "ハーバニエンス"
+    },
+    {
       "post_id": "1700386183565222",
       "created_at": "2026-07-19 10:41:57",
       "username": "room_93696398bd",
@@ -3410,25 +3429,6 @@
       "from_service": "room",
       "likes": 20,
       "comments": 2,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "ハーバニエンス"
-    },
-    {
-      "post_id": "1700397075594156",
-      "created_at": "2026-10-15 17:40:56",
-      "username": "room_7597466a88",
-      "fullname": "ひろりん*",
-      "user_rank": 4,
-      "item_id": "P001",
-      "item_name": "ハーバニエンス ハーブガーデンセット",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/s-herbgarden_set/",
-      "post_url": "https://room.rakuten.co.jp/room_7597466a88/1700397075594156",
-      "price": 3480,
-      "from_service": "room",
-      "likes": 20,
-      "comments": 0,
       "recollects": 0,
       "detail_views": 0,
       "influence_points": 0,
@@ -4407,7 +4407,7 @@
       "post_id": "1700381075726155",
       "created_at": "2026-06-06 14:05:28",
       "username": "room_8089671927",
-      "fullname": "💎アロハ🕊️18〜20ありがと🔥活",
+      "fullname": "💎アロハ🕊️18〜21ありがと🔥活",
       "user_rank": 4,
       "item_id": "P003",
       "item_name": "ビアス",
@@ -11586,25 +11586,6 @@
       "item_short": "レチノソームショット"
     },
     {
-      "post_id": "1700343180659350",
-      "created_at": "2025-10-08 15:30:01",
-      "username": "room_6a7fead8c4",
-      "fullname": "DAIのSHOP",
-      "user_rank": 2,
-      "item_id": "P006",
-      "item_name": "レチノソームショット",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/retinol/",
-      "post_url": "https://room.rakuten.co.jp/room_6a7fead8c4/1700343180659350",
-      "price": 3960,
-      "from_service": "room",
-      "likes": 4,
-      "comments": 0,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "レチノソームショット"
-    },
-    {
       "post_id": "1700340379898322",
       "created_at": "2025-09-27 12:21:07",
       "username": "room_7038885113",
@@ -17210,25 +17191,6 @@
       "item_short": "ハーバニエンス"
     },
     {
-      "post_id": "1700353963096395",
-      "created_at": "2025-11-23 11:32:10",
-      "username": "room_f5b9adc3d2",
-      "fullname": "あすか",
-      "user_rank": 1,
-      "item_id": "P001",
-      "item_name": "ハーバニエンス ハーブガーデンセット",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/s-herbgarden_set/",
-      "post_url": "https://room.rakuten.co.jp/room_f5b9adc3d2/1700353963096395",
-      "price": 3480,
-      "from_service": "room",
-      "likes": 1,
-      "comments": 0,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "ハーバニエンス"
-    },
-    {
       "post_id": "1700353962945413",
       "created_at": "2025-11-23 11:31:35",
       "username": "room_33cb9cc22f",
@@ -17243,6 +17205,25 @@
       "likes": 1,
       "comments": 0,
       "recollects": 1,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "ハーバニエンス"
+    },
+    {
+      "post_id": "1700353963096395",
+      "created_at": "2025-11-23 11:32:10",
+      "username": "room_f5b9adc3d2",
+      "fullname": "あすか",
+      "user_rank": 1,
+      "item_id": "P001",
+      "item_name": "ハーバニエンス ハーブガーデンセット",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/s-herbgarden_set/",
+      "post_url": "https://room.rakuten.co.jp/room_f5b9adc3d2/1700353963096395",
+      "price": 3480,
+      "from_service": "room",
+      "likes": 1,
+      "comments": 0,
+      "recollects": 0,
       "detail_views": 0,
       "influence_points": 0,
       "item_short": "ハーバニエンス"
@@ -20924,6 +20905,25 @@
       "item_name": "レチノソームショット",
       "item_url": "https://item.rakuten.co.jp/aokinomori/retinol/",
       "post_url": "https://room.rakuten.co.jp/room_5f3940595c/1700344314564435",
+      "price": 3960,
+      "from_service": "room",
+      "likes": 1,
+      "comments": 0,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "レチノソームショット"
+    },
+    {
+      "post_id": "1700343251145196",
+      "created_at": "2025-10-08 21:26:18",
+      "username": "room_e67e739cc5",
+      "fullname": "yama",
+      "user_rank": 1,
+      "item_id": "P006",
+      "item_name": "レチノソームショット",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/retinol/",
+      "post_url": "https://room.rakuten.co.jp/room_e67e739cc5/1700343251145196",
       "price": 3960,
       "from_service": "room",
       "likes": 1,
@@ -26450,13 +26450,13 @@
       "item_name": "ハーバニエンス ハーブガーデンセット",
       "item_short": "ハーバニエンス",
       "posts": 198,
-      "likes": 2168,
+      "likes": 2175,
       "comments": 23,
       "recollects": 9,
       "latest": "2026-11-18 21:20:03",
-      "likes_per_post": 10.9,
+      "likes_per_post": 11.0,
       "recollect_rate": 0.05,
-      "influence": 2195
+      "influence": 2202
     },
     {
       "item_id": "P002",
@@ -26515,13 +26515,13 @@
       "item_name": "レチノソームショット",
       "item_short": "レチノソームショット",
       "posts": 200,
-      "likes": 2468,
+      "likes": 2465,
       "comments": 46,
       "recollects": 25,
       "latest": "2026-11-17 08:55:07",
       "likes_per_post": 12.3,
       "recollect_rate": 0.12,
-      "influence": 2543
+      "influence": 2540
     },
     {
       "item_id": "P007",
@@ -27267,6 +27267,11 @@
   ],
   "by_day": [
     {
+      "day": "2024-03-02",
+      "n": 1,
+      "likes": 27
+    },
+    {
       "day": "2024-06-09",
       "n": 1,
       "likes": 42
@@ -27454,7 +27459,7 @@
     {
       "day": "2025-10-08",
       "n": 10,
-      "likes": 75
+      "likes": 72
     },
     {
       "day": "2025-10-09",
@@ -28798,8 +28803,8 @@
     },
     {
       "day": "2026-10-15",
-      "n": 6,
-      "likes": 24
+      "n": 5,
+      "likes": 4
     },
     {
       "day": "2026-10-16",
@@ -29150,7 +29155,7 @@
   ],
   "scatter": [
     {
-      "l": 2168,
+      "l": 2175,
       "r": 9,
       "i": "ハーバニエンス"
     },
@@ -29175,7 +29180,7 @@
       "i": "リノクル"
     },
     {
-      "l": 2468,
+      "l": 2465,
       "r": 25,
       "i": "レチノソームショット"
     },
