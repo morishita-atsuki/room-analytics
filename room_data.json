@@ -2,14 +2,14 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-11-26 15:14 JST",
+    "generated_at": "2026-11-27 02:59 JST",
     "snapshots": 1
   },
   "summary": {
-    "posts": 1388,
-    "users": 1086,
+    "posts": 1387,
+    "users": 1087,
     "items": 9,
-    "likes": 21144,
+    "likes": 21143,
     "comments": 351,
     "recollects": 103
   },
@@ -10259,7 +10259,7 @@
       "post_id": "1700357719067111",
       "created_at": "2025-12-08 18:47:35",
       "username": "room_shoko.gunsou10",
-      "fullname": "40代女性×70代両親×パグと猫ROOM",
+      "fullname": "40代主婦｜70代両親の介護と暮らし",
       "user_rank": 4,
       "item_id": "P001",
       "item_name": "ハーバニエンス ハーブガーデンセット",
@@ -20155,25 +20155,6 @@
       "item_short": "リノクル"
     },
     {
-      "post_id": "1700397100387130",
-      "created_at": "2026-10-15 20:37:59",
-      "username": "room_216dcad328",
-      "fullname": "まんまろ@美容と健康をサポート",
-      "user_rank": 4,
-      "item_id": "P006",
-      "item_name": "レチノソームショット",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/retinol/",
-      "post_url": "https://room.rakuten.co.jp/room_216dcad328/1700397100387130",
-      "price": 3960,
-      "from_service": "room",
-      "likes": 1,
-      "comments": 0,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "レチノソームショット"
-    },
-    {
       "post_id": "1700395802381131",
       "created_at": "2026-10-05 20:50:52",
       "username": "room_19c090efeb",
@@ -25247,6 +25228,25 @@
       "item_short": "レチノソームショット"
     },
     {
+      "post_id": "1700343059306983",
+      "created_at": "2025-10-08 01:57:54",
+      "username": "room_d42d1762e6",
+      "fullname": "さいふぁさいふぁ",
+      "user_rank": 1,
+      "item_id": "P006",
+      "item_name": "レチノソームショット",
+      "item_url": "https://item.rakuten.co.jp/aokinomori/retinol/",
+      "post_url": "https://room.rakuten.co.jp/room_d42d1762e6/1700343059306983",
+      "price": 3960,
+      "from_service": "room",
+      "likes": 0,
+      "comments": 0,
+      "recollects": 0,
+      "detail_views": 0,
+      "influence_points": 0,
+      "item_short": "レチノソームショット"
+    },
+    {
       "post_id": "1700401393890221",
       "created_at": "2026-11-16 15:57:02",
       "username": "room_d760786bc6",
@@ -25912,25 +25912,6 @@
       "item_short": "ハーブラピール"
     },
     {
-      "post_id": "1700397100586795",
-      "created_at": "2026-10-15 20:39:01",
-      "username": "room_216dcad328",
-      "fullname": "まんまろ@美容と健康をサポート",
-      "user_rank": 4,
-      "item_id": "P008",
-      "item_name": "ビタスポットセラム",
-      "item_url": "https://item.rakuten.co.jp/aokinomori/myc-skinity-serum/",
-      "post_url": "https://room.rakuten.co.jp/room_216dcad328/1700397100586795",
-      "price": 3990,
-      "from_service": "room",
-      "likes": 0,
-      "comments": 0,
-      "recollects": 0,
-      "detail_views": 0,
-      "influence_points": 0,
-      "item_short": "ビタスポットセラム"
-    },
-    {
       "post_id": "1700392429688122",
       "created_at": "2026-09-09 21:51:19",
       "username": "room_9eedd2297a",
@@ -26458,13 +26439,13 @@
       "item_name": "レチノソームショット",
       "item_short": "レチノソームショット",
       "posts": 200,
-      "likes": 2396,
+      "likes": 2395,
       "comments": 44,
       "recollects": 25,
       "latest": "2026-11-17 08:55:07",
       "likes_per_post": 12.0,
       "recollect_rate": 0.12,
-      "influence": 2471
+      "influence": 2470
     },
     {
       "item_id": "P007",
@@ -26483,12 +26464,12 @@
       "item_id": "P008",
       "item_name": "ビタスポットセラム",
       "item_short": "ビタスポットセラム",
-      "posts": 117,
+      "posts": 116,
       "likes": 1310,
       "comments": 15,
       "recollects": 5,
-      "latest": "2026-10-15 20:39:01",
-      "likes_per_post": 11.2,
+      "latest": "2026-10-05 23:24:44",
+      "likes_per_post": 11.3,
       "recollect_rate": 0.04,
       "influence": 1325
     },
@@ -27194,16 +27175,16 @@
       "rank": 4
     },
     {
-      "username": "room_93696398bd",
-      "fullname": "Kozu♡いつも感謝☺️🙏💕",
-      "posts": 2,
+      "username": "misaroom_0264595a8d",
+      "fullname": "みさ",
+      "posts": 1,
       "total_likes": 44,
       "rank": 4
     },
     {
-      "username": "misaroom_0264595a8d",
-      "fullname": "みさ",
-      "posts": 1,
+      "username": "room_93696398bd",
+      "fullname": "Kozu♡いつも感謝☺️🙏💕",
+      "posts": 2,
       "total_likes": 44,
       "rank": 4
     }
@@ -27406,7 +27387,7 @@
     },
     {
       "day": "2025-10-08",
-      "n": 11,
+      "n": 12,
       "likes": 73
     },
     {
@@ -28761,8 +28742,8 @@
     },
     {
       "day": "2026-10-15",
-      "n": 5,
-      "likes": 4
+      "n": 3,
+      "likes": 3
     },
     {
       "day": "2026-10-16",
@@ -29096,7 +29077,7 @@
     },
     {
       "item_id": "P008",
-      "total": 117,
+      "total": 116,
       "recent": 0,
       "prior": 0,
       "recent_likes": 0,
@@ -29138,7 +29119,7 @@
       "i": "リノクル"
     },
     {
-      "l": 2396,
+      "l": 2395,
       "r": 25,
       "i": "レチノソームショット"
     },
