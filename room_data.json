@@ -2,14 +2,14 @@
   "meta": {
     "shop_name": "aokinomori楽天市場店",
     "shop_code": "aokinomori",
-    "generated_at": "2026-11-28 14:45 JST",
+    "generated_at": "2026-11-29 01:31 JST",
     "snapshots": 1
   },
   "summary": {
     "posts": 1385,
     "users": 1087,
     "items": 9,
-    "likes": 20840,
+    "likes": 20839,
     "comments": 350,
     "recollects": 103
   },
@@ -26,7 +26,7 @@
       "post_url": "https://room.rakuten.co.jp/shiorsroom/1700384126707168",
       "price": 3480,
       "from_service": "room",
-      "likes": 633,
+      "likes": 632,
       "comments": 22,
       "recollects": 0,
       "detail_views": 0,
@@ -2336,7 +2336,7 @@
       "post_id": "1700386900243103",
       "created_at": "2026-07-25 15:10:38",
       "username": "hello_kiyo07",
-      "fullname": "きよ🌹幸せ✨皆様のお心遣いに感謝💖",
+      "fullname": "きよ🌹幸せ🤶皆様のお心遣いに感謝🎄",
       "user_rank": 4,
       "item_id": "P005",
       "item_name": "リノクル",
@@ -5243,7 +5243,7 @@
       "post_id": "1700381174585208",
       "created_at": "2026-06-07 07:15:06",
       "username": "room_cde038cb39",
-      "fullname": "★サボテン★⁂主婦がほしいものを紹介⁂",
+      "fullname": "★サボテン★⁂管理栄養士ママがセレクト⁂",
       "user_rank": 4,
       "item_id": "P005",
       "item_name": "リノクル",
@@ -26414,13 +26414,13 @@
       "item_name": "ハーブラピール",
       "item_short": "ハーブラピール",
       "posts": 199,
-      "likes": 4239,
+      "likes": 4238,
       "comments": 85,
       "recollects": 13,
       "latest": "2026-11-17 22:04:11",
       "likes_per_post": 21.3,
       "recollect_rate": 0.07,
-      "influence": 4278
+      "influence": 4277
     },
     {
       "item_id": "P008",
@@ -26461,7 +26461,7 @@
       "username": "shiorsroom",
       "fullname": "しい|お菓子と手帳好きな30代ママ",
       "posts": 2,
-      "total_likes": 675,
+      "total_likes": 674,
       "rank": 4
     },
     {
@@ -28260,7 +28260,7 @@
     {
       "day": "2026-07-01",
       "n": 4,
-      "likes": 647
+      "likes": 646
     },
     {
       "day": "2026-07-03",
@@ -28804,8 +28804,8 @@
       "post_url": "https://room.rakuten.co.jp/shiorsroom/1700384126707168",
       "item_name": "ハーブラピール",
       "item_short": "ハーブラピール",
-      "first_likes": 623,
-      "last_likes": 633,
+      "first_likes": 622,
+      "last_likes": 632,
       "delta": 10
     },
     {
@@ -29086,7 +29086,7 @@
       "i": "レチノソームショット"
     },
     {
-      "l": 4239,
+      "l": 4238,
       "r": 13,
       "i": "ハーブラピール"
     },
